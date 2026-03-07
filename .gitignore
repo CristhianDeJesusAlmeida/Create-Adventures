@@ -1,0 +1,9 @@
+/mods/
+/world/
+/logs/
+/screenshots/
+*.jar
+!/mods/*.toml
+!packwiz-installer-bootstrap.jar
+!/config/
+!/kubejs/
