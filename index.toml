@@ -10,6 +10,11 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "baaf1546156e5a307b2ad14be65549a677d1b4d7d433234214a936c3868d513c"
 metafile = true
