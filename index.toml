@@ -40,6 +40,11 @@ hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "19ee2739c4d135462767b6b78083e4742304924911d23c1746da5b863ed17008"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
@@ -100,6 +105,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/ec-ars-compat.pw.toml"
+hash = "c32f7ea017903787d7b82d732c3ee3a7f67eceeaa72d70827e0c297b3b8bdfc9"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "5670cd6431e854e77added63f3ddb9bb5c880c6271f91293b5b055af7ce8f454"
 metafile = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "276a01bd8812a9bd3619952524c976829e4fc93c2824e0af963cdfa2c407b331"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "a3971304dd3009726da723669265e434dcfc588a0ccbdb4a4bbecdf80692e6c6"
 metafile = true
 
 [[files]]
