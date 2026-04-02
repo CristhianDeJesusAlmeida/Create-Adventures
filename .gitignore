@@ -4,8 +4,7 @@
 *.jar
 !packwiz-installer-bootstrap.jar
 /config/
-/kubejs/
-.git/**
-.gitattributes
+!/kubejs/
+!/kubejs/config/
 kubejs/exported/**
 kubejs/probe/**
