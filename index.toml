@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "95acc7a49e977765c508d07370981cbe64dd541deec2faa796ef64d69ed6b117"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "24bdab64edf7e7152c5e3771606218e8fa6fbe8662ec60ed440d4868a6360c0d"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "81c2cd39e35b59026b323b39fe628eb9a98fc2472784f7a27b6e52dd6816e0c1"
+
+[[files]]
 file = "kubejs/server_scripts/teste.js"
 hash = "fe88d42245a8b5f78597487257651d3f8ff268955c2bc44ee3c673d10f51328f"
 
