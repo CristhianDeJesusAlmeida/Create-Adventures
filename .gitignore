@@ -8,3 +8,8 @@
 !/kubejs/config/
 kubejs/exported/**
 kubejs/probe/**
+!/config/defaultoptions.txt
+!/config/packicon.png
+!/config/client.json
+!/config/common.json
+!/config/web_server.json
