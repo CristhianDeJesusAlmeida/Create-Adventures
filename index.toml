@@ -14,7 +14,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "632cbe784886c8749fae74cb5125621b8597e0947a27042ec2e9756fe3fe629a"
+hash = "6d13cdcdce54f242d6ee04798a9301467a26233aad1960af725bae80b474e175"
 
 [[files]]
 file = "kubejs/config/packicon.png"
