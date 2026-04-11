@@ -49,18 +49,8 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
-file = "mods/ae2-things-forge.pw.toml"
-hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
-metafile = true
-
-[[files]]
-file = "mods/alltheleaks.pw.toml"
-hash = "536b4eb5f926560a305c25704c89eb6e4926b196006997b56375d0c04b05cf4a"
 metafile = true
 
 [[files]]
@@ -76,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "442f63958b3c890cfaf3aba260b6129a0fc167b536f146ba09c59c2eeaaf1120"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
 metafile = true
 
 [[files]]
@@ -111,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "19ee2739c4d135462767b6b78083e4742304924911d23c1746da5b863ed17008"
-metafile = true
-
-[[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "90b81c1bd8c7c60e5389a41616bc0c6f738d3fcef80c8857e80c17652f414a06"
 metafile = true
 
 [[files]]
@@ -260,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
@@ -306,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-oritech.pw.toml"
-hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
 metafile = true
 
 [[files]]
@@ -366,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
-metafile = true
-
-[[files]]
-file = "mods/oritech.pw.toml"
-hash = "0d7dba0ecc36924faa9c5679da36c0170750a66c638e28a1db51c9906ca03582"
 metafile = true
 
 [[files]]
