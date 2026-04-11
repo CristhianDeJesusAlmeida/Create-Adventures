@@ -309,6 +309,11 @@ hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-oritech.pw.toml"
+hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
