@@ -49,13 +49,48 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
+metafile = true
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "536b4eb5f926560a305c25704c89eb6e4926b196006997b56375d0c04b05cf4a"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "778fa4eda9d46a79ba4ae4a8425d5202bc584fbf5a64467588567bef5e458726"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "96354bc8654702df8ccc9ce6d91479e2e8fd4a3b60f5eb001ab761608de5c22d"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
 metafile = true
 
 [[files]]
@@ -69,8 +104,23 @@ hash = "442f63958b3c890cfaf3aba260b6129a0fc167b536f146ba09c59c2eeaaf1120"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "6fcc72bfeefe77c37dd4433c0b256708161d747708c9c3cb86843372d0733031"
+metafile = true
+
+[[files]]
 file = "mods/applied-kubejs.pw.toml"
 hash = "d2100277f0b2702f5edf2daadaa08d320f3fc9b16fb32ab24bfb81dc038db8c0"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
@@ -79,8 +129,28 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "35b47f710318d5735832732b27cded39e3a0714913f7929baecfed23598680f5"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemancy.pw.toml"
+hash = "b6c4ed2ad9588ee824b909902c95f90985456f1867c573036e6959108908eae6"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "0c9491d73a383a5971d8e20cd35c58411c15dc4ca30c9754633ef26e4a8f367a"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
 
 [[files]]
@@ -89,8 +159,23 @@ hash = "02261f67e57ae598614d40061c0b7f0c511a28bddcdc394da47a8c61ad209823"
 metafile = true
 
 [[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "f811e52a6f5ccba39060a3afc6f0d4fd1c6e11c9edfba49df195e1ca2d152da1"
+metafile = true
+
+[[files]]
+file = "mods/ars-polymorphia.pw.toml"
+hash = "d27c3146f8dc2face0cdd258bb7a9fc57308043bae378210f0bf3f4075827bc8"
+metafile = true
+
+[[files]]
 file = "mods/ars-technica.pw.toml"
 hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
+metafile = true
+
+[[files]]
+file = "mods/ars-unification.pw.toml"
+hash = "2eee918d967aef1ae2071d54d2fc078606adce59cd03dc6f978d6306d08ae46c"
 metafile = true
 
 [[files]]
@@ -99,13 +184,93 @@ hash = "19ee2739c4d135462767b6b78083e4742304924911d23c1746da5b863ed17008"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "90b81c1bd8c7c60e5389a41616bc0c6f738d3fcef80c8857e80c17652f414a06"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+metafile = true
+
+[[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "b0a66fb924438387fec0c230b16c52513d1abccbfcc3e90f41a44fb9b4de3015"
+metafile = true
+
+[[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "67cf35eb95a50f98225e443479652d30268a8c344194e7b93175272cf3bc9bf0"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "ef5c65c9ed5dc7e9fadadb3a78a794c433d074235447ca3f41729fdce880a0b5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "4416c1911dac506eed6162e8b66c966baec9bbb1e38ee9bc8570eac797d405f3"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "d683d988aa244a7b2677b35c7ca900fc7da7bd8f3cbbbb72fa36a33ea77a54d1"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
@@ -114,8 +279,33 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "868a9da73d6d8abe446616de5bfb1b5f32dd3f05b296373274efc661da8e74fd"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "58755a8908c4d73072f7d5e8c1b6bcedffa485c0bc121bc36f77845fa32fd0bf"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "307c3b45ac96da2472b9856d40c9c7986654f5a4d1507ade813c7995ed0de56e"
+metafile = true
+
+[[files]]
+file = "mods/crashexploitfixer.pw.toml"
+hash = "b8cdf32e77599797f3db000dd855907af7477fc17b94d39c7c2de40a82c1df0b"
 metafile = true
 
 [[files]]
@@ -124,8 +314,18 @@ hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
@@ -161,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
 metafile = true
 
 [[files]]
@@ -239,8 +444,13 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
-hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
+hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
 metafile = true
 
 [[files]]
@@ -286,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-oritech.pw.toml"
+hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
 metafile = true
 
 [[files]]
@@ -344,13 +559,38 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/occultism.pw.toml"
+hash = "1a21bcaa087fd4adce261e27fdf81295ccb9f4aca298fb47323dd4344fab821a"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "0d7dba0ecc36924faa9c5679da36c0170750a66c638e28a1db51c9906ca03582"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
