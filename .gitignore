@@ -14,3 +14,4 @@ kubejs/probe/**
 !/config/client.json
 !/config/common.json
 !/config/web_server.json
+!/config/ftbquests/
