@@ -199,6 +199,11 @@ hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
@@ -314,6 +319,11 @@ hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
 metafile = true
 
 [[files]]
+file = "mods/create-compatible-storage.pw.toml"
+hash = "5e6c61549caae38e8232f91a359956c1804a56aa91274a33338ac0ba80f62b59"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
 metafile = true
@@ -339,8 +349,23 @@ hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "f1058b2cdd30e361e4631b4d7fc389f9607f7f09fbbb59e31a7c29e13d29b221"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
@@ -451,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "590367627beaf24a765bac0b3970b278d242045ef095a848dfba0615ab449bae"
 metafile = true
 
 [[files]]
