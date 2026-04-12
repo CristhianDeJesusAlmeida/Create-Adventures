@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -596,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "1a21bcaa087fd4adce261e27fdf81295ccb9f4aca298fb47323dd4344fab821a"
+metafile = true
+
+[[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "6669208787e602470b78a125b753eb4f475d0612de2046ade88815ffca22e23c"
 metafile = true
 
 [[files]]
