@@ -59,11 +59,6 @@ hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "536b4eb5f926560a305c25704c89eb6e4926b196006997b56375d0c04b05cf4a"
 metafile = true
@@ -531,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
 
 [[files]]
