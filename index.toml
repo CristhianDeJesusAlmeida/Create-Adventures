@@ -247,6 +247,11 @@ hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
 metafile = true
 
 [[files]]
+file = "mods/clavis.pw.toml"
+hash = "e23bbe0380f7a11a679106e06dee17ac7a6f88dd22a290d8b8824351161f0dae"
+metafile = true
+
+[[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "ef5c65c9ed5dc7e9fadadb3a78a794c433d074235447ca3f41729fdce880a0b5"
 metafile = true
@@ -607,6 +612,21 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "b66363bc8af99fdca57b3ad7446e346cac6258e462d495327889fae99730fdaa"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
@@ -634,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "1a21bcaa087fd4adce261e27fdf81295ccb9f4aca298fb47323dd4344fab821a"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
 
 [[files]]
@@ -739,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "033a94ac760854132b03916fcb5a9305a0bded2e5d5457f8080c8fd33144026e"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "6575be1c3b60d04af68eb9ae40df3eebf4b481e801b9939441b98b044914d51a"
 metafile = true
 
 [[files]]
