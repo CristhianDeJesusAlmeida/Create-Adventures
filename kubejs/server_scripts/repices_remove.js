@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------------------------------------------------------------------------
-// Code to Remove Recipes -
+// Codes to Remove Recipes -
 //------------------------------------------------------------------------------------------------------------------------------------------------
 // Removes recipes based on different factors, it also fixes problems with automatic recipe generation from Create by changing the IDs of some
 // recipes and suffixing them with '_manual_only'

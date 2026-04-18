@@ -26,15 +26,15 @@ hash = "81c2cd39e35b59026b323b39fe628eb9a98fc2472784f7a27b6e52dd6816e0c1"
 
 [[files]]
 file = "kubejs/server_scripts/create_wrench.js"
-hash = "322b1cf483467908f99ade13c04fc7ea4ffdfb245fe00e5c1f91f4bdf7a38bef"
+hash = "2858df32dd132b2011bf2afeff9b48d9738db558570520caf23c9d27594e2c18"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_add.js"
-hash = "1f5cdac3e70366921384b9509c94da1ef0465653c8f205a0d33ab936525ea989"
+hash = "9bf0b34ec823b363baa0a410ab3da0cb154ed9c7d50405392a730e80e9165558"
 
 [[files]]
 file = "kubejs/server_scripts/repices_remove.js"
-hash = "fc8df7277eedd11958816de34c0506604ff827d0798d7d2088c663a7ef8f29a8"
+hash = "69fb9efd6e72c14c4846c08fb838b762de3f92fac947d7cac9d610eee450eca6"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"

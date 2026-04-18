@@ -1,4 +1,4 @@
-// Shaped Recipe Handler
+// Shaped Recipes Handler
 
 /**
  * @param {Internal.RecipeEventJS} event

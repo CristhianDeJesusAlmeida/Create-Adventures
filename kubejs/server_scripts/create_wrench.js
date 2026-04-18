@@ -1,4 +1,4 @@
-// Create wrench
+// Create wrench block
 ServerEvents.tags('block', event => {
     const wrenchableBlocks = [
         'minecraft:barrel',
