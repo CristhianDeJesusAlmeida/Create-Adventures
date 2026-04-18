@@ -1,4 +1,4 @@
-// Shaped Recipe Handler - ChosenArchitect
+// Shaped Recipe Handler
 
 /**
  * @param {Internal.RecipeEventJS} event
