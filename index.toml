@@ -767,6 +767,11 @@ hash = "033a94ac760854132b03916fcb5a9305a0bded2e5d5457f8080c8fd33144026e"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "6575be1c3b60d04af68eb9ae40df3eebf4b481e801b9939441b98b044914d51a"
 metafile = true
