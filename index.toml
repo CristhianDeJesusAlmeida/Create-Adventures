@@ -842,6 +842,11 @@ hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
+file = "mods/terra-curio.pw.toml"
+hash = "b6fd906ab0f2f0083e18d61e28236f24f73e3679ee1096962ce7f92fa82f95c9"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
