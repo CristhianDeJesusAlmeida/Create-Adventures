@@ -767,6 +767,11 @@ hash = "033a94ac760854132b03916fcb5a9305a0bded2e5d5457f8080c8fd33144026e"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "4c00caba57fa2aa18ebf941fbe897ab444252f6baf816f5d1fea9430ac5b3779"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
