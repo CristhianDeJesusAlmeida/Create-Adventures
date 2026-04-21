@@ -222,6 +222,11 @@ hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "b0a66fb924438387fec0c230b16c52513d1abccbfcc3e90f41a44fb9b4de3015"
 metafile = true
@@ -874,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "6575be1c3b60d04af68eb9ae40df3eebf4b481e801b9939441b98b044914d51a"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
 
 [[files]]
