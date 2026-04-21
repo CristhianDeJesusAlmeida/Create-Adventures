@@ -68,3 +68,16 @@ const shapelessRecipes = [
         ]
     }
 ]
+
+// MAIN RECIPE EVENT
+ServerEvents.recipes(event => {
+
+    /*shapedRecipes.forEach(recipe => {
+        robustShaped(event, recipe.output, recipe.input);
+    });*/
+
+    shapelessRecipes.forEach(recipe => {
+        event.shapeless(recipe.output, recipe.input);
+    });
+
+});
