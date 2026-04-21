@@ -217,6 +217,11 @@ hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "b0a66fb924438387fec0c230b16c52513d1abccbfcc3e90f41a44fb9b4de3015"
 metafile = true
@@ -628,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "4a38ddbeb3b985bf5a8275853cf4e5da7bbbe48c7671a3dcc20e3a0faa0d43b1"
+hash = "0c92a3670d2a7a0f013ca6741b75bd8b87c363eb3595d0d43a750b5fb09bf210"
 metafile = true
 
 [[files]]
