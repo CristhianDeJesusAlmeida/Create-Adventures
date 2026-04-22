@@ -877,13 +877,13 @@ hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
-hash = "6575be1c3b60d04af68eb9ae40df3eebf4b481e801b9939441b98b044914d51a"
+file = "mods/universal-sawmill.pw.toml"
+hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
 
 [[files]]
-file = "mods/woodworks.pw.toml"
-hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "6575be1c3b60d04af68eb9ae40df3eebf4b481e801b9939441b98b044914d51a"
 metafile = true
 
 [[files]]
