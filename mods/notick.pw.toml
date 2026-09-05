@@ -1,0 +1,13 @@
+name = "NoTick"
+filename = "NoTick-neoforge-1.1.29-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNQBF5dH/versions/USt0U5Z5/NoTick-neoforge-1.1.29-1.21.1.jar"
+hash-format = "sha512"
+hash = "5f34dcc8b85db3ff9b83ccee305934656a2c957e1bbb25e197005b37c5297b0098a721761a7315d5d0161e565db28f4971632694be7751a882e1d62fe7a8a4d5"
+
+[update]
+[update.modrinth]
+mod-id = "JNQBF5dH"
+version = "USt0U5Z5"
