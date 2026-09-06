@@ -11,12 +11,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "af5bc55ea66d0e71f85b1f8966e24f1f58d8043e94ed0e89eb52deda43770016"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
@@ -225,6 +230,11 @@ hash = "3218ff63291741de52c2a2cd9211b51cbbca305da1f0a45680b02fb5039fc8d4"
 metafile = true
 
 [[files]]
+file = "mods/create-oritech-compat.pw.toml"
+hash = "5a7ddfa185f32139c04995ea366941975c7dad3fb8bbd0ab7992b139983093fa"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
@@ -295,6 +305,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "944be63450453e84eb60f3fa965e70dab2c6605646703517acc15f2eca5cdacf"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "af8104f6a407333ecbefe9edd73ac873a77f59aed959913607ff808812de47d7"
 metafile = true
@@ -312,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "9ab20de2d63037f055d6b614013389e0198068bab536dfd62eebd913e5222fe1"
 metafile = true
 
 [[files]]
@@ -380,6 +400,11 @@ hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -397,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-oritech.pw.toml"
+hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
 metafile = true
 
 [[files]]
@@ -447,6 +477,26 @@ metafile = true
 [[files]]
 file = "mods/notick.pw.toml"
 hash = "15e661201ed74910c9b9d5e22025da4c4748974484e291b0ce6a807a4be60eb2"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
+metafile = true
+
+[[files]]
+file = "mods/oritech-black-hole-dislocator.pw.toml"
+hash = "613fdcdbed5678b462ca60fcf8bbde3bbb9664a38780d37dbe9a268f37f37b7c"
+metafile = true
+
+[[files]]
+file = "mods/oritech-things.pw.toml"
+hash = "84c1f8e25bf1e41e927c8f518296ac4a3ed4df6d64ce5ac1d08fce2403cf5348"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "dc8261e81ab435a29e3df7c4a5c4e06352b18f27faaa9d531efb573f2b4f7e79"
 metafile = true
 
 [[files]]
@@ -552,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
 metafile = true
 
 [[files]]
