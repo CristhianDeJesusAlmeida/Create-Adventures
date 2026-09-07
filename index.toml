@@ -613,11 +613,6 @@ hash = "a92d7cb5ebcc96a23c282490a93a05432a290f53577540ce21a1d7fe0474e39d"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-curios-compat-extended.pw.toml"
-hash = "9e2bde70d6174215d6493b879ab0d07544e715ef7cf7e49599e44424cfba5f98"
-metafile = true
-
-[[files]]
 file = "mods/epic-fight-mod-compat.pw.toml"
 hash = "8f37f2db270c1256e91395300d301ce0a31bb079bec24800bb476d08498b870e"
 metafile = true
