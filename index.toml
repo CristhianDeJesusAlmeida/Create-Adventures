@@ -1015,6 +1015,11 @@ hash = "ec1a263c37a91bac79cd13d940d05eb45d869850a97f613bf07756273095fe15"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
