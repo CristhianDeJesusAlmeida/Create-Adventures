@@ -648,6 +648,11 @@ hash = "ef756e81d0186b5fe3087cc431b4d90e23a6f8e0ff764f7d41a4393334546e3d"
 metafile = true
 
 [[files]]
+file = "mods/epicfightcurioscompat.pw.toml"
+hash = "09696b63faed3f980b5c49bdc5942d1181d615b5c2af4e2d2d7080c10f5572b9"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
