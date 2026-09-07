@@ -5,6 +5,74 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "b0f5cb633bab382a4e3542146de5e86176755ca3d5de3c7d5851f88f606d12ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/pt_br.json"
+hash = "0eb5824625f62238f731866ce26a8ea3d77222ccaa6cf4c0f245935e683fc3f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cataclysmic_mechanism.png"
+hash = "39ce276b926202fec4a8db82c652479521a9c28dd02e5448274580352b78e2fe"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_infused_core.png"
+hash = "1b9f4ac5d27362b13dd8a3bc6a3c6d75124264027df421e64fd4c5016ab089f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/kinetic_flux_matrix.png"
+hash = "d4aaf10beea84194fcdd18f68e41060a18c7b8532f86dad5a3d513fdc3a88c35"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/kinetic_flux_matrix_raw.png"
+hash = "0dc0b5a6f1b7a6f2737897a99bf80d7000e29ff5cbe8f3dba894314f3321ec0d"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "ae48ec118e097962f09f541dd233f1baf3dbb469f89b8220dd0d93d4df19d7f9"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "6d13cdcdce54f242d6ee04798a9301467a26233aad1960af725bae80b474e175"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
+
+[[files]]
+file = "kubejs/server_scripts/create_wrench.js"
+hash = "cd0e8e1ccf13d7300b752604faf2b2ad8d7edd64dc6e5f4c33a9d7d04952b2f8"
+
+[[files]]
+file = "kubejs/server_scripts/loot_balance.js"
+hash = "d88074621caed90753aafd46fadd2a7176203c067a05bc1e1df17c8853196a1e"
+
+[[files]]
+file = "kubejs/server_scripts/recipes_add.js"
+hash = "84a0d73d08c8d986e6754395e762442abf4a15830bb7c14d798f78dd007e246c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes_remove.js"
+hash = "a33146c3a1a2b613816a276daa7eecc82df6dac882424b37e30d0a23442bcb32"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items.js"
+hash = "2032631b52c0e6142ffdb347c1c06a1be23c454374539016cff7f5540b50e550"
+
+[[files]]
+file = "kubejs/startup_scripts/stack.js"
+hash = "cc10feb12f327d4a6d463843fef917d773332e1a2ce074220baf1f047a355036"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
 metafile = true
