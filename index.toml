@@ -6,7 +6,7 @@ hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Introducao.snbt"
-hash = "e50dd0d5da22027ad2e52370f0372c3a8a672379e0c34fc94f4582b00d194ebc"
+hash = "5819faba99a8d526dd4dd04d7b43c6790232a7cacee4a70e500bd71f31d9601b"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
