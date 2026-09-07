@@ -5,12 +5,32 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/Introducao.snbt"
+hash = "e50dd0d5da22027ad2e52370f0372c3a8a672379e0c34fc94f4582b00d194ebc"
+
+[[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "b0f5cb633bab382a4e3542146de5e86176755ca3d5de3c7d5851f88f606d12ac"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/pt_br.json"
 hash = "0eb5824625f62238f731866ce26a8ea3d77222ccaa6cf4c0f245935e683fc3f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/quests/banner_ae2.png"
+hash = "2938749804da46102136ba3b8d37b08208e7c3adcba12248fe139ff8a53cac5a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/quests/banner_ars_noveau.png"
+hash = "bc22f067f0c520ab1274247fb2b7eb3905f937c51cb3aa65c4830da1a4d59368"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/quests/banner_create.png"
+hash = "a81f153c3b0b4993e5b8cc2530e7fd2ea4e3d3c6bd03a470a1d09448a9c67a04"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/quests/banner_oritech.png"
+hash = "fa881c5c4b0ee5122c4782900f47d740ff6e48579dc5f5975751d26bc71355e7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/cataclysmic_mechanism.png"
