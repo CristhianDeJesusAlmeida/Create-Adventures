@@ -1,0 +1,13 @@
+name = "Polymorphic Occultism"
+filename = "polymorphic_occultism-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbrsl99z/versions/4INZhVpA/polymorphic_occultism-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "9eaaa160958b5bc74b5f0bfb439e8805612b3ad69d1114104ea7b2e1fb0f8e60681cf8486fafa4214783aa49fac326b41a09fbf324ce1ee80e46df75b5d28ea0"
+
+[update]
+[update.modrinth]
+mod-id = "bbrsl99z"
+version = "4INZhVpA"

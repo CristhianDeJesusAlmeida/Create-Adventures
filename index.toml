@@ -60,6 +60,56 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemancy.pw.toml"
+hash = "1bb8715ec65c1316ab6a982df05577a44b3a339813e8278b45c9952bfec65955"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "2dedbdaea212fc6b7327eb46b9d6ced3597aa0920ba1df19950a79ed408c5178"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "79b83cf9e61a927c48df33564bcf46f6e4ca861aa79249d2d6d87a99df09a96d"
+metafile = true
+
+[[files]]
+file = "mods/ars-polymorphia.pw.toml"
+hash = "d27c3146f8dc2face0cdd258bb7a9fc57308043bae378210f0bf3f4075827bc8"
+metafile = true
+
+[[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
+metafile = true
+
+[[files]]
+file = "mods/ars-unification.pw.toml"
+hash = "03e07c8fa82e986b7e2fb84ea29f1ce5fc6aabac4297cc07f1dc0088a567b105"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "af5bc55ea66d0e71f85b1f8966e24f1f58d8043e94ed0e89eb52deda43770016"
 metafile = true
@@ -470,6 +520,16 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b23f5a7defc103d67d16db0053ff2f6240436bb0d682f760865b590e3416a65"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
 metafile = true
@@ -530,6 +590,11 @@ hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "f35e905918b2694a543ca4bef5e90be9a84f966b80a5f486dbbab6cc015f07e8"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "7bdc8798ec7043f448b94683798acc93560e21b34677a39631af8120371192eb"
 metafile = true
@@ -542,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-science.pw.toml"
 hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "b8c0d5c9a69b45135efd1e4a329e455d884c3378c4ebe3e0ad5794b5ddcc1414"
 metafile = true
 
 [[files]]
@@ -570,8 +640,33 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/polymorph_plus.pw.toml"
+hash = "4b3012b5d80b0befdd4dbd9d3504fe1ea7516b76b2b7344c7f68cc7a7befcc17"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-occultism.pw.toml"
+hash = "4f066b9e7abdb0630c95ad540a9b73dacd05505c2411f9660c95fd4126b24f69"
 metafile = true
 
 [[files]]
@@ -642,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/starbunclemania.pw.toml"
+hash = "076c47a8fced6bdae716ae29814b218d562565ea0e34421dcf954b7525334d72"
 metafile = true
 
 [[files]]
