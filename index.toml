@@ -448,6 +448,11 @@ hash = "2ea431a8a539cf776e004d5f55260cbf60fa5d8e1f0a7f3059298bf59510e1c4"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
+hash = "8c8f015bcce51748c7d9b8c9e0a8b6cbe2a55c5afc5279d64d25930bb5b11269"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
