@@ -1045,6 +1045,11 @@ hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "902c397d5dfc69b497681ba71aa5b8a8a85479b1ccf25157867e4803c16dd65b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "ba33081906bd9d68f3d809da64a53cf84ce6bc499fbddf67c5d695aba8152d59"
 metafile = true
