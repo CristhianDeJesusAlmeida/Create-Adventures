@@ -1,6 +1,6 @@
 name = "Epic Fight: Curios Compat Extended"
 filename = "efcurioshead-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H3eYiOrU/versions/VZLLM0r1/efcurioshead-1.0.0.jar"

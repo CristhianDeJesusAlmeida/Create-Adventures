@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -588,11 +588,6 @@ hash = "981fb9251bce1e694272d49e0fc0f6b4632bd7ddc2f9f5396b61a365f2ab73bd"
 metafile = true
 
 [[files]]
-file = "mods/ec-ars-compat.pw.toml"
-hash = "c32f7ea017903787d7b82d732c3ee3a7f67eceeaa72d70827e0c297b3b8bdfc9"
-metafile = true
-
-[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "944be63450453e84eb60f3fa965e70dab2c6605646703517acc15f2eca5cdacf"
 metafile = true
@@ -614,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight-curios-compat-extended.pw.toml"
-hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
+hash = "9e2bde70d6174215d6493b879ab0d07544e715ef7cf7e49599e44424cfba5f98"
 metafile = true
 
 [[files]]
@@ -725,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
@@ -1013,11 +1013,6 @@ hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "9d9330972174ff5c68779f15ecd7023b357eb2e0a5bdc99b63ca7768e90616f1"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -1049,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "27c6365bdc19eff05f3231bff86a4f09b2d584fed40de92d67c00b4cbd52862a"
+hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]
