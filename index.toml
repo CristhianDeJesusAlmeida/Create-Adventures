@@ -705,6 +705,11 @@ hash = "28cca0c28a0eca84ec4f11919c17cd4fb417f8d4a428073278d1b3035336ff00"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscopecookery-automation.pw.toml"
+hash = "e5ecd7b66b29f775eac89dcc96d7ca3e27e9cdde958b49da4e12be4f613e5655"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
@@ -877,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-occultism.pw.toml"
 hash = "4f066b9e7abdb0630c95ad540a9b73dacd05505c2411f9660c95fd4126b24f69"
+metafile = true
+
+[[files]]
+file = "mods/ponder-for-kaleidoscope-cookery.pw.toml"
+hash = "37588381351e3321df456af475ab59ec1e5db8a231f33543618db7a06a1cf9a0"
 metafile = true
 
 [[files]]
