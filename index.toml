@@ -1123,6 +1123,11 @@ hash = "ec1a263c37a91bac79cd13d940d05eb45d869850a97f613bf07756273095fe15"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
