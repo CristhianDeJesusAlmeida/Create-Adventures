@@ -818,6 +818,16 @@ hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "85185cdc5645779fc908baf4a36babe71d4f4b15475b1f1a78ca98ce862a8e18"
+metafile = true
+
+[[files]]
 file = "mods/kaleidoscope-cookery.pw.toml"
 hash = "28cca0c28a0eca84ec4f11919c17cd4fb417f8d4a428073278d1b3035336ff00"
 metafile = true
