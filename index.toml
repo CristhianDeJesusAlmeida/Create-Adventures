@@ -948,11 +948,6 @@ hash = "79482771acb117d034118584d8931d750e67d8b1d9cefe8278759ef24a5522f6"
 metafile = true
 
 [[files]]
-file = "mods/neoorigins.pw.toml"
-hash = "6e2b7d374758615aa37a5f478d948b5db8920dd1c21837eee0fa25f9bd562072"
-metafile = true
-
-[[files]]
 file = "mods/notick.pw.toml"
 hash = "15e661201ed74910c9b9d5e22025da4c4748974484e291b0ce6a807a4be60eb2"
 metafile = true
