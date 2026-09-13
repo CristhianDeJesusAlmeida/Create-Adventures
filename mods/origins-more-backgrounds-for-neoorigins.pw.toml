@@ -1,0 +1,13 @@
+name = "Origins: More Backgrounds for NeoOrigins"
+filename = "Origins-More-Backgrounds-1.21.1-NeoOrigins-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc5f2893a1a90a53cfaf4fdf1fbe76f0feb2ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8816124
+project-id = 1578580

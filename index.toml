@@ -943,6 +943,16 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/neo-origins.pw.toml"
+hash = "79482771acb117d034118584d8931d750e67d8b1d9cefe8278759ef24a5522f6"
+metafile = true
+
+[[files]]
+file = "mods/neoorigins.pw.toml"
+hash = "6e2b7d374758615aa37a5f478d948b5db8920dd1c21837eee0fa25f9bd562072"
+metafile = true
+
+[[files]]
 file = "mods/notick.pw.toml"
 hash = "15e661201ed74910c9b9d5e22025da4c4748974484e291b0ce6a807a4be60eb2"
 metafile = true
@@ -965,6 +975,31 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
+metafile = true
+
+[[files]]
+file = "mods/origins-backgrounds-for-neoorigins.pw.toml"
+hash = "1f649fba6f6c28e0ab59a8545068bdd74b0a0cfdfa02e16a2312842acfaa36bf"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes-extended-for-neoorigins.pw.toml"
+hash = "a3891b7ee803e83800efac415c1e2c68db469e5cbf0a380752ac94c247ed6cdb"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes-iss-for-neoorigins.pw.toml"
+hash = "62a2eb405d6aef178c82b4d1792d43b169e158af46efa31b107fa43de49a850a"
+metafile = true
+
+[[files]]
+file = "mods/origins-fantsy-neoorigins.pw.toml"
+hash = "04eda411f3f5133b58b64cf315debf126e22c08750c576843adb08230b6d6c31"
+metafile = true
+
+[[files]]
+file = "mods/origins-more-backgrounds-for-neoorigins.pw.toml"
+hash = "981185b37479c270f15dde08dde1859a15350c8d2108ed385775b9141a0c0482"
 metafile = true
 
 [[files]]
