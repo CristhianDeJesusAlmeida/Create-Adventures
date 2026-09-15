@@ -1,6 +1,7 @@
 name = "Compat Bosses Rise + Epic Fight"
 filename = "Bosses'sRise_fight.zip"
 side = "both"
+path = "global_packs/required_data/Bosses'sRise_fight.zip"
 
 [download]
 url = "https://raw.githubusercontent.com/CristhianDeJesusAlmeida/Create-Adventures/main/datapacks/Bosses%27sRise_fight.zip"
