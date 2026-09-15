@@ -433,11 +433,6 @@ hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
-file = "mods/compat-saints-dragons-epic-fight.pw.toml"
-hash = "5fc17d55785811a3bbd1bbd4ddf87f5fac93e582ba1675fb5de7113fc16ebf95"
-metafile = true
-
-[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
