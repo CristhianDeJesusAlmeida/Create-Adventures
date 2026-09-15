@@ -2,6 +2,9 @@ name = "Compat Bosses Rise + Epic Fight"
 filename = "Bosses'sRise_fight.zip"
 side = "both"
 
+[download]
+mode = "metadata"
+
 [update]
 [update.curseforge]
 file-id = 8748891
