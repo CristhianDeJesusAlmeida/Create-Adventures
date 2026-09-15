@@ -10,7 +10,7 @@ hash = "5819faba99a8d526dd4dd04d7b43c6790232a7cacee4a70e500bd71f31d9601b"
 
 [[files]]
 file = "datapacks/compat-bosses-epicfight.pw.toml"
-hash = "1f5c6a5be44b6ca8063df3536d93687ce3285ed8f130150464f9b1b358f8b099"
+hash = "545a0d0d753cfbeedab1647cb0f69e2c3bc784ff32257e10f6277fb828284a44"
 metafile = true
 
 [[files]]

@@ -2,9 +2,6 @@ name = "Compat Bosses Rise + Epic Fight"
 filename = "Bosses'sRise_fight.zip"
 side = "both"
 
-[download]
-url = "local://datapacks_locais/Bosses'sRise_fight.zip"
-
 [update]
 [update.curseforge]
 file-id = 8748891
