@@ -17,5 +17,3 @@
 #Trancar arquivos expecificos dentro do kubeJS
 kubejs/exported/**
 kubejs/probe/**
-
-datapacks_locais/
