@@ -9,6 +9,15 @@ file = "config/ftbquests/quests/chapters/Introducao.snbt"
 hash = "5819faba99a8d526dd4dd04d7b43c6790232a7cacee4a70e500bd71f31d9601b"
 
 [[files]]
+file = "datapacks/compat-bosses-epicfight.pw.toml"
+hash = "1f5c6a5be44b6ca8063df3536d93687ce3285ed8f130150464f9b1b358f8b099"
+metafile = true
+
+[[files]]
+file = "datapacks_locais/Bosses'sRise_fight.zip"
+hash = "7b211d0ec5a2393612c1f6840ef98bde1f450a4f54e122b801ac322bd1545f8c"
+
+[[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "b0f5cb633bab382a4e3542146de5e86176755ca3d5de3c7d5851f88f606d12ac"
 
