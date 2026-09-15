@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/bossesrise.pw.toml"
-hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
+hash = "41679608577cd9aadf512999bdeb4690bce62393bdab682ec9c5cc306650c947"
 metafile = true
 
 [[files]]
@@ -430,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
+metafile = true
+
+[[files]]
+file = "mods/compat-saints-dragons-epic-fight.pw.toml"
+hash = "5fc17d55785811a3bbd1bbd4ddf87f5fac93e582ba1675fb5de7113fc16ebf95"
 metafile = true
 
 [[files]]
@@ -784,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
