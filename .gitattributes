@@ -1,0 +1,14 @@
+# Forçar normalização de quebras de linha para LF em todos os arquivos de texto
+* text=auto eol=lf
+
+# Garantir tratamento de texto para manifestos, scripts e configurações
+*.toml text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.snbt text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+
+# Tratar imagens e arquivos binários explicitamente
+*.png binary
+*.jar binary
