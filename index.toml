@@ -40,6 +40,26 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "6fd64a8c68d2935cbc62ca4346be2d3b702c05bc231f7bbb436bc3a4d8ab70e8"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "efad386063cb79013d7522fcc5b5879c5c3cd556e83bd41a56980632827b45b2"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
