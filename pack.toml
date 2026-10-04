@@ -1,0 +1,13 @@
+name = "Create Adventures"
+author = "CristhianDeJesusAlmeida"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "331b28385847c7e875cb7c7972d3bb41ceb9bb22005d2686fda93b511e563d94"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
