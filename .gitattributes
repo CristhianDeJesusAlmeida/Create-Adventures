@@ -1,0 +1,10 @@
+# Force all text files to always use LF line endings upon checkout and checkin
+* text=auto eol=lf
+
+# Explicitly mark data configurations as text with mandatory LF rules
+*.toml text eol=lf
+*.json text eol=lf
+*.snbt text eol=lf
+*.txt text eol=lf
+*.js text eol=lf
+*.md text eol=lf

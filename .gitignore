@@ -1,0 +1,19 @@
+#Pastas Locais do Cliente
+/world/
+/logs/
+/screenshots/
+/crash-reports/
+
+#Regras Globais de Arquivos
+*.jar
+
+#Exceções de Arquivos
+!packwiz-installer-bootstrap.jar
+!/config/
+!/config/**
+!/kubejs/
+!/kubejs/**
+
+#Trancar arquivos expecificos dentro do kubeJS
+kubejs/exported/**
+kubejs/probe/**
