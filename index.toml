@@ -55,6 +55,11 @@ hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/create-origins-compat.pw.toml"
 hash = "2676f91264a9c0f4cc501e106b8d5b276410955544996f45b9c99fbeee2c2e71"
+metafile = true
+
+[[files]]
+file = "mods/create-oritech-compat.pw.toml"
+hash = "5a7ddfa185f32139c04995ea366941975c7dad3fb8bbd0ab7992b139983093fa"
 metafile = true
 
 [[files]]
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -237,6 +252,26 @@ metafile = true
 [[files]]
 file = "mods/origins-fantsy-neoorigins.pw.toml"
 hash = "04eda411f3f5133b58b64cf315debf126e22c08750c576843adb08230b6d6c31"
+metafile = true
+
+[[files]]
+file = "mods/oritech-black-hole-dislocator.pw.toml"
+hash = "613fdcdbed5678b462ca60fcf8bbde3bbb9664a38780d37dbe9a268f37f37b7c"
+metafile = true
+
+[[files]]
+file = "mods/oritech-sable-compat.pw.toml"
+hash = "6022fe7aec6f34c3375856952b14a7cc1708d4ab19f36be2bab007ad23530805"
+metafile = true
+
+[[files]]
+file = "mods/oritech-things.pw.toml"
+hash = "84c1f8e25bf1e41e927c8f518296ac4a3ed4df6d64ce5ac1d08fce2403cf5348"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "dbb2a2fc538df2577ac83d9eb0d7d4a67b15b3e2f1570ac380dacd79f8ddc0a4"
 metafile = true
 
 [[files]]
