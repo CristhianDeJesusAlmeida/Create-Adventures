@@ -40,6 +40,11 @@ hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
 
 [[files]]
+file = "mods/create-origins-compat.pw.toml"
+hash = "2676f91264a9c0f4cc501e106b8d5b276410955544996f45b9c99fbeee2c2e71"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
@@ -122,6 +127,26 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d10fbef1555f5277563b9cbf7683811ac0f38c1af41646e6ce5c3aaa2149425d"
+metafile = true
+
+[[files]]
+file = "mods/neoorigins.pw.toml"
+hash = "2a967171e8ec4f54f37f95baaae79f9964f19d836ebe638e25e7be17527870bd"
+metafile = true
+
+[[files]]
+file = "mods/origins-backgrounds-for-neoorigins.pw.toml"
+hash = "cd1ec8ae752652a39efe21e52e326609eb861f778af3cc3b8eb3d0e0c30ed27c"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes-extended-for-neoorigins.pw.toml"
+hash = "a3891b7ee803e83800efac415c1e2c68db469e5cbf0a380752ac94c247ed6cdb"
+metafile = true
+
+[[files]]
+file = "mods/origins-fantsy-neoorigins.pw.toml"
+hash = "04eda411f3f5133b58b64cf315debf126e22c08750c576843adb08230b6d6c31"
 metafile = true
 
 [[files]]
