@@ -5,6 +5,11 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "1dcb802c746c037ee4f5e7f6fd0f2ef83809ec36db953c491939118136669709"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true
@@ -85,6 +90,11 @@ hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "402c11fcd575325433097a42c2d2fcabc67df6685ae07a6ca35ec4d5b0e94099"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
@@ -105,8 +115,23 @@ hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "3f717e3a10929f7a96d08611abc22a3d9a5a8a45a16a31ef7556dd690a26dbe1"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm_create.pw.toml"
+hash = "7780bdd786d16e74c107ac4ccd640ba2f3816e127ffa29b935e3e504eb4d3077"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "43e394e100190d49d216c0b646868ac134d3ae82f2361c3bd807ff1b1449c3e0"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9ae835550d113663b527b6ba934dd7d758d8e0a93c68bb44d84eb1ef1be69159"
 metafile = true
 
 [[files]]
@@ -151,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -215,6 +240,11 @@ hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
+file = "mods/gtbcs-cataclysmic-boss-ui.pw.toml"
+hash = "ecfb0a6592cf7eb815393a9433ad5453cfac841e12d8ad7a5e8563b517f4b0af"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
@@ -225,8 +255,13 @@ hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "3f8f749b654d18560d45dfb160e839566f72d9150e86f7f881c5e205f5660c55"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
+hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
 metafile = true
 
 [[files]]
@@ -262,6 +297,26 @@ metafile = true
 [[files]]
 file = "mods/kaleidoscopecookery-automation.pw.toml"
 hash = "e5ecd7b66b29f775eac89dcc96d7ca3e27e9cdde958b49da4e12be4f613e5655"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
 
 [[files]]
@@ -305,6 +360,11 @@ hash = "d743823561a2b3008876af95193e8521e2d6239bd9e8d9bc13db62441cc879ee"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-cataclysm.pw.toml"
+hash = "ad098b3920c466db203a22d2016efdcf8db9dd86c9397934692bc434a4278151"
+metafile = true
+
+[[files]]
 file = "mods/neoorigins.pw.toml"
 hash = "2a967171e8ec4f54f37f95baaae79f9964f19d836ebe638e25e7be17527870bd"
 metafile = true
@@ -312,6 +372,16 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "dc991b1a6f7b3d7fc0494392ee9b4f472859497f5cb894b4deda41b8196d862e"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "45a27246d9198e94f40f0b6c2bd36c1f0fd65d4ce8172ef51a72c856b035affb"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "2ed6b1ac983612afdae44e18d976967f28f2c48ed35c8aeec84e824c730faad5"
 metafile = true
 
 [[files]]
@@ -347,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "dbb2a2fc538df2577ac83d9eb0d7d4a67b15b3e2f1570ac380dacd79f8ddc0a4"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -405,6 +480,11 @@ hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
 file = "mods/weapons-of-miracles.pw.toml"
 hash = "495590cc80aa0e87f82da883e32b0166e6bbb5ffa8a3c5e71cdf72a87a0b6434"
 metafile = true
@@ -412,4 +492,9 @@ metafile = true
 [[files]]
 file = "mods/wet-backpacks.pw.toml"
 hash = "33108ad738818e6da32ded2e5a65b520a1b3cedaaef7069f9555d43f7be9ebdf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "13f3872896bc7f72e1a05325658bc093161de52cbfc16580002b51a74262db24"
 metafile = true
