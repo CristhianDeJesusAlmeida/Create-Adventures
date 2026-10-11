@@ -1,0 +1,13 @@
+name = "Polymorphic Occultism"
+filename = "polymorphic_occultism-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa79ebbecd9fc0f89e7ab67e71d79d866c3b7c35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8334978
+project-id = 1520561
