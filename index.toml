@@ -15,6 +15,11 @@ hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/appflux.pw.toml"
 hash = "c6aaee790b0cf08c2e71859e267c698fa454137d6afae3bd653f4744e955f40c"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
@@ -110,6 +120,11 @@ hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "11ab8a365c5bed4941664f25b31f51ee4db08885c49a0fce64cba5aa5555e2cc"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "402c11fcd575325433097a42c2d2fcabc67df6685ae07a6ca35ec4d5b0e94099"
 metafile = true
@@ -127,6 +142,26 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+metafile = true
+
+[[files]]
+file = "mods/bettertabinfo.pw.toml"
+hash = "23e957d1bba4cd90779a0f492f232bd9a65d401981cc797b31c9de7ec9cb1b92"
 metafile = true
 
 [[files]]
@@ -165,6 +200,11 @@ hash = "5324a274e4cfa6328e38b786f74fba9608640d7543c5f221d35fa75939af3aa2"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "89340330d49ebf646a46af0da4cd457c98e0dca4337490981421d86bfcd2fd94"
 metafile = true
@@ -177,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "9ae835550d113663b527b6ba934dd7d758d8e0a93c68bb44d84eb1ef1be69159"
+metafile = true
+
+[[files]]
+file = "mods/craft-config.pw.toml"
+hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
 metafile = true
 
 [[files]]
@@ -330,8 +375,18 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
 
 [[files]]
@@ -450,6 +505,11 @@ hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-cataclysm.pw.toml"
 hash = "ad098b3920c466db203a22d2016efdcf8db9dd86c9397934692bc434a4278151"
 metafile = true
@@ -517,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "dbb2a2fc538df2577ac83d9eb0d7d4a67b15b3e2f1570ac380dacd79f8ddc0a4"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
@@ -620,6 +685,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/voltaic.pw.toml"
 hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
 metafile = true
@@ -632,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/wet-backpacks.pw.toml"
 hash = "33108ad738818e6da32ded2e5a65b520a1b3cedaaef7069f9555d43f7be9ebdf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "dde31f05114c72cb2f58e522417487730b872e456f77fdd02c032c9235791f6c"
 metafile = true
 
 [[files]]
