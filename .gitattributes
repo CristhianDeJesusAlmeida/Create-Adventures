@@ -1,3 +1,4 @@
-*.snbt text eol=lf
 *.js text eol=lf
 *.json text eol=lf
+*.snbt text eol=lf
+*.txt text eol=lf
