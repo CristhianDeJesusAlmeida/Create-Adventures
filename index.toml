@@ -5,6 +5,42 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
+file = "config/client.json"
+hash = "6f7652c3a0c3f9dc7d0a6419cdd8fa8a51466fcfbf448db9d1d96a1ab9c8a419"
+
+[[files]]
+file = "config/common.json"
+hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+
+[[files]]
+file = "config/defaultoptions.txt"
+hash = "632cbe784886c8749fae74cb5125621b8597e0947a27042ec2e9756fe3fe629a"
+
+[[files]]
+file = "config/packicon.png"
+hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "4e5d2a296790c002a5f998d65331079c06aa1332416553ac2877b2f2541c5014"
+
+[[files]]
+file = "kubejs/server_scripts/create_wrench.js"
+hash = "71321ab04c3acffdb0b7a2f54c1dcd51a5b6bfa6d19b49dfd6d21702b452214e"
+
+[[files]]
+file = "kubejs/server_scripts/recipes_add.js"
+hash = "4649588c8e6e7539bef6a5c17d2d32e190f523eaaffce2270217b36150e0cd10"
+
+[[files]]
+file = "kubejs/server_scripts/recipes_remove.js"
+hash = "2374e92ef3ae4d1aaf8e25d6fc96dedd1a88f8b13f52943ed073e16c55c10c6f"
+
+[[files]]
+file = "kubejs/startup_scripts/stack.js"
+hash = "5097ab238af30b53962b58a9808b57e6a2c1298007942cf1660d325c08a2ef96"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "1dcb802c746c037ee4f5e7f6fd0f2ef83809ec36db953c491939118136669709"
 metafile = true
@@ -450,6 +486,31 @@ hash = "e5ecd7b66b29f775eac89dcc96d7ca3e27e9cdde958b49da4e12be4f613e5655"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "459198929fd6f66619a4128a51dab354ae03b7dd7d61cf1778a0c4aad38ba64d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "828f12a754a929bf2e955cf9d0acca4cbe305f172e94c556fe9b0704bcaff7e0"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-oritech.pw.toml"
+hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
 file = "mods/l_enders-cataclysm-delight.pw.toml"
 hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
 metafile = true
@@ -637,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
