@@ -6,7 +6,7 @@ hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introducao.snbt"
-hash = "5d8f227ca1cbb6e6712275c96da22ba2b6850c58191918f10fe014b074d613e6"
+hash = "5819faba99a8d526dd4dd04d7b43c6790232a7cacee4a70e500bd71f31d9601b"
 
 [[files]]
 file = "kubejs/assets/ca/textures/github.png"
@@ -1502,19 +1502,19 @@ hash = "87dd16bbe0dc989ab9c4a31e58d687752155f54a9e2d5ddd61ea30059e1e89c6"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "4e5d2a296790c002a5f998d65331079c06aa1332416553ac2877b2f2541c5014"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "6f7652c3a0c3f9dc7d0a6419cdd8fa8a51466fcfbf448db9d1d96a1ab9c8a419"
+hash = "ae48ec118e097962f09f541dd233f1baf3dbb469f89b8220dd0d93d4df19d7f9"
 
 [[files]]
 file = "kubejs/config/common.json"
-hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "632cbe784886c8749fae74cb5125621b8597e0947a27042ec2e9756fe3fe629a"
+hash = "6d13cdcdce54f242d6ee04798a9301467a26233aad1960af725bae80b474e175"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -1522,19 +1522,19 @@ hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
 
 [[files]]
 file = "kubejs/server_scripts/create_wrench.js"
-hash = "71321ab04c3acffdb0b7a2f54c1dcd51a5b6bfa6d19b49dfd6d21702b452214e"
+hash = "cd0e8e1ccf13d7300b752604faf2b2ad8d7edd64dc6e5f4c33a9d7d04952b2f8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_add.js"
-hash = "4649588c8e6e7539bef6a5c17d2d32e190f523eaaffce2270217b36150e0cd10"
+hash = "39d3bc93a42fb15ee8d04aca2285d18dc10c3bd9110f90a4ac84fb6a6b074809"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "2374e92ef3ae4d1aaf8e25d6fc96dedd1a88f8b13f52943ed073e16c55c10c6f"
+hash = "beae40fd3dd359346db2279a6c007e46bb941b4bd07f3c7113026da94fcf952d"
 
 [[files]]
 file = "kubejs/startup_scripts/stack.js"
-hash = "5097ab238af30b53962b58a9808b57e6a2c1298007942cf1660d325c08a2ef96"
+hash = "cc10feb12f327d4a6d463843fef917d773332e1a2ce074220baf1f047a355036"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
