@@ -5,24 +5,1520 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
-file = "config/client.json"
-hash = "6f7652c3a0c3f9dc7d0a6419cdd8fa8a51466fcfbf448db9d1d96a1ab9c8a419"
+file = "config/ftbquests/quests/chapters/introducao.snbt"
+hash = "5d8f227ca1cbb6e6712275c96da22ba2b6850c58191918f10fe014b074d613e6"
 
 [[files]]
-file = "config/common.json"
-hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+file = "kubejs/assets/ca/textures/github.png"
+hash = "eb65b1c29e48f9162933bcad7d90e1bc62db181b909c35a2895ea07cf07fdbb6"
 
 [[files]]
-file = "config/defaultoptions.txt"
-hash = "632cbe784886c8749fae74cb5125621b8597e0947a27042ec2e9756fe3fe629a"
+file = "kubejs/assets/ca/textures/mods.png"
+hash = "962ac92abc24f7b42e66c55bda2e0e20213a847e54c9b8eda23192523d27ff20"
 
 [[files]]
-file = "config/packicon.png"
-hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
+file = "kubejs/assets/ca/textures/multiplayer.png"
+hash = "faab743b2ace4be19fa218381fabf507ba27c1e233e9344654027ca430777350"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/ae2.png"
+hash = "2e113e94b06f0ec198b8faa2cd4c58f937ccfffc0a6db7aaeaf8fc4bce1599f0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/apotheos1.png"
+hash = "947197a267a58d4f8e8d7646b130eb4bce55b016c638f5a83019f6d831ed29b7"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/apotheosis_gear.png"
+hash = "01dbbb996a64c887efb3967a6bc1ba9a2b785fd732635066c6025c777b6b0258"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/apothic_spawners.png"
+hash = "c434b06cb7927021ba0a7372e231e3b6a44e8b23f5184506eb8381f7dd276926"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/ascent_button.png"
+hash = "bd945f0daaa5ca9b15b9773b5d65d1be1cbcd7d76b94acec6ae3e943de3841ef"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_arcana.png"
+hash = "adb066afe6f396b77c1666a2af061c6fd8eb902df9ed7c39041b215ee54709cc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_deep.png"
+hash = "e69076de0022538d1282072ba59e021dcbfd43d8b55df8edf0d990cdcdcd854b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_deepshelf.png"
+hash = "1905a3086e9e3567462018c0454555d6061c06928534bfd6e7935a6389c5b789"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_end.png"
+hash = "b9d7c277bf400f7676d6677fde22cf0ddc493a1c608797f62cee6f402228014c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_endshelf.png"
+hash = "da13840bb82a7b20db98bc086c72d829b07335c9b57157cb21c49c5698f2d212"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_eterna.png"
+hash = "908a0d15dda0d242f42c68544c0d2a675969e8d135bb61e11a17c207929e1d7f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_hellshelf.png"
+hash = "c49834cd1e6b07431ea77fd4e902538ced092c5f18a5c16657b701ad130c78e0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_infusions.png"
+hash = "641a19c84b97f411e62355c46415d8096483bda3d3cee3d59be43f4af4989066"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_max.png"
+hash = "268cc1fe279f2e26d4f74bfe076a8f0dc5a42bc00ec6066612fbe9e6274e8f50"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_nether.png"
+hash = "5333aec3a92fcaf08d57064ddeb8a195f3aa676b6c4379dbcd06a865687e8a5e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_ocean.png"
+hash = "9af293c0519db975445e5e7b70c010231031a8af037a0f2519336277ef8ad1f9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_quanta.png"
+hash = "42b86da51a71cfcd84db0883dd34892dc907a75cefe136eef87b9bc89b4aba30"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/enchant_seashelf.png"
+hash = "47825d1445265f69df9277b96506c1d2e86310785ad7e509305b5d56b102179a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_augment.png"
+hash = "ba972eaba0f090efaabc18fb0e8ee16caa7b5da18b81b80660ab60458773d048"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_gem.png"
+hash = "3a8ae8a6fa9ab755571a6abf80d4b6e567ce042d42068c28b6558b775cad302a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_reforge.png"
+hash = "a8ec5638b1bfaa7b2d8c642d4182cb093b325fc4c6ca339a43dd1470c68c6d11"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_salvage.png"
+hash = "eeee8b1adc8a53d3f4527808907afc948b148728bbe624a540d3a2a337978420"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_sigils.png"
+hash = "c00e0d8ed9fc49d5f20997eace63f4d92e3521e95aad665913a060a7652bed17"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_simple.png"
+hash = "6747b6ab8683eb3c79283ad24f4765d7fe2181d69e77a206e7d890a15e5a2f2f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_smith.png"
+hash = "23f109d976830d38b29b3435ce488426caf3804d0c0034c1b49ef80c1904e342"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/gear_tiers.png"
+hash = "27ccfbeb80394eb7739dc7d96d6fddb362bb9962b84b1c99199e25e2c8757e0f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/geode.png"
+hash = "d5dc1a58b60943de391edacbc964f0566d9020fa8b8e4dc16c458786578d8180"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/logo.png"
+hash = "7008d3d7fea0a719030e5d4946458b77654182b92ccb0aab31222f190f2c16d0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/other_spawners.png"
+hash = "ab7ad818a21831f6eee9781b4104c78040b185f64cbffdf883c2e461a84f81ed"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/pinnacle_button.png"
+hash = "30ec6109e19d28442e31d8b015d5a5018edcb6df3895051f2206164c681f0ce2"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/spawn_eggs.png"
+hash = "73f13a8e2673ba2c1fcc81003085722c80838ad6ac1ce6d0436abc9a2cd5aaba"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/apothic/spawners_title.png"
+hash = "38fbd18ba9e8508eaad4972bd255d93937c54676954d9214ba38c6f5d96b3159"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/ars/ars_nouveau_title.png"
+hash = "7ccb43ec27bac5dca562c3fb119df67567bbcc6a36a06a3b284d7ee36a7b21fb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/ars/enchanting_app.png"
+hash = "e2c146159e9f76a593c4bef195ac0c6945ac65b8390e9ee5211bff93f2ad221a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/ars/imbuement.png"
+hash = "c114fb29ba8bdb555645e91abed9bb4531db980954ceca596699e82dec66c359"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/ars/spellbook.png"
+hash = "6ee2e2ab5a2f695279c2f4833ba4c866b1ce2554b02e1bd6570d542de861e511"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_belt.png"
+hash = "00c7b6096cac7ab035be604688723c012d00f0e920208a859e86975c79151c9a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_cowboy.png"
+hash = "cf93b9ba8d408e87d30ff3f83ca74b4be07331717c12e79f9f0cae2910db7ac0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_feet.png"
+hash = "f087639e9b6834d9a95aa44fea7ea5e4fdd620225c4c86aecc390933fedec640"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_flameon.png"
+hash = "9a650845871308779aa44f49e514bca8a7f17deeecf93aeb630b09c1d4825fcc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_hands.png"
+hash = "977eac1bde0a92a1796a41680204ab760a1e6610eb216a711e2a46fee7e11d5b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_head.png"
+hash = "0c518ecb0115a352fb57469b63590810999e9983e52b24fe667e0cb403de4532"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_hungry.png"
+hash = "d8771f2d4fda2e452c47785f32cb9c26442b3147f18387e44a63c88d629aeefb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_lucky.png"
+hash = "018869a653149eaf60dade835dd164d3a4cf987c2aa8064763dd0f75b27ca3c5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_necklace.png"
+hash = "a702d0cef584ee5971cf14b3189525aa25ee34324a2b2ab907962979b972e256"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_pool.png"
+hash = "db54968f4eafd67e274b9fe76da2ebc3d34b9b7ca2c0dc5e7e34e3add28103e9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/artifacts_title.png"
+hash = "d8933835db28fb6fbe32098cb49d8b9dfd61b699572c52b7f1974c68ec66d102"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/artifacts/feet_olyfans.png"
+hash = "f087639e9b6834d9a95aa44fea7ea5e4fdd620225c4c86aecc390933fedec640"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/bounty.png"
+hash = "848efad69625022f9e122170b5a26aee7305db84273545750cd6d8ae7fca5144"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_abandoned_spire.png"
+hash = "3e977f32612e0f670620e479fa4e9ec5f292edeeb71e047f6699c87f48aa1a72"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_abandoned_temple.png"
+hash = "af0529a857143fc390b4cee06badd7a2da10cdba0635b806bb8fa6c3a60bb9fc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_abandoned_village.png"
+hash = "a8a798915a814523f33720772a731266cdd2595b9bacedfb84f04bf00c28c9eb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_acropolis.png"
+hash = "928aba9d546d3be1fd779d39a5183f2f108d114cf3b06e63cf2508c39b59008e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_amethyst.png"
+hash = "7d86951e915d4699492f84d5d9c9b2e566bd96406e013303d6cff190ebf51d0f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_arena.png"
+hash = "486b63e57e18343c69470582ac67e6d8f3d68169116d98c9a1d92f6a720b3a91"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_guardian2.png"
+hash = "86b209647c23a4b27940df50b903895b2f3ed90269c4dd8b296aac920167c439"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_harbinger2.png"
+hash = "be636e7517f3ae792f27ab9a627f305d0d9419d3b46c9b876d8206d918c8432a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_ignis2.png"
+hash = "85355ae0efb369cab310ce17ff2999a5c5bafd8d0052c593fc5365eadc090820"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_leviathan2.png"
+hash = "2cba337ac7ca241cd9bfd9ae2c3a62379f67b47c326499c94055b7453c599e12"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_maledictus2.png"
+hash = "e9986de9ebe6787740b17005255298e36f7167ca4fd177f2e5dd68aa2eadb4ce"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_monstrosity2.png"
+hash = "ebb4587b074b416807965ad869080c8181837e0dd6ede28664043dc918b61505"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_bar_remnant2.png"
+hash = "5c6f887c80b6576e8443e43c37aff4e7335bba99747f3937e9b1e72a2eef084f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_blacksmith.png"
+hash = "94b590261277b6ed8c18c9793b5df4a17c0fffc7ddc1a4686e079ca1b1d3d566"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_citadel.png"
+hash = "0f6650ec7d39c856d9c6dac04e25364e4be6b59956340e4c25fc04fffc5a2343"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_city.png"
+hash = "f8302088c509884da3d882aa50f22af7a0a9a73247dc504c931f81ad14441ef1"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_desert_site.png"
+hash = "72ac4935ed1485cdba71ad3276d71305f9651cd6b0f7a5a0e72de6be8ab3b3cd"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_desert_temple.png"
+hash = "375a51776c2eb2f8d947be2375300547e493387956655e9b194c04dce4808c52"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_factory.png"
+hash = "d4132ad6d8bb312f26752f82f18c927848f62bbb53b7d18d040e9b12fec9a849"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_frame.png"
+hash = "a38316478d65d2bb2f01c74fc9f170f489bbc98c9bbebdf218ffab825f908f82"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_guardiuan.png"
+hash = "3b8952d0e29b793d822b0e13be210b7fe03bd0b97338d9a6e875029d604139e7"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_harbinger.png"
+hash = "098cd8d0db78fb32f604e7463ec12c45a19ca447aad9413c07dc40ffc17e8be3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_ignis.png"
+hash = "07c8ae077ba02e40e201ec86a2b365be56e4e403d237a2b2ad134755d3f734e9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_leviathan.png"
+hash = "6317028fbb97e271c63c90614a570922463eb31137826538c98b659b8f812224"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_maledictus.png"
+hash = "d8f2f11138d4b490b367506a94580403ee79a1f4b89ec53d37495eb7f6cf0fab"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_monstrosity.png"
+hash = "27cd3e80ac560f8e5165be2d841fddfa778fd5ad894b09f2da4cbfac43edcace"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_occupied_village.png"
+hash = "bef271ac57e768d6c9b1ac7d910bfaf65db3c35290b7945d5706c7fbb86114c3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_prison.png"
+hash = "5f9edae7a86c53271ff6190b0b1c05448c83a1ae9a27cf942207437eca824c3d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_pyramid.png"
+hash = "b6a18b6e8b04e3efee890b1f39d9491d8bf13caa2ed40ae4519222c63241b727"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_remnant.png"
+hash = "074d1c02cef86ef19a436fe664b2ae000b90f5b728bb029d6dcda325fb6ae339"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_scylla.png"
+hash = "cb8c9ed24494df8587360d6f19ea949396352bc6cf3cd95cd8666025c354bb91"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title.png"
+hash = "9331a317b7ba9b46d4f090a442847c501f5a666415c1c273f08d25dbc67bfc78"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_guardian.png"
+hash = "8ed41d16e50e68748ce970ce24dd8b4ca7002fb9ada4b98c503434ecaed81e4c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_habinger.png"
+hash = "647dd217325be89149c1f5d914afa0264669716b87b21076c83ae7632ed41056"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_ignis.png"
+hash = "f90b267c8c36f87e7420a1b67d51510d5421146aa3706281aa8bfc5d2abcab0a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_items.png"
+hash = "b6c6747f30a8e434fc5b0d137c99b4aa5437d7a6cafd18d7ac59cc5158856d42"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_leviathan.png"
+hash = "8b08d0ad60002e5b046940cfa5c869cd9ed8ae06d4f95ea40d3e2d8d15aa1aa6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_maledictus.png"
+hash = "ff98f453341f0c5d7f038e15ff645593d82cb267c5402860cf8a0d66c89cbac0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_monstrosity.png"
+hash = "504b33380a744eca648430a0098ae0b0408f11607fd7de32458c5abb35631a65"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_remnant.png"
+hash = "b4a09dcb42020635f414bdc101185caef5a2f6b5d9bdaa77a0f1035057f020f3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/cataclysm/cataclysm_title_scylla.png"
+hash = "34304d8472bcdbe9a9af0c9daf1c6e0ba0f3b0b38ad8e5ef5b4420c301da34a5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_addons.png"
+hash = "ded49131da988a109c95fcd9db1da58332aa79670b0bce96f18f20cb2c15cd2b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_air.png"
+hash = "510a8a4504ae6005f434d59c7edf28a99319c52a80449a15c63319f2e4cf95f4"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_balloon.png"
+hash = "7b36e53852ef530b5ef2b1bde470130c4f02605ac24213c703b0733951fa6673"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_blackhawk.png"
+hash = "5bdf45fc38e6199b2542acfef1bc990182513ab0150667e4485d030a83959429"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_cars.png"
+hash = "f5de2f75f86937e29bf3be115e64205ad98c810494b95e45b66efedb835245ab"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_energy.png"
+hash = "445e33db76e66f4f99edb5bf4e22baf27dd26bcf55660bb66a2c6d7ee3320c37"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_extra.png"
+hash = "95c1dd21df178bc95f8ae3588a4e72905127619574df019061c67cc13dc4060d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_f15.png"
+hash = "39a700ac68b65cbfe46b3c9f8883196fd6d96d84e6f1cca4fbca70b71f29533b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_heli.png"
+hash = "1d3c071e497e6342eea4e4a0678da218af8cd513d335ef40923293d2321641c6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_hover.png"
+hash = "d27ae2968a203a48830117665a42e08b1e8d9be159e0445f6ed78ade08e409a6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_planes.png"
+hash = "b4c14ab10610044a1a7fffe3f1cd61ac9283cb0f6a1f89aa62ae5509587e2a63"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_power.png"
+hash = "ec36db6ecbab34aeeeab42d79e1bf030dd126c85634cfba012200095011279a8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_redstone.png"
+hash = "f4ab9faab74c2c63d4a047e972139314437629c19cf8e99303973cabe047aa97"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_thrust.png"
+hash = "c28dd6b7bd28588ca0e2591a58c2a721abd3252642e08544b02834bb14bf03df"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/aero_title.png"
+hash = "fcab5030be9d646abef2d5bf5cd0b64647aced2ebccf8bb55364fc9f98f857cc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_background_title.png"
+hash = "6879ae48000351550e6c185d8ac376e81f67b09ed388d8914e07a06d684988fe"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_cog.png"
+hash = "3d929667977e1fa036df3be654ee98dbb1731b1514ea38a91e1b6a49c8832f86"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_largecog.png"
+hash = "667a8b257805e6f19ce10613c9d4c5787ac557050f8c1ee27693973160bf547f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_shaft.png"
+hash = "0244b3ea0814f24f88056dc43acb54b8fdc0cf60d499156d4dc75e217e00e7ec"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title.png"
+hash = "2140ac5e11b89a144aa187f68df2e617d0a9076d533673effe23d9d6ffc18c10"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_contrapt.png"
+hash = "9480c43f14552b256f6685641fc02459b821a984b4b0aa5033ca0ce05160fe9f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_fluid.png"
+hash = "3c8a1dbd57870f99040d648ea6bc271c8121a5075f16ef5c226e6fadd866c03f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_item.png"
+hash = "7307ab554eb6a4676a3d1a5d15138ad334d865b999ab8d55329d730a70d0cf74"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_machines.png"
+hash = "e5367232aba5d1fcb54a2916ae91b3c44c1829189cd1bc8c4ce3a635beb424fe"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_power.png"
+hash = "3b46d05a82122509281afcd4a13bc48fe03c07efb6890f2c4ab3648bb9dd0a13"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_tool.png"
+hash = "c1854835438853e9cee6b427f51350db564a76464a10ebefd5dbeb2c024bf860"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/create/create_title_trains.png"
+hash = "89e13374996d55aedaf1fbafb605e8828de1038db01da683f1651c2ed1102048"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/enderdragon.png"
+hash = "75cc443d4600a888a8043085cb69ff600a70fd4ff4d8ed361c9a95c4cbc1c855"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/extended_advanced_ae/assembler_matrix.png"
+hash = "d1b6f333f0fc28506fc6991f9e902ea442e457128a581793ebe003eec9846655"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/extended_advanced_ae/quantum_computer.png"
+hash = "76590a7905ae16c67264966e4505370363817e5e6cbc90d1baf301a51137878c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/extended_advanced_ae/title.png"
+hash = "31e28497ec9937b651d017024ce8139404047f3724141959d4225c0767637d48"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/food_and_farming.png"
+hash = "b16445023b182eb8a74e8ece2d9c5c8981e4aca8acded7bc9432de2f1410bfc6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/helper_arrow.png"
+hash = "f924c8020f06a3a38f2eb44d7738a0fc9dec7fdd215004e626ffcbfe3d5a8037"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_alloy.png"
+hash = "7fdce8847f36725daa6b249ad8c1b668bc9a299b1c48ac8366643b936cd8917a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_alloy1.png"
+hash = "9de59c33fdbe0f54597d323178e8f5cb14db1d3016ca46ab6366275985716f6c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_alloy2.png"
+hash = "03e60707f5082d05a3679cd034668af84efe825787299283dc3914ea023f58e9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc.png"
+hash = "8dea228f7c7a5a56e3d8438edee4b35cae177e61c7996f03d0b3711bcb3d979d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc1.png"
+hash = "6eb23001824f89a53e2f0aa7c63b65d38debd462b37f15ffd7001a3c73eeec84"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc2.png"
+hash = "053f0bbfd7a5f23e837b745067220ddbb81ce6eba99d2a3950b72f75f444d75c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc3.png"
+hash = "cc573789d545a9236a9ec763c92491baf72ecb60e8b19d3922de546a54e303d8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc4.png"
+hash = "0f972a318b0a3d9ccb5d02cad2d12761bbcee499077dafb998ade184f20ad3ce"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_arc5.png"
+hash = "8346d97e2c413fb36d354d20c11835ac4dfa5a2776b2c10206c52f8b4ae18351"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_assemble2.png"
+hash = "9fce027a8f0357405a3bd3a4457c11b6ed1c845722f646dda7f8658ce5263815"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_assembler.png"
+hash = "5d98131f81c6ba84136589c3a0cf0820ee46d6114029c35db52e5c77fcc151a9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_assembler1.png"
+hash = "eef3ef0b4c30a13f2427a7d16eff589f7a4c4c87009bc06f954687526702eb50"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_assembler3.png"
+hash = "13541f881bdd16254ca18630c52d6f5496fe12e3cba2dd426964425171d58dae"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_automated.png"
+hash = "18b7f44d7e10a3a5c2abc9b4f250b5508834105b602b02aff494a4dc1007a8e8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_automated1.png"
+hash = "8fc1a4b65ac38ddd187053214a237fca00cd86ff3382f482d2bef2c7770a5154"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_automated2.png"
+hash = "b04e5085d4d7c551d20af2aee13e643b1a0a2462643f5b10e7b87dacbf4276d2"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_back1.png"
+hash = "1a1a8c0fb98af727c27ab99fb40de72616f083fd63a832e55f09188dd3e058b5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_back2.png"
+hash = "e4d244da8eb15b0a6286f8e535e3a00026465771abf274fbb288e2110fe4d2b8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_blast.png"
+hash = "bce5eb3c67e71c1cd73df4184ba79a76aa697fe4c27e83e52f513ca9b9c77654"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_blast1.png"
+hash = "7290f609b5d9a9075141be14523afe99a986aab7694dcd7bed81e9eee37b40ca"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_blast2.png"
+hash = "e599a79b4900de1942d6aa9bc30702ceb69f683b09f55d8f18fe88d88a51797f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_blast3.png"
+hash = "1f06735fca8dbab8e5fad8f4f450ca5e5cda358490e17f8f60a57ada5208b1d0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_blast4.png"
+hash = "371ee40a418d62f890fa3986422c303f0ac8d9d29dff8bb2dbecbc388dc9d4c0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_bottler.png"
+hash = "20efa393a5f75c36388ca6b6b13d6620b309de8c1af4ac83aec16a39bd71ff3e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_bottler1.png"
+hash = "21875ddabf44589d11f4e0da3eaa74fc33fdf90fb4d76776e80f1fee50efc730"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_bottler2.png"
+hash = "3b7427866fff19a5c4475689090ae84f7e8f939369034dbf55f361a37099e3ad"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_coke.png"
+hash = "57b6ad36910853a8e09db2cc0715e7eea4177bab9362862e6959a676b8ccc4a7"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_coke1.png"
+hash = "bfa477cbfb455b609aeb554914a536c80f7880ae230f3d14bf909858cf5a2784"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_coke2.png"
+hash = "131c909f98149aab8ec979a8d4fa3535aa26f2c5591764ecef41c27832588b31"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_coke3.png"
+hash = "9dc5a30e466f8815e52f8429abfcd2f88aa5a900406eece3ab798f7133477d4a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crude.png"
+hash = "4f78b4b750cfbdcb3d4d46e54870755647daa4df01a91b62dbcc7f0f5978194a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crude1.png"
+hash = "4b99754c9db40c820c52aeb7f99d193244e749d8f5a2bb6b196f896e49eeced3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crude2.png"
+hash = "a09c66ae62f06c165139d7a930a995686386c1aeef0758f940d98545443f916e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crude3.png"
+hash = "441d3348aef94514712a8a27f75d6db40d20f77f116101ca16e29f00bea96683"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crusher.png"
+hash = "c08450cd928331ada4760d67e97bac97b1298f1ff9cdf6629d65f6d962f8629b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crusher1.png"
+hash = "88d01fe57146385a935d01a920d9dea0e2ad309ca8b2236f719d452530e84292"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crusher2.png"
+hash = "03e68599a1936ea49808984b39a541fd85c8a8b17c46dd1ff63abd0e156b8690"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_crusher3.png"
+hash = "2275b9dde9830599deb6d4f5ea12b7fcaad073a00340b5db4aea4073edb62419"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_diesel.png"
+hash = "56c7326f890c85fd9247f951be7133ae2ac0dced42af0b94ddd00348a8a26a65"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_diesel1.png"
+hash = "7c624774765e66aa166ec6d52043b3cc59474ebd9ff3c78814748963549d7a77"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_diesel2.png"
+hash = "63a8f678c800ff73c527c6e3c9ac548333e544621f61fc3ef61edcd7a8de3519"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_diesel3.png"
+hash = "013b91143b93e56470e6c696216678273f2f8e866c2a247807b5ba095a84be93"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator.png"
+hash = "b8366095e400447c3463913cf090812776a9b0326638cd6a69d877e08a5df38d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator1.png"
+hash = "52eac928354aa11d34676b697774253af48ecbc88603ccd451168a63e2f22826"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator2.png"
+hash = "08327aee2b29ea578c0f1872511772884d3468b2820fb6d8e7db71e25cbe2c59"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator3.png"
+hash = "00d9e6eec68eef174f1e37c7bbca35d48a82854241f7f8ef0f94222b754fe815"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator4.png"
+hash = "942beabf72b50fc49ceb28db07303cf84f0e2418abe602eb6958c48c07362106"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator5.png"
+hash = "1f78cda73abf71300f6634810601612b3213e61cf78a7d2ea00ec76f214c0149"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator6.png"
+hash = "9ff42f6784fee98bb35313fc186c3453891bf01e326f74ef874e75e9cd78022b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_excavator7.png"
+hash = "c06795a5dc055c4492d18c7fbf35030e7932d639d522fee376e186c2070e6dba"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_fermenter.png"
+hash = "8cb24e91a95713d15db919dbf76ed7eb7bc03ac5b9dc03d3f7c2956efb610660"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_fermenter1.png"
+hash = "aa4941ffa24f65c379fb4331e9f746d2220b4d3da225968b0c4d622230c78799"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_fermenter2.png"
+hash = "e012a259cc5a30fa0737c331b03178328a67fb194d2ab024ed59910fc99544f5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_fermenter3.png"
+hash = "ac5f82a9a36744f587448ccf8a5648d936dcfb166f6a6044d93fc055ba3fb85c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_lightning.png"
+hash = "9506df0c4a832d9775e35bf8bffdd25cafb1aab58b9bd70d8d2fd111a50a3510"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_lightning1.png"
+hash = "45d5a5a84713a0c393cf5f0757f39b65a84f89a162dcc743c5f9fa7dd7a74711"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_lightning2.png"
+hash = "1fdc011d3369c3e0fb29b5586138f380124169455d7b2dbe6dc1976e7a015dc7"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_lightning3.png"
+hash = "3bbaa618a440eb13f1bf5a6f4488b4825c1fddedbbf13ec21b67e6a67f7f17f8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_mixer.png"
+hash = "8a1a76b82f5d92ac371d2e30cf7517a3d3abc410dbaca1961ce127b682ccadfc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_mixer1.png"
+hash = "fcf944ece8d1d5884fce6d31e0d18cb726b5ed6483b2d853eedfe0b811072603"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_mixer2.png"
+hash = "77660a26f0da4d3fd164eb81aec2c913c74985c4366268b976c2f892ac0cd62e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_mixer3.png"
+hash = "bc30bcff32db667994259faad897ba5d9f179fcd7be3a5fea023efb985c7ae81"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_press.png"
+hash = "ae86f27144d535b0395b6dcd6a49077efe3c45ebfd0bb5c8d4f169994ca14e43"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_press1.png"
+hash = "8dbfaed9cb09d687b13d175b4cbf6e901d793a9f6d59258e320470f12bee7653"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_press2.png"
+hash = "a7bd0c45444b0fb4cc27bbaac90b4c3806e643333b39a8addd6fe0968c436286"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_press3.png"
+hash = "07e5927935bc30c82ae18b67f3ffdba284cbf07a1861d38133338bf710800ec3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_refinery.png"
+hash = "fc06a3e4020b129ab82425299aee7ad9d905c34c706e93b992c9ce641de79385"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_refinery1.png"
+hash = "a223b45773372e254abe98003a0faacd2e50aa8d964e89e09161fdcdf96b8644"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_refinery2.png"
+hash = "0929bc02c5621cd65a972e77b6f88260d77469a0110d28977f36a56c67600d47"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_refinery3.png"
+hash = "9b5e96608c70cd8115d14010c43e8631f2ff062b310365d0c1c33277195003ce"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_saw.png"
+hash = "24608a79644372e8ec70f734ba3bec65dcb072a62c6f0cd6a6f3c140f6dffe75"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_saw1.png"
+hash = "26305f4f905aa671f6aebf2cec0f0a752084ddb99860da31834ef2c18e3bd434"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_saw2.png"
+hash = "627d1345a729df927b46fa38c513e5631f049187f9a199b05d7600869592ef76"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo.png"
+hash = "608f9624dfae08cbeea4ceee2317306cbff370031c85a38ccf7986a8753cc93e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo1.png"
+hash = "6a03add31c6b429a66c764fc71a591957f9a8d22003c3b4d26e51b7e5bf8a00d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo2.png"
+hash = "38a56c794a9f07573a4f3249893ddcf360d120c6e6ef17c1c6cb59fe2753f005"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo3.png"
+hash = "2bfb75c2cbf18f1a5fb6f4e1ba9725aaaf29a0ea7e6629c5687576ce996f172d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo4.png"
+hash = "5a91468e36209885e11aebc2b1249c137d534bc2c13c14951ad672c6a95dd535"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo5.png"
+hash = "dd959044e1bdca263bae7a98e256ae4f170f18159d1cffe969f641345f63d74e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo6.png"
+hash = "a221f68a33a82385606ef92d5e5745483467420a900886a7ac90db6a84e7a91b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_silo7.png"
+hash = "04ca2e38b0957c04e08ad3dffde8e2474df83ccbbaba912f603b35b22f37b7a5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_squeezer.png"
+hash = "fffbf75987a7bbb6dcb05726b3ef4b80236b17c470886d2d8ec94b7c5b059cbe"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_squeezer1.png"
+hash = "2266937831b5e205ac5bf4ae4a2ad87f11500a3acf283a55ff4d9b8d2872f00a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_squeezer2.png"
+hash = "e981e2866203737b661dded423d6aa081bd2f6041dac2416e4c4c1c6d630b8b0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_squeezer3.png"
+hash = "4e9ce5f4c29ade306f716e5b96753f34c9c4ca7042f923b8d374f7927244ca00"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank.png"
+hash = "22a6db6279bdc38545558ad42ddc827d6513891ce450cb5abbb8433f279a4b35"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank1.png"
+hash = "ca44fd22b74185c3fb8807f2479fa705518368cca47a48c69112352ebefedc40"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank2.png"
+hash = "1c51d47b9b01308a1ccfcfb7d1153282a7ae2e5ffb4d98021f49e09f67678a1e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank3.png"
+hash = "feb0db64a5de23d2995be43d254712b31f664d0d0c523a162e8b0fd1bf9658f6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank4.png"
+hash = "0e4bd1f0d1043320d885e6742bc1b8dfaeba7691a70fca1005378f25c2deebe8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_tank5.png"
+hash = "9036d0b1f054df61716fd93173844c4e5fc6294fbfa6f27072b75d9bf30ffbdb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title.png"
+hash = "93e52cc4e338020a975c4af1d7baa754494a483b898c978be6c72b7642e091b5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_log.png"
+hash = "1cd1fd8f6ed3e33d0a1c0bd639f3cc9675d2f582c151d00ded674630f51c2619"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_mac.png"
+hash = "4a80f9af1d9530230b33af35f85a7f1438754858368e275ccbdc28cf1cb5d708"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_oad.png"
+hash = "f058ec0d5d53e4a15a542025d6bd06d7a2a9d56d7e1ac8886583a19d11b1023c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_sma.png"
+hash = "4f78d103103a25404d9dbd1a0820fe726e4c63d20d2033335cfdb5c35861389d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_tol.png"
+hash = "1c6fa749b46d59b28b41e2a4d1fac55bf2cf86fa2923fee1c9e2c7ba38fb91ec"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_upg.png"
+hash = "369c4cb8b806107f1fe7c6d43886aa723709dd25e1f7eb0c30110a0615f0e686"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/immersive/immersive_title_wir.png"
+hash = "59180e6735741730c89af3aff3cee583d5797b7a47e4a4cd6d36e0f0e2d0708e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/basic.png"
+hash = "dfc485e6fe7fb6caa457db9d6fc124fa63a435d4761f73332c98e3a32fec8fc0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/id_energy.png"
+hash = "81f18c8c2accbe1b7663304988231364dfa714affdfef67e5b941dd353be4f98"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/id_fluid.png"
+hash = "815216e568cb42200a365343712633d2e7ac8d22c2fa93475c8c165391a49783"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/id_item.png"
+hash = "cf289e81edbb737583d5bc7d4a51a2365c3ff39d43f6723db1521f2c02100efc"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/logistics.png"
+hash = "f4a7040107c38c41580a29a2a1d9851f6b1b8e9c9011aaf847c988918d6a9a5e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/meka_cable.png"
+hash = "72358507f369c2bd62d3323e077f00760b6322c8ea4f150dbfde5f7ababb1e43"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/meka_conductor.png"
+hash = "3c877f4c80c32531a5739ac9bde6178a8f6f05369f84185493a39924b5b802c3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/meka_pipe.png"
+hash = "d93e2582320cfff6e23beffa0003d6eebb2c7cf9c3ca2a5eff2b84124137f859"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/meka_transporter.png"
+hash = "5eda5e6e6c04fbe408dd96ece951c23722aacbd0d9f086d249bfcb0af0263ab4"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/meka_tube.png"
+hash = "5933dd1fb5b313908758568b684b42ce1e78829ccf6f89ddf3ac369b239ab71d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/logistics/mekanism.png"
+hash = "6b0403da2a1adfcab9c848dca548fbd6c593db7922d8aec11f568bdb05194b69"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/basic_sps_shape.png"
+hash = "e4c4f801ed532af228dcd56bf62b7e63b6b469cddabfbc5a20e7e27e57ac4052"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/completed_fusion_reactor.png"
+hash = "2bfe41af4b9027775973df60e76f4945694e5b1e50bae051ffc0ee9f86433391"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/example_circuit.png"
+hash = "d91a421581ec5a365b98d7ef1f0ee172c05aff02d71cacbb092f1f8408f2aaab"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/fission_cutout.png"
+hash = "7e750ca30fdb1b886fc047247cb33e31ba694e36e2e82871903a30ebd08c6634"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/fusion_activated.png"
+hash = "d49297f65cf4244bc466487ab47452c760ab553801d94fdb0eaa0e3e1adc013f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/fusion_cutout.png"
+hash = "b9bafd69b97dd9a360c050499d5419fdf45b28b833b6ae879aeee747510eff9e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/fusion_fuelui1.png"
+hash = "4fab9b1c33251496bcc4ef75c20e871725afdd03e5f12e8c417ed9da619118f4"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/fusion_pattern.png"
+hash = "541db449676522c8dc6fa91c1b8ff09a6bc4a46dede49afdcf07272e36a1e64c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/induction_cutout.png"
+hash = "b29bb0ef0069af64763c1a4f19877dd9e1d6292ad31a0bcf89a02887762c9272"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/induction_inside.png"
+hash = "c0dcaeadce4b6affc4f28b3355d985b117ec624764bd6aa1466d00f92f7c4d66"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/induction_matrix.png"
+hash = "c2fdcbad784e92ce6f0090ae453ad15957375b20d4af4f766841605cdd594655"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/laser_example.png"
+hash = "ce92bf084bb588ab66918f5ce7408f744cd02d161cd1b3f66d2dd65a5709c6fd"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/laser_ui.png"
+hash = "b4b4d4e71b824760a23606ae005edcc92241aa8622578ead61544322821686aa"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/logic_adapter.png"
+hash = "1002487473357e1dcbb26ee93f66b81a08f615a5275b0b0bd3e787c268ddce71"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_boiler1.png"
+hash = "d0bce2280dffd646972614ec9f2b9413bfc8f10a8a2e32ed6178d85ffed8d775"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_boiler2.png"
+hash = "838aac0ac37f6f78ccbcdd98d7520b80f8c4170910c4d08e596e13d39d7ac4cb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_boiler3.png"
+hash = "e416888d2c7acf45479f6d39faf128173d9b49b290f6e4f27e6e32809f56448c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_boiler4.png"
+hash = "3122c08f628493e9e1c41d7c0ab443f16d8867d138771eddebc52b38ce672ea0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_box.png"
+hash = "c03867a1f40439703e2f3dd27ce970b50dc276360a69120f203c5d3df2482055"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_chemical.png"
+hash = "0b3c2f5104e543fec09a6caf21611ca8c411563d21c9a0e36f1ed9eb8bd03c86"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_dynamic1.png"
+hash = "9c0e9c984794aabbd000d9ff33895467bf836b8a59b20f8c0bbe5cd7ff36b2a0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_dynamic2.png"
+hash = "bd2b21211672e50f6df62a3c1113703c7c2d5e0e58a7188025af9befc4a6d60b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_dynamic3.png"
+hash = "488450dec1c94a49bb61781aa00e9c2ddcdcc27288b96345faffaf6c027ca119"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_enrich.png"
+hash = "b0063af4c458c72cc0dc6f956904096778f2d8a89ec36e663b26d776fc07279c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fission1.png"
+hash = "581338fe978a495cb174564cb9260f80bfd37cf76f97256ca41c6ed1d0a3b3a3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fission2.png"
+hash = "6c0c8c6649636d8deace63ed85d664dc3abd9edd0b916d42d362ee17c86312da"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fission3.png"
+hash = "1ec29cdebbb837ee05cf78bc69fc3fd38dda4966360d8837c5be7e5b2371ce42"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fission4.png"
+hash = "f7eb493c601d0b288374d7d2bd20937a58690bbb33dcc0dc97ac8351f36bb25a"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fluid.png"
+hash = "e05a56bdfbea3a6d02d88f58e52a5fc0b1e32daf48915508c3d2c11ec6cb4015"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fusion1.png"
+hash = "af301ac02390d9a955e13008aec4aba6de31a25e39cde83a34df1f8c4ecaa4de"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fusion2.png"
+hash = "d119a10ecdb13cf8b1e0a12c53fbcc424e75b4b21779a0a0518af81c111fadf3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fusion3.png"
+hash = "18e9dd3e8dbcdd122611bf4d9dedc8eb0435a3e15f6c63df0d088794e2e1d685"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fusion4.png"
+hash = "6ac5f2b69d259aaa7919e8a1dd432e05d954a273db56c6af73fdefc5f6504f9e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_fusion5.png"
+hash = "dfaf6c2a2d208f6fcac7b32b8ae04d495482576f3d7e5e3a3d7f2b35711a6845"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_induction_matrix_small.png"
+hash = "b2b64b367c13d84a952e371474e1b28e7c400abc0ca006e21e2515403c20a1c5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_matrix1.png"
+hash = "dec2239b5a27beba8afe3ca96a3831468b327ea81cf81627ed1f6014480a004b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_matrix2.png"
+hash = "a562ecf1da5e30bf63b25112686418efa2ff6e66ce1c08543d3228322ebff6c4"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_matrix3.png"
+hash = "7b1631c73d96e2e2b19c2005e9d820aa911dc16245ac554e8c1a6e94836e33c1"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_matrix4.png"
+hash = "fac47118a15eb8f9fd048c55a4a97cfb73754086eae23e4c979ca8e9ac4c0b9f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_multi_runic1.png"
+hash = "1cf50673512a37a7efcd7026529bf11e74a82497c513a2d03bd6094ecdc398fd"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_multi_runic2.png"
+hash = "a9f624906a20d4420b9944c7bdf8d7cbbc8d57c7199474596b915dae5202f8e8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_multi_runic3.png"
+hash = "ea1f1d34ba1b4e85e0c863ece0369060fc097992ddd2d2edbd59a33ab10080d8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_multi_runic4.png"
+hash = "0f2bfd65cfcc3a037a74a219fde1a43d708d26bb25887895a1abdd955e93cccf"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_multi_runic5.png"
+hash = "8041c3901b3c80b062de9f0db80ceef35d10abf0c2688a09c767eea0b653c4b0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_qio.png"
+hash = "3b3717cc7e77a3bf0d1ba4cb223d1a8c952aae80df43008f2eb79ef54371f9c9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_solar.png"
+hash = "37129955aa5730b16188fffa45e4b27811b7c869c2131056ef77c1ba79b10440"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps1.png"
+hash = "18d2dc3cafa5f466556f9caebe7ca33d32a5ea7bfeea228162115f4ccb255908"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps2.png"
+hash = "ecb46a79400b5fca23e2e9ac473367f4b0f9fe9ad93bf961f62933e32dc36144"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps3.png"
+hash = "9d70769fa6b7c5a8163d530e7bc10cf460b235d1f8aa329f3e56bcda3f478554"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps4.png"
+hash = "5a9cf508ad23ef801b2a0e4c131c53506c7d404d4eeb896014b16ecfe5b6aa46"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps5.png"
+hash = "f1e85d65613ef080493b8da7eb3b3cce7f06a8c3a7ac93a711a9f08ea20f9d67"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps6.png"
+hash = "4264bae47545ca7a3749fa2fa8fff736075df4ffd09572c72e6d42e0c68d54cf"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_sps7.png"
+hash = "da4a7f1dc8ea3e88890c103fcf42016f1764d4bcb12ec5f86cf7f4bb90cdeaa5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_thermal1.png"
+hash = "5b07e64d2306d02abb50347f70951a4641f3d4953161bc57d9c0778fc13e76be"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_thermal2.png"
+hash = "fa86f3810a06b86d63c18822bc114a21c661fb548ae118b7f202fc2f993162f5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_thermal3.png"
+hash = "d3cc9a654284d5577b5d4eb59719f8cd2c16cb68c9197c7fda3440cdf19e8259"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_thermal4.png"
+hash = "732664eaf7e5842c521bb078b4cc64b99e28c4c0877625133e5783f55da19751"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier1_1.png"
+hash = "3ec77a251c83e1bde00c45c3b2145eea51faaf38941ef1f6e4074f8a71f10942"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier2_1.png"
+hash = "ce122c74acee1c282ca8b3180ded6a49c8d532956e81f0662077f69115d277ab"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier2_2.png"
+hash = "15c587e5c379929e7e5b439ddf1da1be16f5b32aeedae99b246c639feeef2089"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier3_1.png"
+hash = "2c50e8c6969970fb4d1eece604658a1955d4e937a3abc55fba4c2bb30ff28fda"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier3_2.png"
+hash = "4aea0bf6ac620dc88a9fb9a95da6028f9a5c3794e0257e35e7d7a61276e6599e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier3_3.png"
+hash = "1e85ea854b0ce2345e2a0c383d228b04362f6372344e38244a6b772276b21078"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier4_1.png"
+hash = "f6de7cd66702391bc5a0b1e2ef3c1b32fdcb974b4f2cc31bd65b8d553d112b31"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier4_2.png"
+hash = "89bfd728774f93d8048ba666ffde8eeef3433c6c181b7b1d7911f8211e210310"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier4_3.png"
+hash = "9af666d05c86e1e6cc993a4fb36168c165c5059175f05865579718420f1864c9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_tier4_4.png"
+hash = "1e85ea854b0ce2345e2a0c383d228b04362f6372344e38244a6b772276b21078"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title.png"
+hash = "58e2ab61be4494a56888749a30c7847f928fbfc8b11e0fd83b4cc7b982f34794"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_1.png"
+hash = "5cb22b0e8a157de87bb3a49c57b05dd12520aa8cda4f88b3058e5f77355ec6c9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_2.png"
+hash = "087a72a830c2f3329edf1d5289e7beffe1e1e3e6f44cfb49052ed1a83d5fbbfa"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_3.png"
+hash = "97fcaeb57cbb691536186c4c639ef3f227f87fd782c3ff032d47b730d8402093"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_4.png"
+hash = "f1c9af9cf7a10fff03bf85965dda7c8034817127f993c2fac92642f132661fa2"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_advanced.png"
+hash = "36bcf0b8a5e4a4b9adfe798d7e5b9b4010b4990371ecdede85267919a42e2f50"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_antimatter.png"
+hash = "b21ea7326ccd1adff46841fd607cb7a4303b5f583a773017e9839007d820eee1"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_basic.png"
+hash = "548c30e79c790f61eb2ba721dea26676b72d4ffa187b1f30d808d5fba7b26656"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_boiler.png"
+hash = "c6f27efad3cba6f3ad1b158793de58383d2d5a2b7dc4638b6c3992018fde1484"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_elite.png"
+hash = "2b6949fed979a5bdbe53269a5f8c1952ff6bdf3744c0d2a7921054aa19f30caf"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_energy.png"
+hash = "3c0a3e28680f2fca2cdb8c30cc7af5f73ff7dbb7ea2a02a34d3f9b4c48913dbe"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_fission.png"
+hash = "66edf910302d1213cfe1166d528046f379bd2623ddd722af2f6824961117d399"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_fusion.png"
+hash = "f6f83cff4027a562261e788e10b7fd79211abc5b34947ba2f997fe6f70410fde"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_logistics.png"
+hash = "bf65853f6e2d9c409d612fe821c517275917f767632220013dda17fab9957554"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_machines.png"
+hash = "c3766b015fa4b54af5a41f5e87bab39b6ebc65986e55fc461fe36154807430ef"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_matrix.png"
+hash = "604506acf9f69cef6358ac3811a034c069290c669ed826399150ea54d2f308d4"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_mo.png"
+hash = "b7d54af8849065d6230f3c1dd60c05ca074644863f835b8653f2ff20d92f779c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_module.png"
+hash = "eefab639d545eee191e3ddfdd235a6cf51797e51c1838b46b2e6357173000311"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_multi.png"
+hash = "a14855d973514ee3f7d1f8441795eb38cf1d6bd566a60b79a7fd76dd7819a570"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_qio.png"
+hash = "be4ea8ad6d40f695f19661d0528a5e1cee486a5582c508f776ccb28b34d40cfb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_reactor.png"
+hash = "160c8641aaf942cf98a500b92dc99f865d8f576d204a6ce216ad1b1bf4075afe"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_sps.png"
+hash = "ae57d02310a81e35257683c0f80a802f79625030dae04b6f3ff8e6a92a6bde8d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_suit.png"
+hash = "74fc67ee940de976575b9c1dab2c1fd70b6cfeff4fea024332aa297202279504"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_tools.png"
+hash = "c086cd86eb34b2598b57e0fd1ecd56f31029708d62e08df7a00e8d8538d3e38f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_turbine.png"
+hash = "9fd306fd6d45a8bac7a850cbcc10a1b588e33748227a157c96cc1fceaf52a49c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_ultimate.png"
+hash = "0c7d79eca2a6cdfaacb0eb461975a9f6945b083ec01606357084be6c5eabc29e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_title_upgrades.png"
+hash = "4fe3c656894c7cda8bdcfd85bb582ed4f07ced7b1c7d928d98202c6f68fcb6e5"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine1.png"
+hash = "e805575b8ba462e8c5cd709a8b97f48bc0cace91db633574ee3be28d75041423"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine2.png"
+hash = "bf8f4352e6b2633446c58b289097e8a0e0b763d92ffaa06ac62e72dae4fd74f7"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine3.png"
+hash = "535004a7285e67ab9227069e265bb4cbc275e97c918d79a01f2c0b3a7c96941b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine4.png"
+hash = "457c3f0f89b59755394ab476b02136ea9d4ab3d9dcdeccb1713b9b7dbc25904c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine5.png"
+hash = "7b4a2db1a8d173deb39cb1b83a4e3da852ee3de180112f5a282486a2fb87c33d"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine6.png"
+hash = "586ba8c9f384deafb4ff743c621f776895317c4347fb3fe073a2d27bd679eb90"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mek_turbine7.png"
+hash = "1930df5b07a87ac9770a639fd9add5a9531a1b17864cbf9189c757c349b66510"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/meka_portal1.png"
+hash = "c14408e71563077b5841f019622fd512ebe95ceb4d4a62c4cce6b9a248a0a59b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/meka_portal2.png"
+hash = "a86641513d4e7601c1540be1cf0e66c40c0122b163ccb3251e9bff3e77e07c31"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/meka_portal3.png"
+hash = "1f984dcd482cc60f39079c526fdfb9b30024b4d622e880ca37b2bcb935c44608"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/meka_portal4.png"
+hash = "75869c9d7f36b708522ed0517c932bfecb7c375d2d1280df70b4568ec46ae6bf"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/meka_portal5.png"
+hash = "7453a8e84981a0ee386758a9837621f3e276ff470d4e37f52a4a776485ac8e19"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mekanism_flowchart.png"
+hash = "5e299dd519617f67e26b0a311ca2421e5da7e9bb239e7a7613ebfe778263af4e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/mekanism_logo.png"
+hash = "edd78e55c1c5bc51edc4539c6d6ad1f448cc864d488f028aa1a4148546e6f01b"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/port_example.png"
+hash = "d81be742332b826f55d30a0053d1a65d2ba18262d2f097b7e77f0c0cc4a09639"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/reactor_interface_1.png"
+hash = "dc8e37f1adb2af1cc2a6fe2bade827134fde5fd4324eb4fe8e44a84c5953ad23"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/reactor_interface_2.png"
+hash = "d3e3548ae72856915407f76c97b8bf3c0360a0b8baa26c7c345aebd3af63c455"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/rod_example.png"
+hash = "4766a6c9d0d2c36d39d92549e7609d6c65d698cbc46e04fa28e457b27230530f"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/sps_coils.png"
+hash = "e02176ec10b528a09020a473d664c64fb88a76a29d0730ffb047fee428e6e1e9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/sps_complete.png"
+hash = "7395f61ef55cbec78bbac25b31059141dc941df3d70c37b9db5edfed782613cb"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/sps_cutout.png"
+hash = "c886215e3e6770b24dfea83916c58a166945722cd7ecbe7ad3eabd706e2c40ff"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/thermalplant.png"
+hash = "9cde9b5b43a6d91ddc2c10e9b20c60896dc1090100ef58b5059f8386dc54df97"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/turbine_completed.png"
+hash = "e4d61a8dd9234e069ab33be614e3e84390fc9862bb7609cb8e5d4fc3cbf93911"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/mek/turbine_cutout.png"
+hash = "b14bf52007f95d055c6e3cb825f37c59ff9e1937651ffd62ae7d19e4601cca97"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/aviarcircle.png"
+hash = "8c2571157ebf43b32717775a56e16abadea038d37c26bb763fd35b3fd830e2d3"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/aviarcirclenew.png"
+hash = "c8c142c6b0b45cc5b7342a818f29a70dc0362d3e499df19bf4fdb7f42f87bc30"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/iesniumexample.png"
+hash = "462bfd139a970d216be2d28ca20e1cf8e2923845c992471f2ffcf74d7258f558"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/maridlogo.png"
+hash = "8196ade2d084ed9e2e6c741f07f01f9e9398a95bc002789f54f1c8c044cad441"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/occultism_logo.png"
+hash = "4deb6ad7753c20a7997ea8e5e4905fad191ab6731a45d3520feb46c077d82002"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/occultism_title.png"
+hash = "8b47fdcdba8effe8cdb4d3ad89279b82ee064fec1cb5899010c2193edb2113ab"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/storageupgradeexample.png"
+hash = "138ce32e6a9150601c1d01802d96320a08a393d8ef20ff5bfa8935363c83de44"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/occultism/strighigherbinding.png"
+hash = "dd72e80045a96b6e12bdc4bd790c87331d7cf84fe32c5d32f5efc9a744ae6cd6"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/oritech/ori-addon-slot.png"
+hash = "b531913de3bd5b261b126ef9159ad88b6fad6d60571719c76e8cbcfc448791e2"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/oritech/ori-addons.png"
+hash = "5f4d9672a3894f9ebe2f87e3eea1445f50b3df92736ef9a6ff9ab4360db6d3b0"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/oritech/ori-energy.png"
+hash = "0d9012a636136b4fb3bcf952fbd27af5838b75b1020bb41f39bd4cff91b89a2c"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/oritech/ori-logistics.png"
+hash = "551ccf22bac15435e3d507a2d5a2059223e034fdd34d2b78dc035ff5b940bb27"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/oritech/oritech-logo.png"
+hash = "eb26fd32e176cc1faf36b99f3e1ccf11f92713cc6a5f9137e29ca8d3cf852391"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/storage/functional1.png"
+hash = "f221ef2b34937f37a8a43950f60306fb77c1b112ba4442fcf690cbc37509f77e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/storage/functional2.png"
+hash = "eb143d927a26f51471915c86221652283547dd9c655e1ae154367603d3aa7d29"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/tips_and_tricks.png"
+hash = "c3231aa3c0b3c7080c674421fd3bd6aa13a0ba7863a88afea936bb587a6a8bf8"
+
+[[files]]
+file = "kubejs/assets/ca/textures/questspics/wither.png"
+hash = "84a9a278b607676bf0124a8fc2d80b7a1e73479f6fc730fe6a9629deca20152e"
+
+[[files]]
+file = "kubejs/assets/ca/textures/settings.png"
+hash = "a401a376deb380ea008d80cdefa774bc1257bbedf2f96b81f5899c1ebf57ade9"
+
+[[files]]
+file = "kubejs/assets/ca/textures/singleplayer.png"
+hash = "87dd16bbe0dc989ab9c4a31e58d687752155f54a9e2d5ddd61ea30059e1e89c6"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "4e5d2a296790c002a5f998d65331079c06aa1332416553ac2877b2f2541c5014"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "6f7652c3a0c3f9dc7d0a6419cdd8fa8a51466fcfbf448db9d1d96a1ab9c8a419"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "632cbe784886c8749fae74cb5125621b8597e0947a27042ec2e9756fe3fe629a"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "61e4c8ff95de22dfb4078c1970f8662811af615a68a0a3a7159d2e13c1eb8127"
 
 [[files]]
 file = "kubejs/server_scripts/create_wrench.js"
