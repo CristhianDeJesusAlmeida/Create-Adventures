@@ -1,12 +1,12 @@
 name = "Create-Adventures"
 author = "CristhianDeJesusAlmeida"
-version = "0.0.1"
+version = "0.0.20"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c5e53d3b0ac2d3132f451c5656e2bf9247904b85dd35782e16bfc6a995656ed2"
+hash = "569a91217b52fec4f4bc2fe4c3192eff0cf7668c676adbd6d3a61d6d78954cbc"
 
 [versions]
 minecraft = "1.21.1"
