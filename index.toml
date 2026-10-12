@@ -210,6 +210,11 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "944be63450453e84eb60f3fa965e70dab2c6605646703517acc15f2eca5cdacf"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight-carry-on-compat.pw.toml"
 hash = "a92d7cb5ebcc96a23c282490a93a05432a290f53577540ce21a1d7fe0474e39d"
 metafile = true
@@ -410,6 +415,11 @@ hash = "2a967171e8ec4f54f37f95baaae79f9964f19d836ebe638e25e7be17527870bd"
 metafile = true
 
 [[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "dc991b1a6f7b3d7fc0494392ee9b4f472859497f5cb894b4deda41b8196d862e"
 metafile = true
@@ -542,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
 metafile = true
 
 [[files]]
