@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "apotheosis_2"
+	filename: "apotheosis"
 	group: "6614EE2378B8AFB9"
 	icon: {
 		id: "minecraft:spawner"

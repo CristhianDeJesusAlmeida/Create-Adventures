@@ -6,11 +6,11 @@ hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "48c288f298c7af9a0f0e16f07b4da31bdffcbadf35b193bb0acb5c8ab3071385"
+hash = "5a27f727fb389e35b81f148f6bedd46c276ba0e39d2eb9fa3b68c452fda88871"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis.snbt"
-hash = "910138dee7961c9aaa9432d2a1f7971b35bde11a525b0b3543dc8ddb9d3ada2e"
+hash = "7736523f37423dd6bf906a867160d26e9c83c52e2f8bb51b8955eccf6e870b17"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis_gear.snbt"
@@ -22,7 +22,7 @@ hash = "e7d42cddc100bb71f3ea3be09c22f67d95e1d70bdf967d937065d280986b3903"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "d73e5873baa0b386e3d07be2d32d2101e3d456b3d1e864640f4b8debb403020a"
+hash = "02f69e747a715d62585bfec0c218218a933f5ca258d7bcb84a5177728cfea371"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introducao.snbt"

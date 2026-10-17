@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "square"
-	filename: "aeronautics_part1"
+	filename: "aeronautics"
 	group: "345801DAE9BD6E39"
 	icon: {
 		id: "simulated:physics_assembler"

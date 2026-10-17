@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: true
 	default_quest_shape: "gear"
-	filename: "create_part1"
+	filename: "create"
 	group: "0000000000000002"
 	icon: {
 		id: "create:andesite_alloy"
