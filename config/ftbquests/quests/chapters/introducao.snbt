@@ -1,355 +1,289 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "circle"
-	filename: "Introducao"
+	filename: "introducao"
 	group: ""
-	id: "0000000000000001"
-	order_index: 0
+	id: "5DD9FFEEA4B643EC"
+	images: [ ]
+	order_index: 2
 	quest_links: [ ]
-	title: "Introdução"
-	icon: "minecraft:compass"
 	quests: [
 		{
-			title: "Bem-vindo ao Create Adventures!"
-			icon: { id: "minecraft:compass" }
+			icon: {
+				id: "minecraft:compass"
+			}
 			id: "1000000000000001"
-			x: -2.0d
-			y: 0.0d
-			description: [
-				"§aA Grande Fusão de Tecnologias§r"
-				""
-				"Este modpack foi projetado como uma jornada evolutiva única: você começará usando força física e engrenagens rudimentares, passará pela era industrial do aço e do diesel, eletricidade por redes de alta voltagem, até alcançar o misticismo e a física nuclear."
-				""
-				"§eDiretriz de Jogo:§r As receitas principais foram profundamente modificadas. Fique atento às linhas e ramificações deste livro; você precisará dominar um mod para conseguir os componentes estruturais necessários para abrir o próximo!"
-			]
 			rewards: [{
 				count: 8
 				id: "2000000000000001"
-				item: { count: 8, id: "minecraft:oak_log" }
+				item: {
+					count: 8
+					id: "minecraft:oak_log"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 8L
 				id: "2000000000000002"
-				item: { count: 8, id: "minecraft:oak_log" }
+				item: { count: 1, id: "minecraft:oak_log" }
 				type: "item"
-				title: "Colete 8 Toras de Madeira"
 			}]
+			x: -2.0d
+			y: 0.0d
 		}
 		{
-			title: "Combate Avançado (Epic Fight)"
-			dependencies: ["1000000000000001"]
-			icon: { id: "minecraft:iron_sword" }
+			icon: {
+				id: "minecraft:iron_sword"
+			}
 			id: "1000000000000002"
-			x: 2.0d
-			y: 0.0d
-			description: [
-				"§cRPG de Ação em 3D§r"
-				""
-				"O combate convencional do Minecraft foi completamente substituído pelo §eEpic Fight Mod§r."
-				""
-				"1. Aperte §6[R]§r para alternar entre o Modo de Construção e o Modo de Combate."
-				"2. No modo de combate, seus ataques ganham combos tridimensionais, peso e impacto real."
-				"3. Segure o clique para desferir ataques pesados e use §6[Espaço]§r durante a animação de um monstro para esquivar e rolar!"
-			]
 			rewards: [{
 				count: 2
 				id: "2000000000000003"
-				item: { count: 2, id: "minecraft:cooked_beef" }
+				item: {
+					count: 2
+					id: "minecraft:cooked_beef"
+				}
 				type: "item"
 			}]
 			tasks: [{
-				count: 1L
 				id: "2000000000000004"
 				item: { count: 1, id: "minecraft:iron_sword" }
 				type: "item"
-				title: "Forje uma Espada de Ferro"
 			}]
+			x: 2.0d
+			y: 0.0d
 		}
 		{
-			title: "A Base Mecânica (Create)"
 			dependencies: ["1000000000000001"]
-			icon: { id: "create:large_cogwheel" }
+			icon: {
+				id: "create:large_cogwheel"
+			}
 			id: "1000000000000003"
-			x: -2.0d
-			y: 1.5d
-			description: [
-				"§6O Poder do Movimento (Create)§r"
-				""
-				"Sua primeira automação será puramente física. O §eCreate§r não utiliza fios ou eletricidade, apenas força rotacional cinemática e torque."
-				""
-				"Você construirá moinhos, esteiras e prensas mecânicas."
-				""
-				"§dDica de Ouro:§r Segure a tecla §6[W]§r em cima de qualquer item do Create no inventário para abrir o menu §aPonder§r, um tutorial visual interativo em 3D integrado ao jogo!"
-			]
 			rewards: [{
 				count: 16
 				id: "2000000000000005"
-				item: { count: 16, id: "minecraft:andesite" }
+				item: {
+					count: 16
+					id: "minecraft:andesite"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 16L
 				id: "2000000000000006"
-				item: { count: 16, id: "minecraft:andesite" }
+				item: { count: 1, id: "minecraft:andesite" }
 				type: "item"
-				title: "Colete 16 Andesitos"
 			}]
+			x: -2.0d
+			y: 1.5d
 		}
 		{
-			title: "Sobrevivência Realista (Sede, Clima e Membros)"
-			dependencies: ["1000000000000001"]
-			icon: { id: "minecraft:furnace" }
+			icon: {
+				id: "minecraft:furnace"
+			}
 			id: "1000000000000004"
-			x: 2.0d
-			y: 1.5d
-			description: [
-				"§4Sobrevivência Imersiva e Hostil§r"
-				""
-				"O mod §eLegendary Survival Overhaul§r eleva drasticamente a dificuldade do mundo introduzindo mecânicas profundas:"
-				""
-				"1. §bSede e Hidratação:§r Beber água suja diretamente de rios consome sua barra de hidratação e gera exaustão. Purifique a água utilizando o forno convencional ou colete água limpa da chuva."
-				"2. §cTemperatura Imersiva:§r O ambiente e o clima afetam o seu corpo. Monitore a temperatura, use plantas térmicas e utilize a mesa de costura para revestir suas armaduras contra os extremos."
-				"3. §eDanos Localizados:§r O mod rastreia ferimentos em partes específicas do corpo (cabeça, braços, pernas e pés). Cada membro danificado aplica penalidades reais (como lentidão, fraqueza ou visão turva) que exigem itens de cura dedicados."
-				"4. §4Sistema de Vida:§r Acompanhe os corações bônus de recipientes, os corações quebrados por membros danificados e os corações de escudo."
-			]
 			rewards: [{
 				count: 4
 				id: "2000000000000007"
-				item: { count: 4, id: "minecraft:coal" }
+				item: {
+					count: 4
+					id: "minecraft:coal"
+				}
 				type: "item"
 			}]
 			tasks: [{
-				count: 1L
 				id: "2000000000000008"
 				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
-				title: "Construa um Forno"
 			}]
+			x: 2.0d
+			y: 1.5d
 		}
 		{
-			title: "A Era do Carvão e do Aço (Immersive Engineering)"
 			dependencies: ["1000000000000003"]
-			icon: { id: "immersiveengineering:connector_hv" }
+			icon: {
+				id: "immersiveengineering:connector_hv"
+			}
 			id: "1000000000000005"
-			x: -2.0d
-			y: 3.0d
-			description: [
-				"§eIndústria Pesada (Immersive Engineering)§r"
-				""
-				"Sua transição para a eletricidade começará de forma rústica. O §eImmersive§r traz a estética da revolução industrial com fiações elétricas aéreas expostas e grandes estruturas multiblocos."
-				""
-				"Você criará fornos de coque, dínamos cinéticos e prensas pesadas para moldar chapas e fios de metal. Cuidado: encostar em cabos de alta voltagem encapados sem proteção causará um choque letal!"
-			]
 			rewards: [{
 				count: 4
 				id: "2000000000000009"
-				item: { count: 4, id: "minecraft:brick" }
+				item: {
+					count: 4
+					id: "minecraft:brick"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 4L
 				id: "2000000000000010"
-				item: { count: 4, id: "minecraft:brick" }
+				item: { count: 1, id: "minecraft:brick" }
 				type: "item"
-				title: "Obtenha 4 Tijolos"
 			}]
+			x: -2.0d
+			y: 3.0d
 		}
 		{
-			title: "Magia de Linha de Frente (Iron's Spells)"
 			dependencies: ["1000000000000002"]
-			icon: { id: "irons_spellbooks:common_ink" }
+			icon: {
+				id: "irons_spellbooks:common_ink"
+			}
 			id: "1000000000000006"
-			x: 2.0d
-			y: 3.0d
-			description: [
-				"§bFeitiçaria Pragmática e de Combate§r"
-				""
-				"O mod §eIron's Spells 'n' Books§r traz um sistema massivo de magias de combate RPG para o seu jogo."
-				""
-				"Você coletará tintas, papéis especiais e runas elementais para escrever seus próprios pergaminhos e livros de feitiços. Use magias de fogo, gelo, sangue e teletransporte para derrotar os bosses implacáveis do Cataclysm que guardam as estruturas do mundo!"
-			]
 			rewards: [{
 				count: 3
 				id: "2000000000000011"
-				item: { count: 3, id: "minecraft:paper" }
+				item: {
+					count: 3
+					id: "minecraft:paper"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 3L
 				id: "2000000000000012"
-				item: { count: 3, id: "minecraft:paper" }
+				item: { count: 1, id: "minecraft:paper" }
 				type: "item"
-				title: "Obtenha 3 Papéis"
 			}]
+			x: 2.0d
+			y: 3.0d
 		}
 		{
-			title: "Alta Voltagem Dinâmica (Electrodynamics)"
 			dependencies: ["1000000000000005"]
-			icon: { id: "electrodynamics:wireinsulatedcopperblack" }
+			icon: {
+				id: "electrodynamics:wireinsulatedcopperblack"
+			}
 			id: "1000000000000007"
-			x: -2.0d
-			y: 4.5d
-			description: [
-				"§6Engenharia Química e Redes de Força§r"
-				""
-				"Quando a fiação rústica do Immersive não for suficiente, você evoluirá para o §eElectrodynamics§r. Este mod introduz sistemas elétricos complexos baseados em Voltagem (V) e Corrente (A)."
-				""
-				"Você precisará gerenciar transformadores para não explodir suas máquinas e construirá linhas de processamento químico de minérios de altíssimo rendimento para triplicar seus recursos."
-			]
 			rewards: [{
 				count: 2
 				id: "2000000000000013"
-				item: { count: 2, id: "minecraft:copper_ingot" }
+				item: {
+					count: 2
+					id: "minecraft:copper_ingot"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 2L
 				id: "2000000000000014"
-				item: { count: 2, id: "minecraft:copper_ingot" }
+				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
-				title: "Obtenha 2 Lingotes de Cobre"
 			}]
+			x: -2.0d
+			y: 4.5d
 		}
 		{
-			title: "Pactos Cósmicos (Occultism)"
 			dependencies: ["1000000000000006"]
-			icon: { id: "occultism:chalk_purple" }
+			icon: {
+				id: "occultism:chalk_purple"
+			}
 			id: "1000000000000008"
-			x: 2.0d
-			y: 4.5d
-			description: [
-				"§5O Poder do Outro Lado (Occultism)§r"
-				""
-				"O §eOccultism§r permite que você realize rituais complexos usando gizes arcanos, velas e sacrifícios para rasgar o tecido da realidade."
-				""
-				"Você invocará demônios e espíritos interdimensionais que trabalharão para você: gnomos mineiros que extraem recursos infinitos do vazio ou gárgulas de transporte que movem seus itens instantaneamente através da fábrica!"
-			]
 			rewards: [{
-				count: 1
 				id: "2000000000000015"
-				item: { count: 1, id: "occultism:otherstone" }
+				item: {
+					count: 1
+					id: "occultism:otherstone"
+				}
 				type: "item"
 			}]
 			tasks: [{
-				count: 1L
 				id: "2000000000000016"
 				item: { count: 1, id: "occultism:otherstone" }
 				type: "item"
-				title: "Obtenha Pedra do Outro Mundo (Otherstone)"
 			}]
+			x: 2.0d
+			y: 4.5d
 		}
 		{
-			title: "Automação Futurista (Oritech and Actually Additions)"
 			dependencies: ["1000000000000007"]
-			icon: { id: "oritech:machine_core_1" }
+			icon: {
+				id: "oritech:machine_core_1"
+			}
 			id: "1000000000000009"
-			x: -2.0d
-			y: 6.0d
-			description: [
-				"§eAlta Tecnologia Elétrica (Oritech)§r"
-				""
-				"O §eOritech§r representa o ápice da indústria de blocos únicos de processamento ultrarrápido. A progressão dele gira em torno de evoluir seus §6Machine Cores (Tiers 1 ao 7)§r."
-				""
-				"Junto com os lasers de reconstrução molecular do §6Actually Additions§r, você criará fábricas limpas, geradores a combustível líquido superaquecido e lasers industriais automatizados por computadores."
-			]
 			rewards: [{
 				count: 4
 				id: "2000000000000017"
-				item: { count: 4, id: "minecraft:redstone" }
+				item: {
+					count: 4
+					id: "minecraft:redstone"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 4L
 				id: "2000000000000018"
-				item: { count: 4, id: "minecraft:redstone" }
+				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
-				title: "Obtenha 4 Redstones"
 			}]
+			x: -2.0d
+			y: 6.0d
 		}
 		{
-			title: "Níveis de Mundo e Relíquias (Apotheosis)"
 			dependencies: ["1000000000000008"]
-			icon: { id: "apothic_enchanting:scrap_tome" }
+			icon: {
+				id: "apothic_enchanting:scrap_tome"
+			}
 			id: "1000000000000010"
-			x: 2.0d
-			y: 6.0d
-			description: [
-				"§dEvolução de Mundo e Afixos (Apotheosis)§r"
-				""
-				"Conforme você avança nas eras tecnológicas, o próprio mundo sobe de nível (**World Tiers**). Os monstros nascerão mais inteligentes, rápidos e com armaduras mágicas."
-				""
-				"Bosses elites nascerão no mapa acompanhados de raios. Derrotá-los garante o drop de armas e equipamentos com §aAfixos de RPG§r (Raro, Épico, Místico), que podem ter seus atributos tunados em bancadas de forja!"
-			]
 			rewards: [{
-				count: 1
 				id: "2000000000000019"
-				item: { count: 1, id: "minecraft:book" }
+				item: {
+					count: 1
+					id: "minecraft:book"
+				}
 				type: "item"
 			}]
 			tasks: [{
-				count: 1L
 				id: "2000000000000020"
 				item: { count: 1, id: "minecraft:book" }
 				type: "item"
-				title: "Obtenha um Livro"
 			}]
+			x: 2.0d
+			y: 6.0d
 		}
 		{
-			title: "A Mente Digital da Fábrica (AE2)"
 			dependencies: ["1000000000000009"]
-			icon: { id: "ae2:crafting_terminal" }
+			icon: {
+				id: "ae2:crafting_terminal"
+			}
 			id: "1000000000000011"
-			x: -2.0d
-			y: 7.5d
-			description: [
-				"§2Armazenamento e Logística Digital§r"
-				""
-				"Produzir milhares de lingotes e poções por minuto criará um caos logístico. O §eApplied Energistics 2§r resolve isso transformando matéria física em dados digitais armazenados em disquetes dentro de uma rede de cabos inteligentes."
-				""
-				"Você interligará os estoques do §6Functional Storage§r e suas máquinas automáticas em um terminal central capaz de fazer auto-crafting de qualquer item do jogo."
-			]
 			rewards: [{
 				count: 2
 				id: "2000000000000021"
-				item: { count: 2, id: "ae2:certus_quartz_crystal" }
+				item: {
+					count: 2
+					id: "ae2:certus_quartz_crystal"
+				}
 				type: "item"
 			}]
 			tasks: [{
 				count: 2L
 				id: "2000000000000022"
-				item: { count: 2, id: "ae2:certus_quartz_crystal" }
+				item: { count: 1, id: "ae2:certus_quartz_crystal" }
 				type: "item"
-				title: "Obtenha 2 Quartzos Certus"
 			}]
+			x: -2.0d
+			y: 7.5d
 		}
 		{
-			title: "A Singularidade Atômica (Nuclear Science)"
 			dependencies: ["1000000000000010"]
-			icon: { id: "nuclearscience:uranium235" }
+			icon: {
+				id: "nuclearscience:uranium235"
+			}
 			id: "1000000000000012"
-			x: 2.0d
-			y: 7.5d
-			description: [
-				"§cO Ápice Tecnológico (Nuclear Science)§r"
-				""
-				"O objetivo final absoluto de toda a sua infraestrutura industrial. O mod §eNuclear Science§r traz a física nuclear para o Minecraft."
-				""
-				"Você construirá centrífugas de enriquecimento de Urânio, reatores de fissão e reatores de fusão quântica de antimatéria. Essa tecnologia fornece energia elétrica infinita para o seu mapa, mas um erro de cálculo na refrigeração ou na fiação pode causar um §4colapso nuclear devastador§r na sua base!"
-			]
 			rewards: [{
-				count: 1
 				id: "2000000000000023"
-				item: { count: 1, id: "minecraft:iron_ingot" }
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
 				type: "item"
 			}]
 			tasks: [{
-				count: 1L
 				id: "2000000000000024"
 				item: { count: 1, id: "minecraft:iron_ingot" }
 				type: "item"
-				title: "Tenha 1 Lingote de Ferro (Preparação Inicial)"
 			}]
+			x: 2.0d
+			y: 7.5d
 		}
 	]
 }

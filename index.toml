@@ -26,7 +26,7 @@ hash = "02f69e747a715d62585bfec0c218218a933f5ca258d7bcb84a5177728cfea371"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introducao.snbt"
-hash = "7ef5fc0f1e78fba72062a97c41a46e87cfc892407cfe1e14f70c4de38a6bef12"
+hash = "4d9c2a0f909b1cc73092b1cc68dc6c9b66e723d93e3d148ad357bc5e7c4aa0b6"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
