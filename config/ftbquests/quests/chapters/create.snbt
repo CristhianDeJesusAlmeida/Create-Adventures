@@ -1,0 +1,397 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: "gear"
+	filename: "create_part1"
+	group: "0000000000000002"
+	icon: {
+		id: "create:andesite_alloy"
+	}
+	id: "1000000000001000"
+	order_index: 1
+	progression_mode: "flexible"
+	quest_links: [
+		{
+			id: "1000000000001001"
+			linked_quest: "1000000000000003"
+			x: -6.0d
+			y: 0.0d
+		}
+	]
+	quests: [
+		{
+			title: "O Ponto de Partida: Andesito"
+			dependencies: ["1000000000001001"]
+			icon: { id: "minecraft:andesite" }
+			id: "1000000000001002"
+			shape: "gear"
+			size: 3.0d
+			x: -6.0d
+			y: 0.0d
+			description: [
+				"§6A Matéria-Prima da Indústria§r"
+				""
+				"Todo grande império mecânico começa com uma simples pedra. O andesito é o alicerce fundamental para a criação das ligas e estruturas do §2Create§r."
+			]
+			rewards: [{
+				count: 16
+				id: "2000000000001001"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001002"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
+		}
+		{
+			title: "A Base de Tudo: Liga de Andesito"
+			dependencies: ["1000000000001002"]
+			icon: { id: "create:andesite_alloy" }
+			id: "1000000000001003"
+			size: 1.75d
+			x: -2.0d
+			y: 0.0d
+			description: [
+				"§aO Composto Estrutural§r"
+				""
+				"Combinando andesito e minérios, você produz a §aLiga de Andesito§r, essencial para eixos, engrenagens e carcaças cinemáticas."
+			]
+			rewards: [{
+				count: 8
+				id: "2000000000001003"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001004"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Transmitindo Movimento: Eixos"
+			dependencies: ["1000000000001003"]
+			icon: { id: "create:shaft" }
+			id: "1000000000001004"
+			size: 1.25d
+			x: -1.0d
+			y: -2.0d
+			description: [
+				"§eO Fluxo Cinemático§r"
+				""
+				"Os §aEixos (Shafts)§r transferem a força rotacional de uma máquina para outra sem perdas na rede."
+			]
+			rewards: [{
+				count: 8
+				id: "2000000000001005"
+				item: { count: 1, id: "create:shaft" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001006"
+				item: { count: 1, id: "create:shaft" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Conectando Linhas: Correias"
+			dependencies: ["1000000000001003"]
+			icon: { id: "create:belt_connector" }
+			id: "1000000000001005"
+			size: 1.75d
+			x: -6.0d
+			y: -4.0d
+			description: [
+				"§bTransporte Flexível§r"
+				""
+				"As §aCorreias§r conectam eixos distantes e transportam itens suavemente por cima delas."
+			]
+			rewards: [{
+				count: 16
+				id: "2000000000001007"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001008"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Encapsulando Mecanismos: Carcaça de Andesito"
+			dependencies: ["1000000000001003"]
+			icon: { id: "create:andesite_casing" }
+			id: "1000000000001009"
+			size: 1.25d
+			x: 0.0d
+			y: 2.0d
+			description: [
+				"§6Proteção e Funcionalidade§r"
+				""
+				"Aplicando a Liga de Andesito em cima de troncos de madeira descascados, você cria a §aCarcaça de Andesito§r."
+				""
+				"Ela serve de base indispensável para montar componentes avançados como a Prensa e o Misturador."
+			]
+			rewards: [{
+				count: 4
+				id: "2000000000001021"
+				item: { count: 1, id: "create:andesite_casing" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001022"
+				item: { count: 1, id: "create:andesite_casing" }
+				type: "item"
+			}]
+		}
+		{
+			title: "A Prensa Mecânica"
+			dependencies: ["1000000000001009"]
+			icon: { id: "create:mechanical_press" }
+			id: "1000000000001006"
+			size: 1.0d
+			x: 0.0d
+			y: 0.5d
+			description: [
+				"§cCompactando o Futuro§r"
+				""
+				"A §aPrensa Mecânica§r esmaga lingotes de metal transformando-os em chapas finas, essenciais para o restante da tecnologia."
+			]
+			rewards: [{
+				count: 2
+				id: "2000000000001023"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001024"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+		}
+		{
+			title: "O Misturador Mecânico"
+			dependencies: ["1000000000001009"]
+			icon: { id: "create:mechanical_mixer" }
+			id: "1000000000001007"
+			size: 1.0d
+			x: 1.0d
+			y: 3.0d
+			description: [
+				"§5Reações e Ligas§r"
+				""
+				"O §aMisturador Mecânico§r trabalha em conjunto com uma Bacia para processar compostos e criar ligas avançadas."
+			]
+			rewards: [{
+				count: 5
+				id: "2000000000001025"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001026"
+				item: { count: 1, id: "create:mechanical_mixer" }
+				type: "item"
+			}]
+		}
+		{
+			title: "O Queimador de Blaze"
+			dependencies: ["1000000000001009"]
+			icon: { id: "create:blaze_burner" }
+			id: "1000000000001008"
+			size: 1.0d
+			x: 0.0d
+			y: 3.5d
+			description: [
+				"§4Calor Controlado§r"
+				""
+				"Aprisione um Blaze para fornecer o calor intenso necessário nas bacias de mistura e fundição."
+			]
+			rewards: [{
+				count: 3
+				id: "2000000000001027"
+				item: { count: 1, id: "create:empty_blaze_burner" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001028"
+				item: { count: 1, id: "create:blaze_burner" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Fluidos: Tubos de Cobre"
+			dependencies: ["1000000000001003"]
+			icon: { id: "create:fluid_pipe" }
+			id: "1000000000001010"
+			size: 1.25d
+			x: -12.0d
+			y: -1.5d
+			description: [
+				"§bCanalizando Líquidos§r"
+				""
+				"Tubulações de cobre essenciais para transportar água, lava e fluidos industriais pela sua fábrica."
+			]
+			rewards: [{
+				count: 10
+				id: "2000000000001029"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001030"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Armazenamento de Líquidos: Tanques"
+			dependencies: ["1000000000001010"]
+			icon: { id: "create:fluid_tank" }
+			id: "1000000000001026"
+			size: 1.25d
+			x: -13.0d
+			y: 0.0d
+			description: [
+				"§9Reservatórios Industriais§r"
+				""
+				"Construa tanques de fluidos modulares para armazenar grandes volumes de líquidos e alimentar caldeiras."
+			]
+			rewards: [{
+				count: 2
+				id: "2000000000001031"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001032"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Movimentação Forçada: Bomba Mecânica"
+			dependencies: ["1000000000001010"]
+			icon: { id: "create:mechanical_pump" }
+			id: "1000000000001027"
+			size: 1.0d
+			x: -12.0d
+			y: -3.0d
+			description: [
+				"§bPressão nos Canos§r"
+				""
+				"A §aBomba Mecânica§r acelera e direciona o fluxo de líquidos através das tubulações usando energia rotacional."
+			]
+			rewards: [{
+				count: 4
+				id: "2000000000001033"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001034"
+				item: { count: 1, id: "create:mechanical_pump" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Logística Ferroviária: Trilhos"
+			dependencies: ["1000000000001003"]
+			icon: { id: "create:track" }
+			id: "1000000000001028"
+			size: 1.25d
+			x: -1.0d
+			y: 7.0d
+			description: [
+				"§6Caminhos de Ferro§r"
+				""
+				"Os §aTrilhos§r do Create permitem traçar caminhos complexos para conectar bases distantes e movimentar trens automáticos."
+			]
+			rewards: [{
+				count: 32
+				id: "2000000000001035"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001036"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+		}
+		{
+			title: "Estação de Trem"
+			dependencies: ["1000000000001028"]
+			icon: { id: "create:track_station" }
+			id: "1000000000001029"
+			size: 1.25d
+			x: 1.0d
+			y: 7.0d
+			description: [
+				"§eControlando Partidas§r"
+				""
+				"A §aEstação de Trem§r gerencia rotas, monta locomotivas e permite programar paradas automáticas para o transporte de cargas."
+			]
+			rewards: [{
+				count: 2
+				id: "2000000000001037"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 1L
+				id: "2000000000001038"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+		}
+		{
+			title: "O Primeiro Trem"
+			dependencies: ["1000000000001029"]
+			icon: { id: "create:controls" }
+			id: "1000000000001030"
+			size: 1.5d
+			x: 0.0d
+			y: 9.0d
+			description: [
+				"§aDomando os Trilhos§r"
+				""
+				"Monte sua primeira locomotiva usando controles, carcaças ferroviárias e cola super para cruzar o mundo com toneladas de recursos!"
+			]
+			rewards: [{
+				count: 1
+				id: "2000000000001039"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001040"
+					item: { count: 1, id: "create:controls" }
+					type: "item"
+				}
+				{
+					count: 1L
+					id: "2000000000001041"
+					item: { count: 1, id: "create:super_glue" }
+					type: "item"
+				}
+			]
+		}
+	]
+}

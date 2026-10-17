@@ -1,0 +1,2250 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "apothic_enchanting"
+	group: "02FE661031A105D8"
+	icon: {
+		id: "apothic_enchanting:apothic_enchanting_table"
+	}
+	id: "1000000000001105"
+	images: [
+		{
+			height: 3.0d
+			id: "6B31EF4BCC9E9AB8"
+			image: "atm:textures/questpics/apothic/logo.png"
+			rotation: 0.0d
+			width: 9.23913043478261d
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			height: 2.5d
+			id: "1D30474A02DD5166"
+			image: "atm:textures/questpics/apothic/enchant_nether.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 2.5d
+			id: "09761AEF64B22085"
+			image: "atm:textures/questpics/apothic/enchant_ocean.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.5d
+			id: "23773B8C5C49C911"
+			image: "atm:textures/questpics/apothic/enchant_infusions.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			id: "134EAC6CBE8B62FD"
+			image: "atm:textures/questpics/apothic/enchant_eterna.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			id: "67401A872CF5034F"
+			image: "atm:textures/questpics/apothic/enchant_quanta.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			id: "76E4F1C205FB51F9"
+			image: "atm:textures/questpics/apothic/enchant_arcana.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			id: "0C283B30B7FD4B9A"
+			image: "atm:textures/questpics/apothic/enchant_deep.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			id: "57C6BB5EEEDD275C"
+			image: "atm:textures/questpics/apothic/enchant_end.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 19.0d
+			y: 0.0d
+		}
+		{
+			height: 0.75d
+			id: "7EC4F444BB5200E3"
+			image: "atm:textures/questpics/apothic/gear_tiers.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			id: "2C265B551E395435"
+			image: "apotheosis:textures/gui/book/haven_icon.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			id: "19DF570044B9538E"
+			image: "apotheosis:textures/gui/book/frontier_icon.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			id: "49C3E58EEB4639BB"
+			image: "apotheosis:textures/gui/book/summit_icon.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			id: "46AD809B7DFCE740"
+			image: "atm:textures/questpics/apothic/ascent_button.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			id: "4532C2567E1B23E9"
+			image: "atm:textures/questpics/apothic/pinnacle_button.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			height: 1.25d
+			id: "268BF50BD523E58B"
+			image: "atm:textures/questpics/apothic/apotheos1.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 10.5d
+			y: -4.0d
+		}
+	]
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [
+		{
+			id: "1000000000001250"
+			linked_quest: "196312DF0D2E2CB6"
+			x: 10.5d
+			y: -5.0d
+		}
+		{
+			id: "1000000000001251"
+			linked_quest: "377A41499D8218C9"
+			x: 11.5d
+			y: -5.0d
+		}
+		{
+			id: "1000000000001252"
+			linked_quest: "2A032EC573B5316C"
+			x: 12.5d
+			y: -5.0d
+		}
+		{
+			id: "1000000000001253"
+			linked_quest: "1D1FAA2F86695781"
+			x: 13.5d
+			y: -5.0d
+		}
+		{
+			id: "1000000000001254"
+			linked_quest: "097FDC136BC843A7"
+			x: 14.5d
+			y: -5.0d
+		}
+		{
+			id: "1000000000001255"
+			linked_quest: "7EF873DCEB3B9D48"
+			x: 15.5d
+			y: -5.0d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "apothic_enchanting:apothic_enchanting_table"
+			}
+			id: "1000000000001105"
+			rewards: [
+				{
+					count: 18
+					id: "2000000000001239"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001240"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "gear"
+			size: 3.0d
+			description: [
+				"§6O Altar da Magia Suprema§r",
+				"",
+				"Esqueça as antigas limitações do nível 30. O Apothic Enchanting transforma o sistema de encantamentos em uma arte profunda e altamente customizável.",
+				"",
+				"Para dominar o altar, você precisará equilibrar três estatísticas fundamentais:",
+				"• §bEterna§r: Define o limite máximo de nível de encantamento.",
+				"• §aQuanta§r: Controla a volatilidade e o potencial caótico dos feitiços.",
+				"• §dArcana§r: Multiplica as chances de obter encantamentos raros e linhas adicionais.",
+				"",
+				"Construa sua Mesa de Encantamentos para dar o primeiro passo rumo ao poder absoluto!"
+			]
+			tasks: [{
+				id: "2000000000001241"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:enchanting_table)item(apothic_enchanting:apothic_enchanting_table))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001105"]
+			icon: {
+				id: "apothic_enchanting:basic_bookshelf"
+			}
+			id: "1000000000001106"
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001242"
+					item: {
+						count: 1
+						id: "apothic_enchanting:basic_bookshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001243"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§bFundação de Estantes§r",
+				"",
+				"As estantes de livros tradicionais formam a base indispensável para acumular §bEterna§r ao redor da sua mesa.",
+				"",
+				"Reúne estantes suficientes para iniciar seus experimentos arcanos."
+			]
+			tasks: [{
+				count: 15L
+				id: "2000000000001244"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:bookshelves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001106"]
+			icon: {
+				id: "apothic_enchanting:apothic_enchanting_table"
+			}
+			id: "1000000000001107"
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001245"
+					item: {
+						count: 1
+						id: "minecraft:lapis_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001246"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "octagon"
+			size: 2.25d
+			description: [
+				"§dO Primeiro Encantamento§r",
+				"",
+				"Realize seu primeiro encanto na mesa modificada para sintonizar sua alma com as correntes mágicas do mod."
+			]
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "2000000000001247"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			hide_dependent_lines: true
+			id: "1000000000001108"
+			rewards: [
+				{
+					count: 9
+					id: "2000000000001248"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001249"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "rsquare"
+			description: [
+				"§9O Combustível Azul§r",
+				"",
+				"O lápis-lazúli continua sendo o catalisador físico essencial para canalizar a energia nos rituais de encantamento."
+			]
+			tasks: [{
+				count: 3L
+				id: "2000000000001250"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001137"
+			]
+			icon: {
+				id: "minecraft:trident"
+			}
+			id: "1000000000001109"
+			rewards: [{
+				id: "2000000000001251"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:impaling": 5
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			description: [
+				"§bTridente Inerte§r",
+				"",
+				"Uma base metálica preparada para absorver encantamentos aquáticos de nível máximo através de infusão."
+			]
+			tasks: [{
+				id: "2000000000001252"
+				item: { count: 1, id: "apothic_enchanting:inert_trident" },
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "1000000000001110"
+			rewards: [
+				{
+					id: "2000000000001253"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:looting": 2
+									"minecraft:sharpness": 2
+									"minecraft:unbreaking": 2
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001254"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§6Biblioteca Central§r",
+				"",
+				"Armazene centenas de livros encantados de forma organizada e resgate feitiços sob demanda."
+			]
+			tasks: [{
+				id: "2000000000001255"
+				item: { count: 1, id: "apothic_enchanting:library" },
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1000000000001110",
+				"1000000000001108",
+				"1000000000001138"
+			]
+			id: "1000000000001111"
+			rewards: [
+				{
+					id: "2000000000001256"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:looting": 5
+									"minecraft:sharpness": 5
+									"minecraft:unbreaking": 5
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001257"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§5Biblioteca do Fim§r",
+				"",
+				"Uma evolução interdimensional da biblioteca, permitindo acesso remoto ao seu catálogo de encantamentos."
+			]
+			tasks: [{
+				id: "2000000000001258"
+				item: { count: 1, id: "apothic_enchanting:ender_library" },
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001134",
+				"1000000000001136",
+				"1000000000001135"
+			]
+			id: "1000000000001112"
+			rewards: [
+				{
+					id: "2000000000001259"
+					item: {
+						count: 1
+						id: "minecraft:lapis_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001260"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "rsquare"
+			description: [
+				"§eEstantes Auxiliares§r",
+				"",
+				"Estantes alternativas criadas com materiais exóticos para modular as estatísticas do seu altar."
+			]
+			tasks: [
+				{
+					id: "2000000000001261"
+					item: { count: 1, id: "apothic_enchanting:beeshelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001262"
+					item: { count: 1, id: "apothic_enchanting:stoneshelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001263"
+					item: { count: 1, id: "apothic_enchanting:melonshelf" },
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			id: "1000000000001113"
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001264"
+					item: {
+						count: 1
+						id: "apothic_enchanting:hellshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001265"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§cHellshelves: O Fogo do Nether§r",
+				"",
+				"Estantes imbuídas com o calor do inferno para disparar os níveis de §aQuanta§r do altar."
+			]
+			tasks: [{
+				count: 11L
+				id: "2000000000001266"
+				item: { count: 1, id: "apothic_enchanting:hellshelf" },
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1000000000001113",
+				"1000000000001137"
+			]
+			id: "1000000000001114"
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001267"
+					item: {
+						count: 1
+						id: "apothic_enchanting:infused_hellshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001268"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			description: [
+				"§4Hellshelves Infundidas§r",
+				"",
+				"Versões aprimoradas que liberam fluxos destrutivos de energia mágica volátil."
+			]
+			tasks: [{
+				count: 8L
+				id: "2000000000001269"
+				item: { count: 1, id: "apothic_enchanting:infused_hellshelf" },
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1000000000001114"]
+			id: "1000000000001115"
+			rewards: [{
+				id: "2000000000001270"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			description: [
+				"§eEstantes de Visão§r",
+				"",
+				"Permitem enxergar além do véu, revelando os encantamentos ocultos nas linhas superiores."
+			]
+			tasks: [
+				{
+					id: "2000000000001271"
+					item: { count: 1, id: "apothic_enchanting:sightshelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001272"
+					item: { count: 1, id: "apothic_enchanting:sightshelf_t2" },
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1000000000001114"]
+			id: "1000000000001116"
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001273"
+					item: {
+						count: 1
+						id: "apothic_enchanting:blazing_hellshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001274"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§cEstante Ardente§r",
+				"",
+				"Chamas eternas contidas em blocos estelares para maximizar o caos mágico."
+			]
+			tasks: [{
+				id: "2000000000001275"
+				item: { count: 1, id: "apothic_enchanting:blazing_hellshelf" },
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1000000000001114"]
+			id: "1000000000001117"
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001276"
+					item: {
+						count: 1
+						id: "apothic_enchanting:dormant_deepshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001277"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§7Glowing Hellshelf§r",
+				"",
+				"Brilho espectral que estabiliza campos de Quanta altamente carregados."
+			]
+			tasks: [{
+				count: 13L
+				id: "2000000000001278"
+				item: { count: 1, id: "apothic_enchanting:glowing_hellshelf" },
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1000000000001139"]
+			id: "1000000000001118"
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001279"
+					item: {
+						count: 1
+						id: "apothic_enchanting:deepshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001280"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001281"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			description: [
+				"§3Deepshelves: As Profundezas§r",
+				"",
+				"Estantes recolhidas nas cavernas subterrâneas mais profundas do mundo."
+			]
+			tasks: [{
+				id: "2000000000001282"
+				item: { count: 1, id: "apothic_enchanting:deepshelf" },
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001118"]
+			id: "1000000000001119"
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001283"
+					item: {
+						count: 1
+						id: "minecraft:sculk"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001284"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§1Soul-Touched Deepshelf§r",
+				"",
+				"Imbuída com a essência vibrante do bioma Sculk."
+			]
+			tasks: [{
+				id: "2000000000001285"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_deepshelf" },
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1000000000001119"]
+			id: "1000000000001120"
+			rewards: [
+				{
+					id: "2000000000001286"
+					item: {
+						count: 1
+						id: "apothic_enchanting:warden_tendril"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001287"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			description: [
+				"§3Soul-Touched Sculkshelf§r",
+				"",
+				"Gera frequências sonoras místicas ligadas ao guardião das profundezas."
+			]
+			tasks: [{
+				id: "2000000000001288"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" },
+				type: "item"
+			}]
+			x: 13.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001118"]
+			id: "1000000000001121"
+			rewards: [
+				{
+					count: 4
+					id: "2000000000001289"
+					item: {
+						count: 1
+						id: "minecraft:sculk"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001290"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§bEchoing Deepshelf§r",
+				"",
+				"Ressoa ecos ancestrais capazes de reconfigurar as linhas de feitiçaria."
+			]
+			tasks: [{
+				id: "2000000000001291"
+				item: { count: 1, id: "apothic_enchanting:echoing_deepshelf" },
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000001121"]
+			id: "1000000000001122"
+			rewards: [
+				{
+					id: "2000000000001292"
+					item: {
+						count: 1
+						id: "apothic_enchanting:warden_tendril"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001293"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			description: [
+				"§3Echoing Sculkshelf§r",
+				"",
+				"Poder sónico puro canalizado diretamente para o altar."
+			]
+			tasks: [{
+				id: "2000000000001294"
+				item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" },
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001141"]
+			icon: {
+				id: "apothic_enchanting:endshelf"
+			}
+			id: "1000000000001123"
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001295"
+					item: {
+						count: 1
+						id: "apothic_enchanting:endshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001296"
+					item: {
+						count: 1
+						id: "minecraft:dragon_head"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001297"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§dEndshelves: O Vazio Estelar§r",
+				"",
+				"Estantes colhidas nas ilhas do Fim, projetadas para arquivar energias cósmicas."
+			]
+			tasks: [{
+				id: "2000000000001298"
+				item: { count: 1, id: "apothic_enchanting:endshelf" },
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			id: "1000000000001124"
+			rewards: [{
+				id: "2000000000001299"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.4d
+			description: [
+				"§dGeode Shelf§r",
+				"",
+				"Cristais de ametista pura focados na ampliação de Arcana."
+			]
+			tasks: [{
+				id: "2000000000001300"
+				item: { count: 1, id: "apothic_enchanting:geode_shelf" },
+				type: "item"
+			}]
+			x: 4.2d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001123"]
+			id: "1000000000001125"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000001301"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2000000000001302"
+					item: {
+						count: 1
+						id: "minecraft:end_stone_bricks"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001303"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§5Pearl Endshelf§r",
+				"",
+				"Pérolas do fim fundidas na estrutura para teletransporte de feitiços."
+			]
+			tasks: [{
+				id: "2000000000001304"
+				item: { count: 1, id: "apothic_enchanting:pearl_endshelf" },
+				type: "item"
+			}]
+			x: 20.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1000000000001123"]
+			id: "1000000000001126"
+			rewards: [
+				{
+					count: 1
+					id: "2000000000001305"
+					item: {
+						count: 1
+						id: "apothic_enchanting:draconic_endshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001306"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§dDraconic Endshelf§r",
+				"",
+				"O expoente máximo das estantes estelares, infundido com o poder dos dragões."
+			]
+			tasks: [{
+				id: "2000000000001307"
+				item: { count: 1, id: "apothic_enchanting:draconic_endshelf" },
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000001126"]
+			icon: {
+				id: "apothic_enchanting:treasure_shelf"
+			}
+			id: "1000000000001127"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000001308"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "2000000000001309"
+					item: {
+						count: 1
+						id: "minecraft:lapis_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001310"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			description: [
+				"§6Treasure Shelf: O Tesouro Arcano§r",
+				"",
+				"A obra-prima estrutural que unifica todas as energias conhecidas do mod."
+			]
+			tasks: [
+				{
+					count: 5L
+					id: "2000000000001311"
+					item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" },
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2000000000001312"
+					item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001313"
+					item: { count: 1, id: "apothic_enchanting:draconic_endshelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001314"
+					item: { count: 1, id: "apothic_enchanting:geode_shelf" },
+					type: "item"
+				}
+				{
+					id: "2000000000001315"
+					item: { count: 1, id: "apothic_enchanting:treasure_shelf" },
+					optional_task: true,
+					type: "item"
+				}
+			]
+			x: 22.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			id: "1000000000001128"
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001316"
+					item: {
+						count: 1
+						id: "apothic_enchanting:seashelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001317"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§bSeashelves: As Marés Arcanas§r",
+				"",
+				"Estantes marinhas infundidas com a serenidade e o fluxo dos oceanos."
+			]
+			tasks: [{
+				count: 11L
+				id: "2000000000001318"
+				item: { count: 1, id: "apothic_enchanting:seashelf" },
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"1000000000001128",
+				"1000000000001137"
+			]
+			id: "1000000000001129"
+			rewards: [
+				{
+					count: 4
+					id: "2000000000001319"
+					item: {
+						count: 1
+						id: "apothic_enchanting:infused_seashelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001320"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			description: [
+				"§3Seashelves Infundidas§r",
+				"",
+				"Canais de água e cristais estabilizados que aumentam substancialmente a §dArcana§r."
+			]
+			tasks: [{
+				count: 8L
+				id: "2000000000001321"
+				item: { count: 1, id: "apothic_enchanting:infused_seashelf" },
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1000000000001129"]
+			id: "1000000000001130"
+			rewards: [
+				{
+					id: "2000000000001322"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:binding_curse": 1
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001323"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:vanishing_curse": 1
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001324"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§bFiltering Shelf§r",
+				"",
+				"Filtra e purifica propriedades indesejadas durante a leitura de tomos."
+			]
+			tasks: [{
+				id: "2000000000001325"
+				item: { count: 1, id: "apothic_enchanting:filtering_shelf" },
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1000000000001129"]
+			id: "1000000000001131"
+			rewards: [
+				{
+					id: "2000000000001326"
+					item: {
+						count: 1
+						id: "apothic_enchanting:heart_seashelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001327"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			description: [
+				"§bHeart Seashelf§r",
+				"",
+				"Contém o fulgor pulsante do coração do oceano."
+			]
+			tasks: [{
+				id: "2000000000001328"
+				item: { count: 1, id: "apothic_enchanting:heart_seashelf" },
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1000000000001129"]
+			id: "1000000000001132"
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001329"
+					item: {
+						count: 1
+						id: "apothic_enchanting:dormant_deepshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001330"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			description: [
+				"§3Crystal Seashelf§r",
+				"",
+				"Cristais marinhos purificados para máxima estabilidade nos feitiços."
+			]
+			tasks: [{
+				count: 12L
+				id: "2000000000001331"
+				item: { count: 1, id: "apothic_enchanting:crystal_seashelf" },
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			id: "1000000000001133"
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001332"
+					item: {
+						count: 1
+						id: "apothic_enchanting:seashelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001333"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 1.3d
+			description: [
+				"§bSeashelf de Apoio§r",
+				"",
+				"Estante auxiliar para modular a presença de água ao redor da mesa."
+			]
+			tasks: [{
+				id: "2000000000001334"
+				item: { count: 1, id: "apothic_enchanting:seashelf" },
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			icon: {
+				id: "apothic_enchanting:basic_bookshelf"
+			}
+			id: "1000000000001135"
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001335"
+					item: {
+						count: 1
+						id: "apothic_enchanting:basic_bookshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001336"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 1.3d
+			description: [
+				"§7Estantes Padrão§r",
+				"",
+				"A estrutura básica de madeira e couro para suportar volumes arcanos."
+			]
+			tasks: [{
+				id: "2000000000001337"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:bookshelves))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1000000000001107"]
+			id: "1000000000001136"
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001338"
+					item: {
+						count: 1
+						id: "apothic_enchanting:hellshelf"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001339"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 1.3d
+			description: [
+				"§cHellshelf Secundária§r",
+				"",
+				"Estante de suporte térmico para ajustar o altar."
+			]
+			tasks: [{
+				id: "2000000000001340"
+				item: { count: 1, id: "apothic_enchanting:hellshelf" },
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"1000000000001124",
+				"1000000000001142"
+			]
+			id: "1000000000001337"
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001341"
+					item: {
+						count: 1
+						id: "minecraft:dragon_breath"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001342"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			description: [
+				"§dInfused Breath§r",
+				"",
+				"Bafo de dragão infundido para rituais de nível lendário."
+			]
+			tasks: [{
+				id: "2000000000001343"
+				item: { count: 1, id: "apothic_enchanting:infused_breath" },
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001142"
+			],
+			id: "1000000000001138",
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001344"
+					item: {
+						count: 1
+						id: "minecraft:budding_amethyst"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2000000000001345"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+			],
+			description: [
+				"§bAmetista Brotadora§r",
+				"",
+				"Cristal essencial para focar feitiços de alta densidade."
+			]
+			tasks: [{
+				id: "2000000000001346"
+				item: { count: 1, id: "minecraft:budding_amethyst" },
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001143"
+			],
+			id: "1000000000001139",
+			rewards: [{
+				count: 2
+				id: "2000000000001347"
+				item: {
+					count: 1
+					id: "minecraft:echo_shard"
+				}
+				type: "item"
+			}],
+			shape: "circle",
+			description: [
+				"§3Fragmento de Eco§r",
+				"",
+				"Captura vibrações acústicas profundas para rituais proibidos."
+			]
+			tasks: [{
+				id: "2000000000001348"
+				item: { count: 1, id: "minecraft:echo_shard" },
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001137"
+			],
+			id: "1000000000001140",
+			rewards: [
+				{
+					id: "2000000000001349"
+					type: "xp_levels"
+					xp_levels: 5
+				},
+				{
+					description: ""
+					id: "2000000000001350"
+					type: "toast"
+				}
+			],
+			shape: "diamond",
+			description: [
+				"§6Amuleto Arcano§r",
+				"",
+				"Acessório mágico com sinergia direta com o mod."
+			]
+			tasks: [{
+				id: "2000000000001351"
+				item: { components: { "ftbfiltersystem:filter": "or(and(item_tag(curios:charm)mod(apotheosis)))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1000000000001144"]
+			id: "1000000000001141",
+			rewards: [{
+				id: "2000000000001352"
+				item: {
+					count: 1
+					id: "minecraft:anvil"
+				}
+				type: "item"
+			}],
+			shape: "rsquare",
+			description: [
+				"§8Scrap Tome§r",
+				"",
+				"Tomo simples para reciclar e extrair migalhas de conhecimento de livros."
+			]
+			tasks: [{
+				id: "2000000000001353"
+				item: { count: 1, id: "apothic_enchanting:scrap_tome" },
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1000000000001108"],
+			hide_dependency_lines: true,
+			id: "1000000000001144",
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001354"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				},
+				{
+					count: 6
+					id: "2000000000001355"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+			],
+			shape: "pentagon",
+			size: 1.2d,
+			description: [
+				"§6Livro de Estudos§r",
+				"",
+				"A base literária para encadernação de tomos encantados."
+			]
+			tasks: [{
+				id: "2000000000001356"
+				item: { count: 1, id: "minecraft:book" },
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001141",
+				"1000000000001137"
+			],
+			id: "1000000000001142",
+			rewards: [{
+				id: "2000000000001357"
+				type: "xp_levels"
+				xp_levels: 2
+			}],
+			shape: "rsquare",
+			description: [
+				"§eImproved Scrap Tome§r",
+				"",
+				"Versão aprimorada para recolha eficiente de encantamentos descartados."
+			]
+			tasks: [{
+				id: "2000000000001358"
+				item: { count: 1, id: "apothic_enchanting:improved_scrap_tome" },
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001142",
+				"1000000000001140"
+			],
+			id: "1000000000001143",
+			rewards: [{
+				id: "2000000000001359"
+				type: "xp_levels"
+				xp_levels: 4
+			}],
+			shape: "rsquare",
+			description: [
+				"§dExtraction Tome§r",
+				"",
+				"Extrai encantamentos na íntegra de ferramentas e armaduras."
+			]
+			tasks: [{
+				id: "2000000000001360"
+				item: { count: 1, id: "apothic_enchanting:extraction_tome" },
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1000000000001144"],
+			id: "1000000000001145",
+			rewards: [{
+				id: "2000000000001361"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:protection": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}],
+			shape: "rsquare",
+			description: [
+				"§5Tomo de Armadura§r",
+				"",
+				"Especializado em encantamentos defensivos."
+			]
+			tasks: [{
+				id: "2000000000001362"
+				item: { components: { "ftbfiltersystem:filter": "or(item(apothic_enchanting:helmet_tome)item(apothic_enchanting:chestplate_tome)item(apothic_enchanting:leggings_tome)item(apothic_enchanting:boots_tome))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1000000000001144"],
+			id: "1000000000001146",
+			rewards: [{
+				id: "2000000000001363"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:sharpness": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}],
+			shape: "rsquare",
+			description: [
+				"§cTomo de Armas§r",
+				"",
+				"Focado em feitiços de dano e combate."
+			]
+			tasks: [{
+				id: "2000000000001364"
+				item: { components: { "ftbfiltersystem:filter": "or(item(apothic_enchanting:weapon_tome)item(apothic_enchanting:bow_tome))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1000000000001144"],
+			id: "1000000000001147",
+			rewards: [{
+				id: "2000000000001365"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:efficiency": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}],
+			shape: "rsquare",
+			description: [
+				"§bTomo de Ferramentas§r",
+				"",
+				"Aumenta a eficiência de mineração e colheita."
+			]
+			tasks: [{
+				id: "2000000000001366"
+				item: { components: { "ftbfiltersystem:filter": "or(item(apothic_enchanting:pickaxe_tome)item(apothic_enchanting:fishing_tome))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1000000000001144"],
+			id: "1000000000001148",
+			rewards: [{
+				id: "2000000000001367"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:unbreaking": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}],
+			shape: "rsquare",
+			description: [
+				"§dOutros Tomos§r",
+				"",
+				"Tomos versáteis para utilidades diversas."
+			]
+			tasks: [{
+				id: "2000000000001368"
+				item: { count: 1, id: "apothic_enchanting:other_tome" },
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1000000000001108"],
+			id: "1000000000001149",
+			rewards: [{
+				count: 8
+				id: "2000000000001369"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				type: "item"
+			}],
+			shape: "circle",
+			description: [
+				"§aFrasco de Experiência§r",
+				"",
+				"Essencial para rituais arcanos."
+			]
+			tasks: [{
+				id: "2000000000001370"
+				item: { count: 1, id: "minecraft:honey_bottle" },
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "1000000000001150",
+			rewards: [
+				{
+					id: "2000000000001371"
+					item: {
+						count: 1
+						id: "apothic_enchanting:flimsy_ender_lead"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001372"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			],
+			description: [
+				"§dFlimsy Ender Lead§r",
+				"",
+				"Guia inicial para transporte de energias do Fim."
+			]
+			tasks: [{
+				id: "2000000000001373"
+				item: { count: 1, id: "apothic_enchanting:flimsy_ender_lead" },
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001150",
+				"1000000000001337"
+			],
+			id: "1000000000001151",
+			rewards: [
+				{
+					id: "2000000000001374"
+					item: {
+						count: 1
+						id: "apothic_enchanting:ender_lead"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001375"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			],
+			description: [
+				"§5Ender Lead§r",
+				"",
+				"Conexão estável com dimensões paralelas."
+			]
+			tasks: [{
+				id: "2000000000001376"
+				item: { count: 1, id: "apothic_enchanting:ender_lead" },
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001151",
+				"1000000000001139"
+			],
+			id: "1000000000001152",
+			rewards: [
+				{
+					id: "2000000000001377"
+					item: {
+						count: 1
+						id: "minecraft:spawner"
+					}
+					type: "item"
+				}
+				{
+					id: "2000000000001378"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			],
+			description: [
+				"§dOccult Ender Lead§r",
+				"",
+				"Tecnologia oculta aplicada ao transporte de geradores."
+			]
+			tasks: [{
+				id: "2000000000001379"
+				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" },
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"2A032EC573B5316C",
+				"1000000000001153"
+			],
+			hide_dependency_lines: true,
+			hide_dependent_lines: true,
+			icon: {
+				components: {
+					"gateways:gateway": "apotheosis:tiered/frontier"
+				},
+				id: "gateways:gate_pearl"
+			},
+			id: "1000000000001337",
+			rewards: [{
+				id: "2000000000001380",
+				type: "xp_levels"
+				xp_levels: 2
+			}],
+			shape: "circle",
+			size: 1.4d,
+			description: [
+				"§6Fronteira Desbravada§r",
+				"",
+				"Portais de portões concluídos."
+			]
+			tasks: [{
+				advancement: "apotheosis:progression/frontier",
+				criterion: "",
+				id: "2000000000001381",
+				type: "advancement"
+			}],
+			x: 2.8d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1D1FAA2F86695781",
+				"1000000000001154"
+			],
+			hide_dependency_lines: true,
+			hide_dependent_lines: true,
+			icon: {
+				components: {
+					"gateways:gateway": "apotheosis:tiered/ascent"
+				},
+				id: "gateways:gate_pearl"
+			},
+			id: "1000000000001382",
+			rewards: [{
+				id: "2000000000001383",
+				type: "xp_levels"
+				xp_levels: 3
+			}],
+			shape: "circle",
+			size: 1.4d,
+			description: [
+				"§bAscensão Mágica§r",
+				"",
+				"Prova superada nos portões dimensionais."
+			]
+			tasks: [{
+				advancement: "apotheosis:progression/ascent",
+				criterion: "",
+				id: "2000000000001384",
+				type: "advancement"
+			}],
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1000000000001113",
+				"1000000000001128"
+			],
+			dependency_requirement: "one_completed",
+			icon: {
+				id: "minecraft:oak_fence_gate"
+			}
+			id: "1000000000001153",
+			size: 0.25d,
+			description: [
+				"§ePonto de Passagem§r",
+				"",
+				"Cruzamento de energias no Overworld."
+			]
+			tasks: [{
+				dimension: "minecraft:overworld",
+				id: "2000000000001385",
+				type: "dimension"
+			}],
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1000000000001117",
+				"1000000000001132"
+			],
+			dependency_requirement: "one_completed",
+			icon: {
+				id: "minecraft:oak_fence_gate"
+			}
+			id: "1000000000001154",
+			size: 0.25d,
+			description: [
+				"§ePonto Avançado§r",
+				"",
+				"Transição para patamares superiores."
+			]
+			tasks: [{
+				dimension: "minecraft:overworld",
+				id: "2000000000001386",
+				type: "dimension"
+			}],
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["097FDC136BC843A7"],
+			hide_dependency_lines: true,
+			hide_dependent_lines: true,
+			icon: {
+				components: {
+					"gateways:gateway": "apotheosis:tiered/summit"
+				},
+				id: "gateways:gate_pearl"
+			},
+			id: "1000000000001155",
+			rewards: [{
+				id: "2000000000001387",
+				type: "xp_levels"
+				xp_levels: 4
+			}],
+			shape: "circle",
+			description: [
+				"§5Cúpula do Poder§r",
+				"",
+				"Segredos do Fim desbloqueados."
+			],
+			tasks: [{
+				advancement: "apotheosis:progression/summit",
+				criterion: "",
+				id: "2000000000001388",
+				type: "advancement"
+			}],
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1000000000001122",
+				"1000000000001120",
+				"7EF873DCEB3B9D48"
+			],
+			hide_dependent_lines: true,
+			icon: {
+				components: {
+					"gateways:gateway": "apotheosis:tiered/pinnacle"
+				},
+				id: "gateways:gate_pearl"
+			},
+			id: "1000000000001156",
+			rewards: [{
+				id: "2000000000001389",
+				type: "xp_levels"
+				xp_levels: 5
+			}],
+			shape: "circle",
+			size: 1.4d,
+			description: [
+				"§dPináculo do Conhecimento§r",
+				"",
+				"O patamar mais elevado da magia de encantamento."
+			],
+			tasks: [{
+				advancement: "apotheosis:progression/pinnacle",
+				criterion: "",
+				id: "2000000000001390",
+				type: "advancement"
+			}],
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1000000000001108",
+				"1000000000001155"
+			],
+			id: "1000000000001157",
+			rewards: [{
+				id: "2000000000001391",
+				type: "xp_levels"
+				xp_levels: 6
+			}],
+			shape: "rsquare",
+			description: [
+				"§bRunas Infundidas de Spawner§r",
+				"",
+				"Elos mágicos para automação de geradores."
+			],
+			tasks: [{
+				id: "2000000000001392",
+				item: { count: 1, id: "apotheosis:infused_spawner_rune" },
+				type: "item"
+			}],
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			id: "1000000000001158",
+			rewards: [
+				{
+					id: "2000000000001393",
+					item: {
+						components: {
+							"apotheosis:gem": "apotheosis:core/warlord",
+							"apotheosis:purity": "flawed"
+						},
+						count: 1,
+						id: "apotheosis:gem"
+					},
+					type: "item"
+				},
+				{
+					id: "2000000000001394",
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			],
+			description: [
+				"§eCaixa de Gemas§r",
+				"",
+				"Pedras preciosas brutas."
+			],
+			tasks: [{
+				id: "2000000000001395",
+				item: { count: 1, id: "apotheosis:gem_case" },
+				type: "item"
+			}],
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1000000000001158",
+				"1000000000001156"
+			],
+			id: "1000000000001159",
+			rewards: [
+				{
+					id: "2000000000001396",
+					item: {
+						components: {
+							"apotheosis:gem": "apotheosis:core/warlord",
+							"apotheosis:purity": "perfect"
+						},
+						count: 1,
+						id: "apotheosis:gem"
+					},
+					type: "item"
+				},
+				{
+					id: "2000000000001397",
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			],
+			description: [
+				"§5Caixa de Gemas do Fim§r",
+				"",
+				"Gemas de pureza perfeita extraídas do Vazio."
+			],
+			tasks: [{
+				id: "2000000000001398",
+				item: { count: 1, id: "apotheosis:ender_gem_case" },
+				type: "item"
+			}],
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1000000000001126"],
+			id: "1000000000001160",
+			rewards: [
+				{
+					count: 10,
+					id: "2000000000001399",
+					item: {
+						count: 1,
+						id: "apotheosis:godforged_pearl"
+					}
+					type: "item"
+				},
+				{
+					id: "2000000000001400",
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			],
+			shape: "circle",
+			size: 1.25d,
+			description: [
+				"§6Pérola Divina Infundida§r",
+				"",
+				"Condensa a essência dos deuses em energia pura."
+			],
+			tasks: [{
+				id: "2000000000001401",
+				item: { count: 1, id: "apotheosis:god_fused_pearl" },
+				type: "item"
+			}],
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001160"],
+			id: "1000000000001161",
+			rewards: [
+				{
+					id: "2000000000001402",
+					item: {
+						components: {
+							"apotheosis:gem": "apotheosis:the_nether/blood_lord",
+							"apotheosis:purity": "perfect"
+						},
+						count: 1,
+						id: "apotheosis:gem"
+					},
+					type: "item"
+				},
+				{
+					id: "2000000000001403",
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			],
+			shape: "rsquare",
+			size: 1.5d,
+			description: [
+				"§dMesa de Encantamento do Corvo§r",
+				"",
+				"O ápice definitivo da feitiçaria no Apotheosis."
+			],
+			tasks: [{
+				id: "2000000000001404",
+				item: { count: 1, id: "apothic_enchanting:raven_enchanting_table" },
+				type: "item"
+			}],
+			x: 25.0d
+			y: 0.0d
+		}
+		{
+			id: "1000000000001162",
+			invisible: true,
+			optional: true,
+			tags: ["arr"],
+			tasks: [{
+				id: "2000000000001405",
+				type: "checkmark"
+			}],
+			x: -9.5d
+			y: -7.0d
+		}
+	]
+}

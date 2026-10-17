@@ -1,0 +1,624 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis_2"
+	group: "6614EE2378B8AFB9"
+	icon: {
+		id: "minecraft:spawner"
+	}
+	id: "1000000000001062"
+	images: [
+		{
+			height: 2.5d
+			id: "1D71C2A4C0671414"
+			image: "atm:textures/questpics/apothic/apothic_spawners.png"
+			rotation: 0.0d
+			width: 2.5d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 3.0d
+			id: "60EBA8387B430C64"
+			image: "atm:textures/questpics/apothic/spawners_title.png"
+			rotation: 0.0d
+			width: 7.5d
+			x: 4.5d
+			y: -4.5d
+		}
+	]
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "1000000000001063"
+			rewards: [{
+				id: "2000000000001150",
+				type: "xp",
+				xp: 100
+			}],
+			shape: "gear",
+			size: 1.5d,
+			description: [
+				"§6O Berço das Almas§r",
+				"",
+				"O Gerador de Monstros padrão é a base essencial para a manipulação e criação de fazendas automatizadas de criaturas."
+			],
+			tasks: [{
+				id: "2000000000001151",
+				item: { count: 1, id: "minecraft:spawner" },
+				type: "item"
+			}],
+			x: 1.0d,
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001063"],
+			id: "1000000000001064",
+			rewards: [{
+				count: 64,
+				id: "2000000000001152",
+				item: {
+					count: 1,
+					id: "apotheosis:spawner_chain"
+				},
+				type: "item"
+			}],
+			description: [
+				"§8Contenção e Transporte§r",
+				"",
+				"Utilize correntes de spawner combinadas com cargas explosivas para extrair geradores intactos do mundo."
+			],
+			tasks: [
+				{
+					id: "2000000000001153",
+					item: { count: 1, id: "apotheosis:spawner_chain" },
+					type: "item"
+				},
+				{
+					id: "2000000000001154",
+					item: { count: 1, id: "minecraft:tnt" },
+					type: "item"
+				}
+			],
+			x: 2.5d,
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001064"],
+			id: "1000000000001065",
+			rewards: [{
+				count: 6,
+				id: "2000000000001155",
+				item: {
+					count: 1,
+					id: "apotheosis:spawner_rune"
+				},
+				type: "item"
+			}],
+			size: 1.25d,
+			description: [
+				"§bRunas Fundamentais§r",
+				"",
+				"As runas de spawner servem como catalisadores essenciais para modificar e aprimorar os parâmetros centrais dos seus geradores."
+			],
+			tasks: [{
+				id: "2000000000001156",
+				item: { count: 1, id: "apotheosis:spawner_rune" },
+				type: "item"
+			}],
+			x: 4.0d,
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001066",
+			rewards: [{
+				id: "2000000000001157",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§eOperação Silenciosa§r",
+				"",
+				"Torna o funcionamento do gerador completamente silencioso, eliminando o som ambiente durante a invocação."
+			],
+			tasks: [{
+				id: "2000000000001158",
+				item: { count: 1, id: "apotheosis:silent_spawner_rune" },
+				type: "item"
+			}],
+			x: 5.5d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001067",
+			rewards: [{
+				id: "2000000000001159",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§4Resistência Térmica§r",
+				"",
+				"Permite que o gerador opere ignorando restrições de fogo e calor do ambiente em redor."
+			],
+			tasks: [{
+				id: "2000000000001160",
+				item: { count: 1, id: "apotheosis:burning_spawner_rune" },
+				type: "item"
+			}],
+			x: 2.0d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001068",
+			rewards: [{
+				id: "2000000000001161",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§aSaúde Inicial Modificada§r",
+				"",
+				"Ajusta os pontos de vida iniciais com que as entidades nascem ao serem invocadas."
+			],
+			tasks: [{
+				id: "2000000000001162",
+				item: { count: 1, id: "apotheosis:initial_health_spawner_rune" },
+				type: "item"
+			}],
+			x: 3.2d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001069",
+			rewards: [{
+				id: "2000000000001163",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§bAbundância Jovem§r",
+				"",
+				"Garante que as criaturas nasçam em sua fase jovem, otimizando espólios específicos de filhotes."
+			],
+			tasks: [{
+				id: "2000000000001164",
+				item: { count: 1, id: "apotheosis:youthful_spawner_rune" },
+				type: "item"
+			}],
+			x: 4.5d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001070",
+			rewards: [{
+				id: "2000000000001165",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§dAlcance Ampliado§r",
+				"",
+				"Expande o raio de área em que o gerador consegue invocar os monstros com eficácia."
+			],
+			tasks: [{
+				id: "2000000000001166",
+				item: { count: 1, id: "apotheosis:spawn_range_spawner_rune" },
+				type: "item"
+			}],
+			x: 5.5d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001071",
+			rewards: [{
+				id: "2000000000001167",
+				type: "xp",
+				xp: 50
+			}],
+			description: [
+				"§fInsensibilidade à Luz§r",
+				"",
+				"Permite que o gerador funcione perfeitamente independentemente dos níveis de iluminação do local."
+			],
+			tasks: [{
+				id: "2000000000001168",
+				item: { count: 1, id: "apotheosis:ignore_light_spawner_rune" },
+				type: "item"
+			}],
+			x: 6.5d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001072",
+			rewards: [{
+				id: "2000000000001169",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§cAceleração de Invocação§r",
+				"",
+				"Reduz drasticamente o tempo mínimo de espera entre cada ciclo de invocação do gerador."
+			],
+			tasks: [{
+				id: "2000000000001170",
+				item: { count: 1, id: "apotheosis:min_delay_spawner_rune" },
+				type: "item"
+			}],
+			x: 2.0d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001073",
+			rewards: [{
+				id: "2000000000001171",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§cEstabilização de Tempo Max§r",
+				"",
+				"Reduz o limite máximo do intervalo de tempo necessário para o gerador disparar o próximo grupo de criaturas."
+			],
+			tasks: [{
+				id: "2000000000001172",
+				item: { count: 1, id: "apotheosis:max_delay_spawner_rune" },
+				type: "item"
+			}],
+			x: 3.2d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001074",
+			rewards: [{
+				id: "2000000000001173",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§9Multiplicação de Entidades§r",
+				"",
+				"Aumenta o número total de monstros que o gerador cria de forma simultânea a cada ciclo ativado."
+			],
+			tasks: [{
+				id: "2000000000001174",
+				item: { count: 1, id: "apotheosis:spawn_count_spawner_rune" },
+				type: "item"
+			}],
+			x: 4.5d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001075",
+			rewards: [{
+				id: "2000000000001175",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§3Expansão do Teto Local§r",
+				"",
+				"Eleva a quantidade máxima de entidades permitidas nas proximidades antes que o gerador interrompa a produção."
+			],
+			tasks: [{
+				id: "2000000000001176",
+				item: { count: 1, id: "apotheosis:max_nearby_entities_spawner_rune" },
+				type: "item"
+			}],
+			x: 6.5d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001076",
+			rewards: [{
+				id: "2000000000001177",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§5Projeção Distante§r",
+				"",
+				"Aumenta a distância máxima a que o jogador pode estar do gerador sem que este pare de funcionar."
+			],
+			tasks: [{
+				id: "2000000000001178",
+				item: { count: 1, id: "apotheosis:required_player_range_spawner_rune" },
+				type: "item"
+			}],
+			x: 7.5d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001077",
+			rewards: [{
+				id: "2000000000001179",
+				type: "xp",
+				xp: 150
+			}],
+			shape: "diamond",
+			size: 1.2d,
+			description: [
+				"§6Operação Autónoma§r",
+				"",
+				"Remove por completo a exigência de um jogador estar por perto, permitindo que o gerador trabalhe ininterruptamente mesmo em áreas automatizadas isoladas."
+			],
+			tasks: [{
+				id: "2000000000001180",
+				item: { count: 1, id: "apotheosis:ignore_players_spawner_rune" },
+				type: "item"
+			}],
+			x: 7.5d,
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001065"],
+			id: "1000000000001078",
+			rewards: [{
+				id: "2000000000001181",
+				type: "xp",
+				xp: 100
+			}],
+			shape: "rsquare",
+			size: 1.1d,
+			description: [
+				"§6Sintonização de Almas§r",
+				"",
+				"Ao utilizar um §eOvo de Invocação§r num gerador, podes alterar permanentemente o tipo de entidade que ele invoca.",
+				"",
+				"Combina isto com as tuas runas de melhoria para criar quintas automatizadas altamente eficientes para qualquer criatura."
+			],
+			tasks: [{
+				id: "2000000000001182",
+				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item_tag(c:spawn_eggs)item(minecraft:pig_spawn_egg))"
+					},
+					count: 1,
+					id: "ftbfiltersystem:smart_filter"
+				},
+				title: "Qualquer Ovo de Invocação",
+				type: "item"
+			}],
+			x: -2.5d,
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000001078"],
+			id: "1000000000001079",
+			rewards: [{
+				id: "2000000000001183",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			description: [
+				"§3Captura Semimorfe§r",
+				"",
+				"O §bMob Swab§r permite recolher o DNA de criaturas vivas ao interagir diretamente com elas.",
+				"",
+				"Combina o DNA recolhido com comida de galinha para sintetizar Ovos de Invocação específicos para os teus geradores."
+			],
+			tasks: [{
+				id: "2000000000001184",
+				item: { count: 1, id: "mob_grinding_utils:mob_swab" },
+				type: "item"
+			}],
+			x: -4.0d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001079"],
+			id: "1000000000001080",
+			rewards: [{
+				count: 4,
+				id: "2000000000001185",
+				item: {
+					count: 1,
+					id: "minecraft:golden_apple"
+				},
+				type: "item"
+			}],
+			description: [
+				"§aNutrição Genética§r",
+				"",
+				"Alimenta uma galinha com a mistura de DNA processada para que ela ponha um Ovo de Invocação da criatura correspondente."
+			],
+			tasks: [{
+				id: "2000000000001186",
+				item: { count: 1, id: "mob_grinding_utils:gm_chicken_feed_ing" },
+				type: "item"
+			}],
+			x: -5.5d,
+			y: -1.5d
+		}
+		{
+			dependencies: ["1000000000001078"],
+			id: "1000000000001081",
+			rewards: [{
+				id: "2000000000001187",
+				type: "xp_levels",
+				xp_levels: 3
+			}],
+			description: [
+				"§dFragmentação Espiritual§r",
+				"",
+				"O §5Soul Gem§r (Reliquary) permite aprisionar essências de monstros para transporte ou conversão direta em geradores."
+			],
+			tasks: [{
+				id: "2000000000001188",
+				item: { count: 1, id: "reliquary:soul_gem" },
+				type: "item"
+			}],
+			x: -4.0d,
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000001078"],
+			id: "1000000000001082",
+			rewards: [{
+				id: "2000000000001189",
+				type: "xp",
+				xp: 100
+			}],
+			description: [
+				"§cVaso Necreante§r",
+				"",
+				"Frascos de sangue e recipientes do EvilCraft capazes de conter essências vitais e almas de criaturas com extrema estabilidade."
+			],
+			tasks: [{
+				id: "2000000000001190",
+				item: { count: 1, id: "evilcraft:blood_container" },
+				type: "item"
+			}],
+			x: -2.5d,
+			y: 2.0d
+		}
+		{
+			dependencies: ["1000000000001063"],
+			id: "1000000000001083",
+			rewards: [{
+				id: "2000000000001191",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			shape: "gear",
+			size: 1.2d,
+			description: [
+				"§6Rede de Invocação Avançada§r",
+				"",
+				"Além das modificações diretas em geradores do Apotheosis, o modpack oferece alternativas mecânicas, magicas e tecnológicas para automatizar a criação de criaturas."
+			],
+			tasks: [{
+				id: "2000000000001192",
+				title: "Sistemas Alternativos de Spawners",
+				type: "checkmark"
+			}],
+			x: -2.5d,
+			y: 6.0d
+		}
+		{
+			dependencies: ["1000000000001083"],
+			id: "1000000000001084",
+			rewards: [{
+				id: "2000000000001193",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			description: [
+				"§2Ender IO: Powered Spawner§r",
+				"",
+				"Um gerador altamente editável acionado por energia Redstone Flux (RF). Requer a união de uma alma aprisionada num Broken Spawner através da bigorna industrial."
+			],
+			tasks: [{
+				id: "2000000000001194",
+				item: { count: 1, id: "enderio:powered_spawner" },
+				type: "item"
+			}],
+			x: -4.5d,
+			y: 4.5d
+		}
+		{
+			dependencies: ["1000000000001083"],
+			id: "1000000000001085",
+			rewards: [{
+				id: "2000000000001195",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			description: [
+				"§cIndustrial Foregoing: Mob Duplicator§r",
+				"",
+				"Máquina capaz de duplicar qualquer entidade capturada num Mob Imprisonment Tool consumindo Essência (Essence) e energia elétrica."
+			],
+			tasks: [{
+				id: "2000000000001196",
+				item: { count: 1, id: "industrialforegoing:mob_duplicator" },
+				type: "item"
+			}],
+			x: -4.5d,
+			y: 6.0d
+		}
+		{
+			dependencies: ["1000000000001083"],
+			id: "1000000000001086",
+			rewards: [{
+				id: "2000000000001197",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			description: [
+				"§7PneumaticCraft: Pressurized Spawner§r",
+				"",
+				"Utiliza pressão de ar e essência de almas comprimidas para gerar entidades rapidamente sem emissão de calor residual."
+			],
+			tasks: [{
+				id: "2000000000001198",
+				item: { count: 1, id: "pneumaticcraft:pressurized_spawner" },
+				type: "item"
+			}],
+			x: -4.5d,
+			y: 7.5d
+		}
+		{
+			dependencies: ["1000000000001083"],
+			id: "1000000000001087",
+			rewards: [{
+				id: "2000000000001199",
+				type: "xp_levels",
+				xp_levels: 10
+			}],
+			shape: "dragon",
+			size: 1.3d,
+			description: [
+				"§DDraconic Evolution: Stabilized Spawner§r",
+				"",
+				"Um dos geradores mais poderosos do jogo. Ao fundir um gerador com um Draconic Core e uma alma sintonizada, atinge velocidades de invocação imbatíveis."
+			],
+			tasks: [{
+				id: "2000000000001200",
+				item: { count: 1, id: "draconicevolution:draconium_core" },
+				type: "item"
+			}],
+			x: -1.0d,
+			y: 7.5d
+		}
+		{
+			dependencies: ["1000000000001083"],
+			id: "1000000000001088",
+			rewards: [{
+				id: "2000000000001201",
+				type: "xp_levels",
+				xp_levels: 5
+			}],
+			description: [
+				"§5Ars Nouveau: Summoning Crystal§r",
+				"",
+				"Invoca entidades utilizando a energia mágica (Source) acumulada na zona circundante, dispensando componentes mecânicos."
+			],
+			tasks: [{
+				id: "2000000000001202",
+				item: { count: 1, id: "ars_nouveau:source_gem" },
+				type: "item"
+			}],
+			x: -1.0d,
+			y: 4.5d
+		}
+	]
+}
