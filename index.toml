@@ -10,15 +10,15 @@ hash = "5a27f727fb389e35b81f148f6bedd46c276ba0e39d2eb9fa3b68c452fda88871"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis.snbt"
-hash = "7736523f37423dd6bf906a867160d26e9c83c52e2f8bb51b8955eccf6e870b17"
+hash = "448ac0547c92e9add6d43a89be1b69aaea5cd518a64ccd17b169fcb7e7c7802f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis_gear.snbt"
-hash = "830439e8696cf21f03f85805619ab78e1457dac0a0187ca388653a3792e84e66"
+hash = "8be35d876bfa407f149509bb76368895b0e0d4db872a325d6ebbd4c6902d8615"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apothic_enchanting.snbt"
-hash = "e7d42cddc100bb71f3ea3be09c22f67d95e1d70bdf967d937065d280986b3903"
+hash = "4c722741aba19e37746cbf48cf630e1a7b2480df96fd6de2d4fc8d70e9a02ad8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"

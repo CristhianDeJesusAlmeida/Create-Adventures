@@ -7,26 +7,6 @@
 		id: "minecraft:spawner"
 	}
 	id: "1000000000001062"
-	images: [
-		{
-			height: 2.5d
-			id: "1D71C2A4C0671414"
-			image: "atm:textures/questpics/apothic/apothic_spawners.png"
-			rotation: 0.0d
-			width: 2.5d
-			x: 1.0d
-			y: -3.5d
-		}
-		{
-			height: 3.0d
-			id: "60EBA8387B430C64"
-			image: "atm:textures/questpics/apothic/spawners_title.png"
-			rotation: 0.0d
-			width: 7.5d
-			x: 4.5d
-			y: -4.5d
-		}
-	]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]

@@ -7,62 +7,6 @@
 		id: "apotheosis:godforged_pearl"
 	}
 	id: "1000000000001089"
-	images: [
-		{
-			height: 2.0d
-			id: "01522D208B7445AD"
-			image: "atm:textures/questpics/apothic/apotheosis_gear.png"
-			rotation: 0.0d
-			width: 7.0d
-			x: 0.0d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			id: "1E1D7DF542866858"
-			image: "atm:textures/questpics/apothic/gear_augment.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 3.0d
-			y: 7.0d
-		}
-		{
-			height: 2.0d
-			id: "00C7741F52A1504E"
-			image: "atm:textures/questpics/apothic/gear_simple.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -2.0d
-			y: 9.5d
-		}
-		{
-			height: 2.0d
-			id: "0951AEF8C2F3305D"
-			image: "atm:textures/questpics/apothic/gear_reforge.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 2.0d
-			y: 9.5d
-		}
-		{
-			height: 2.0d
-			id: "342EA34407C3E056"
-			image: "atm:textures/questpics/apothic/gear_gem.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 4.5d
-			y: 5.5d
-		}
-		{
-			height: 2.0d
-			id: "78F9ACAAFAEEDDDF"
-			image: "atm:textures/questpics/apothic/gear_smith.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -3.5d
-			y: 5.5d
-		}
-	]
 	order_index: 1
 	progression_mode: "flexible"
 	quest_links: [ ]
