@@ -2,6 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "circle"
 	filename: "introducao"
+	title: "Introdução"
 	group: ""
 	id: "5DD9FFEEA4B643EC"
 	images: [ ]
@@ -9,281 +10,235 @@
 	quest_links: [ ]
 	quests: [
 		{
+			title: "Bem-vindo ao Create-Adventures"
 			icon: {
-				id: "minecraft:compass"
+				id: "ftbquests:book"
 			}
 			id: "1000000000000001"
-			rewards: [{
-				count: 8
-				id: "2000000000000001"
-				item: {
+			rewards: [
+				{
 					count: 8
-					id: "minecraft:oak_log"
+					id: "2000000000000102"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 8L
-				id: "2000000000000002"
-				item: { count: 1, id: "minecraft:oak_log" }
-				type: "item"
-			}]
-			x: -2.0d
+				{
+					id: "2000000000000103"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			size: 1.5
+			x: 0.0d
 			y: 0.0d
+			description: [
+				"Este mundo mistura §6indústria§r, §dmagia§r e §caventura§r. Máquinas gigantes, feitiços, dungeons e chefes lendários convivem aqui."
+				""
+				"Este capítulo é só uma introdução rápida, com os primeiros passos para começar. Depois dele, cada mod tem o seu próprio capítulo no livro de quests."
+			]
+			tasks: [
+				{
+					id: "2000000000000101"
+					type: "checkmark"
+				}
+			]
 		}
 		{
+			title: "A Primeira Bancada"
+			dependencies: [
+				"1000000000000001"
+			]
 			icon: {
-				id: "minecraft:iron_sword"
+				id: "minecraft:crafting_table"
 			}
-			id: "1000000000000002"
-			rewards: [{
-				count: 2
-				id: "2000000000000003"
-				item: {
-					count: 2
-					id: "minecraft:cooked_beef"
+			id: "1000000000000004"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000107"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2000000000000004"
-				item: { count: 1, id: "minecraft:iron_sword" }
-				type: "item"
-			}]
+			]
 			x: 2.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["1000000000000001"]
-			icon: {
-				id: "create:large_cogwheel"
-			}
-			id: "1000000000000003"
-			rewards: [{
-				count: 16
-				id: "2000000000000005"
-				item: {
-					count: 16
-					id: "minecraft:andesite"
+			description: [
+				"Toda jornada começa com madeira. Reúna troncos de qualquer árvore, faça tábuas e monte a sua bancada de trabalho."
+				""
+				"Os biomas daqui têm árvores bem variadas, e qualquer madeira serve."
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000000106"
+					item: {
+						count: 1
+						id: "minecraft:crafting_table"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 16L
-				id: "2000000000000006"
-				item: { count: 1, id: "minecraft:andesite" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 1.5d
+			]
 		}
 		{
+			title: "Picareta de Pedra"
+			dependencies: [
+				"1000000000000004"
+			]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "1000000000000005"
+			rewards: [
+				{
+					count: 8
+					id: "2000000000000109"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+			description: [
+				"Com a picareta de madeira, colete pedra e faça uma ferramenta melhor. Ela abre caminho para o carvão e para o ferro."
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000000108"
+					item: {
+						count: 1
+						id: "minecraft:stone_pickaxe"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Fornalha"
+			dependencies: [
+				"1000000000000005"
+			]
 			icon: {
 				id: "minecraft:furnace"
 			}
-			id: "1000000000000004"
-			rewards: [{
-				count: 4
-				id: "2000000000000007"
-				item: {
-					count: 4
-					id: "minecraft:coal"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2000000000000008"
-				item: { count: 1, id: "minecraft:furnace" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["1000000000000003"]
-			icon: {
-				id: "immersiveengineering:connector_hv"
-			}
-			id: "1000000000000005"
-			rewards: [{
-				count: 4
-				id: "2000000000000009"
-				item: {
-					count: 4
-					id: "minecraft:brick"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 4L
-				id: "2000000000000010"
-				item: { count: 1, id: "minecraft:brick" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["1000000000000002"]
-			icon: {
-				id: "irons_spellbooks:common_ink"
-			}
 			id: "1000000000000006"
-			rewards: [{
-				count: 3
-				id: "2000000000000011"
-				item: {
-					count: 3
-					id: "minecraft:paper"
+			rewards: [
+				{
+					count: 8
+					id: "2000000000000111"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 3L
-				id: "2000000000000012"
-				item: { count: 1, id: "minecraft:paper" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 3.0d
+			]
+			x: 6.0d
+			y: 0.0d
+			description: [
+				"Cozinhe comida, funda minérios e faça vidro. Mais adiante você vai trocar a fornalha por máquinas, mas ela continua útil durante todo o jogo."
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000000110"
+					item: {
+						count: 1
+						id: "minecraft:furnace"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
-			dependencies: ["1000000000000005"]
+			title: "Primeiro Ferro"
+			dependencies: [
+				"1000000000000006"
+			]
 			icon: {
-				id: "electrodynamics:wireinsulatedcopperblack"
+				id: "minecraft:iron_ingot"
 			}
 			id: "1000000000000007"
-			rewards: [{
-				count: 2
-				id: "2000000000000013"
-				item: {
-					count: 2
-					id: "minecraft:copper_ingot"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 2L
-				id: "2000000000000014"
-				item: { count: 1, id: "minecraft:copper_ingot" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["1000000000000006"]
-			icon: {
-				id: "occultism:chalk_purple"
-			}
-			id: "1000000000000008"
-			rewards: [{
-				id: "2000000000000015"
-				item: {
+			rewards: [
+				{
 					count: 1
-					id: "occultism:otherstone"
+					id: "2000000000000113"
+					item: {
+						count: 1
+						id: "minecraft:iron_pickaxe"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2000000000000016"
-				item: { count: 1, id: "occultism:otherstone" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 4.5d
+				{
+					id: "2000000000000114"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+			description: [
+				"O ferro é a base de ferramentas, armas e de muitas receitas dos mods. Procure em cavernas e nas encostas das montanhas e funda os minérios na fornalha."
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "2000000000000112"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
-			dependencies: ["1000000000000007"]
+			title: "Andesito: a Porta do Create"
+			dependencies: [
+				"1000000000000005"
+			]
 			icon: {
-				id: "oritech:machine_core_1"
+				id: "minecraft:andesite"
 			}
-			id: "1000000000000009"
-			rewards: [{
-				count: 4
-				id: "2000000000000017"
-				item: {
-					count: 4
-					id: "minecraft:redstone"
+			id: "1000000000000003"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000125"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 4L
-				id: "2000000000000018"
-				item: { count: 1, id: "minecraft:redstone" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["1000000000000008"]
-			icon: {
-				id: "apothic_enchanting:scrap_tome"
-			}
-			id: "1000000000000010"
-			rewards: [{
-				id: "2000000000000019"
-				item: {
-					count: 1
-					id: "minecraft:book"
+			]
+			x: 4.0d
+			y: -2.0d
+			description: [
+				"O andesito é a pedra que abre o §2Create§r. Ele aparece em cavernas e também pode ser feito misturando diorito e pedregulho."
+				""
+				"Ao completar esta quest, o capítulo §2Create§r continua a partir daqui."
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000000124"
+					item: {
+						count: 1
+						id: "minecraft:andesite"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2000000000000020"
-				item: { count: 1, id: "minecraft:book" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["1000000000000009"]
-			icon: {
-				id: "ae2:crafting_terminal"
-			}
-			id: "1000000000000011"
-			rewards: [{
-				count: 2
-				id: "2000000000000021"
-				item: {
-					count: 2
-					id: "ae2:certus_quartz_crystal"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 2L
-				id: "2000000000000022"
-				item: { count: 1, id: "ae2:certus_quartz_crystal" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 7.5d
-		}
-		{
-			dependencies: ["1000000000000010"]
-			icon: {
-				id: "nuclearscience:uranium235"
-			}
-			id: "1000000000000012"
-			rewards: [{
-				id: "2000000000000023"
-				item: {
-					count: 1
-					id: "minecraft:iron_ingot"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2000000000000024"
-				item: { count: 1, id: "minecraft:iron_ingot" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 7.5d
+			]
 		}
 	]
 }

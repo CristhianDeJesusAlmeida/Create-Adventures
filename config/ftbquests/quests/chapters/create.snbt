@@ -2,6 +2,7 @@
 	default_hide_dependency_lines: true
 	default_quest_shape: "gear"
 	filename: "create"
+	title: "Create"
 	group: "0000000000000002"
 	icon: {
 		id: "create:andesite_alloy"
@@ -20,35 +21,53 @@
 	quests: [
 		{
 			title: "O Ponto de Partida: Andesito"
-			dependencies: ["1000000000001001"]
-			icon: { id: "minecraft:andesite" }
+			dependencies: [
+				"1000000000001001"
+			]
+			icon: {
+				id: "minecraft:andesite"
+			}
 			id: "1000000000001002"
 			shape: "gear"
 			size: 3.0d
-			x: -6.0d
+			x: -4.0d
 			y: 0.0d
 			description: [
 				"§6A Matéria-Prima da Indústria§r"
 				""
 				"Todo grande império mecânico começa com uma simples pedra. O andesito é o alicerce fundamental para a criação das ligas e estruturas do §2Create§r."
 			]
-			rewards: [{
-				count: 16
-				id: "2000000000001001"
-				item: { count: 1, id: "minecraft:andesite" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001002"
-				item: { count: 1, id: "minecraft:andesite" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "2000000000001001"
+					item: {
+						count: 1
+						id: "minecraft:andesite"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001002"
+					item: {
+						count: 1
+						id: "minecraft:andesite"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "A Base de Tudo: Liga de Andesito"
-			dependencies: ["1000000000001002"]
-			icon: { id: "create:andesite_alloy" }
+			dependencies: [
+				"1000000000001002"
+			]
+			icon: {
+				id: "create:andesite_alloy"
+			}
 			id: "1000000000001003"
 			size: 1.75d
 			x: -2.0d
@@ -58,23 +77,37 @@
 				""
 				"Combinando andesito e minérios, você produz a §aLiga de Andesito§r, essencial para eixos, engrenagens e carcaças cinemáticas."
 			]
-			rewards: [{
-				count: 8
-				id: "2000000000001003"
-				item: { count: 1, id: "create:andesite_alloy" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001004"
-				item: { count: 1, id: "create:andesite_alloy" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "2000000000001003"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001004"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Transmitindo Movimento: Eixos"
-			dependencies: ["1000000000001003"]
-			icon: { id: "create:shaft" }
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:shaft"
+			}
 			id: "1000000000001004"
 			size: 1.25d
 			x: -1.0d
@@ -84,23 +117,37 @@
 				""
 				"Os §aEixos (Shafts)§r transferem a força rotacional de uma máquina para outra sem perdas na rede."
 			]
-			rewards: [{
-				count: 8
-				id: "2000000000001005"
-				item: { count: 1, id: "create:shaft" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001006"
-				item: { count: 1, id: "create:shaft" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "2000000000001005"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001006"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Conectando Linhas: Correias"
-			dependencies: ["1000000000001003"]
-			icon: { id: "create:belt_connector" }
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:belt_connector"
+			}
 			id: "1000000000001005"
 			size: 1.75d
 			x: -6.0d
@@ -110,23 +157,37 @@
 				""
 				"As §aCorreias§r conectam eixos distantes e transportam itens suavemente por cima delas."
 			]
-			rewards: [{
-				count: 16
-				id: "2000000000001007"
-				item: { count: 1, id: "create:belt_connector" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001008"
-				item: { count: 1, id: "create:belt_connector" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "2000000000001007"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001008"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Encapsulando Mecanismos: Carcaça de Andesito"
-			dependencies: ["1000000000001003"]
-			icon: { id: "create:andesite_casing" }
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:andesite_casing"
+			}
 			id: "1000000000001009"
 			size: 1.25d
 			x: 0.0d
@@ -138,23 +199,37 @@
 				""
 				"Ela serve de base indispensável para montar componentes avançados como a Prensa e o Misturador."
 			]
-			rewards: [{
-				count: 4
-				id: "2000000000001021"
-				item: { count: 1, id: "create:andesite_casing" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001022"
-				item: { count: 1, id: "create:andesite_casing" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000001021"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001022"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "A Prensa Mecânica"
-			dependencies: ["1000000000001009"]
-			icon: { id: "create:mechanical_press" }
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:mechanical_press"
+			}
 			id: "1000000000001006"
 			size: 1.0d
 			x: 0.0d
@@ -164,23 +239,37 @@
 				""
 				"A §aPrensa Mecânica§r esmaga lingotes de metal transformando-os em chapas finas, essenciais para o restante da tecnologia."
 			]
-			rewards: [{
-				count: 2
-				id: "2000000000001023"
-				item: { count: 1, id: "minecraft:iron_ingot" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001024"
-				item: { count: 1, id: "create:mechanical_press" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001023"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001024"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "O Misturador Mecânico"
-			dependencies: ["1000000000001009"]
-			icon: { id: "create:mechanical_mixer" }
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:mechanical_mixer"
+			}
 			id: "1000000000001007"
 			size: 1.0d
 			x: 1.0d
@@ -190,23 +279,37 @@
 				""
 				"O §aMisturador Mecânico§r trabalha em conjunto com uma Bacia para processar compostos e criar ligas avançadas."
 			]
-			rewards: [{
-				count: 5
-				id: "2000000000001025"
-				item: { count: 1, id: "minecraft:redstone" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001026"
-				item: { count: 1, id: "create:mechanical_mixer" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 5
+					id: "2000000000001025"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001026"
+					item: {
+						count: 1
+						id: "create:mechanical_mixer"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "O Queimador de Blaze"
-			dependencies: ["1000000000001009"]
-			icon: { id: "create:blaze_burner" }
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:blaze_burner"
+			}
 			id: "1000000000001008"
 			size: 1.0d
 			x: 0.0d
@@ -216,23 +319,37 @@
 				""
 				"Aprisione um Blaze para fornecer o calor intenso necessário nas bacias de mistura e fundição."
 			]
-			rewards: [{
-				count: 3
-				id: "2000000000001027"
-				item: { count: 1, id: "create:empty_blaze_burner" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001028"
-				item: { count: 1, id: "create:blaze_burner" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "2000000000001027"
+					item: {
+						count: 1
+						id: "create:empty_blaze_burner"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001028"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Fluidos: Tubos de Cobre"
-			dependencies: ["1000000000001003"]
-			icon: { id: "create:fluid_pipe" }
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:fluid_pipe"
+			}
 			id: "1000000000001010"
 			size: 1.25d
 			x: -12.0d
@@ -242,23 +359,37 @@
 				""
 				"Tubulações de cobre essenciais para transportar água, lava e fluidos industriais pela sua fábrica."
 			]
-			rewards: [{
-				count: 10
-				id: "2000000000001029"
-				item: { count: 1, id: "create:fluid_pipe" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001030"
-				item: { count: 1, id: "create:fluid_pipe" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2000000000001029"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001030"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Armazenamento de Líquidos: Tanques"
-			dependencies: ["1000000000001010"]
-			icon: { id: "create:fluid_tank" }
+			dependencies: [
+				"1000000000001010"
+			]
+			icon: {
+				id: "create:fluid_tank"
+			}
 			id: "1000000000001026"
 			size: 1.25d
 			x: -13.0d
@@ -268,23 +399,37 @@
 				""
 				"Construa tanques de fluidos modulares para armazenar grandes volumes de líquidos e alimentar caldeiras."
 			]
-			rewards: [{
-				count: 2
-				id: "2000000000001031"
-				item: { count: 1, id: "create:fluid_tank" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001032"
-				item: { count: 1, id: "create:fluid_tank" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001031"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001032"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Movimentação Forçada: Bomba Mecânica"
-			dependencies: ["1000000000001010"]
-			icon: { id: "create:mechanical_pump" }
+			dependencies: [
+				"1000000000001010"
+			]
+			icon: {
+				id: "create:mechanical_pump"
+			}
 			id: "1000000000001027"
 			size: 1.0d
 			x: -12.0d
@@ -294,23 +439,37 @@
 				""
 				"A §aBomba Mecânica§r acelera e direciona o fluxo de líquidos através das tubulações usando energia rotacional."
 			]
-			rewards: [{
-				count: 4
-				id: "2000000000001033"
-				item: { count: 1, id: "create:fluid_pipe" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001034"
-				item: { count: 1, id: "create:mechanical_pump" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000001033"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001034"
+					item: {
+						count: 1
+						id: "create:mechanical_pump"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Logística Ferroviária: Trilhos"
-			dependencies: ["1000000000001003"]
-			icon: { id: "create:track" }
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:track"
+			}
 			id: "1000000000001028"
 			size: 1.25d
 			x: -1.0d
@@ -320,23 +479,37 @@
 				""
 				"Os §aTrilhos§r do Create permitem traçar caminhos complexos para conectar bases distantes e movimentar trens automáticos."
 			]
-			rewards: [{
-				count: 32
-				id: "2000000000001035"
-				item: { count: 1, id: "create:track" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001036"
-				item: { count: 1, id: "create:track" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 32
+					id: "2000000000001035"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001036"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "Estação de Trem"
-			dependencies: ["1000000000001028"]
-			icon: { id: "create:track_station" }
+			dependencies: [
+				"1000000000001028"
+			]
+			icon: {
+				id: "create:track_station"
+			}
 			id: "1000000000001029"
 			size: 1.25d
 			x: 1.0d
@@ -346,23 +519,37 @@
 				""
 				"A §aEstação de Trem§r gerencia rotas, monta locomotivas e permite programar paradas automáticas para o transporte de cargas."
 			]
-			rewards: [{
-				count: 2
-				id: "2000000000001037"
-				item: { count: 1, id: "create:track_station" }
-				type: "item"
-			}]
-			tasks: [{
-				count: 1L
-				id: "2000000000001038"
-				item: { count: 1, id: "create:track_station" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000001037"
+					item: {
+						count: 1
+						id: "create:track_station"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000001038"
+					item: {
+						count: 1
+						id: "create:track_station"
+					}
+					type: "item"
+				}
+			]
 		}
 		{
 			title: "O Primeiro Trem"
-			dependencies: ["1000000000001029"]
-			icon: { id: "create:controls" }
+			dependencies: [
+				"1000000000001029"
+			]
+			icon: {
+				id: "create:controls"
+			}
 			id: "1000000000001030"
 			size: 1.5d
 			x: 0.0d
@@ -372,23 +559,1792 @@
 				""
 				"Monte sua primeira locomotiva usando controles, carcaças ferroviárias e cola super para cruzar o mundo com toneladas de recursos!"
 			]
-			rewards: [{
-				count: 1
-				id: "2000000000001039"
-				item: { count: 1, id: "create:controls" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000001039"
+					item: {
+						count: 1
+						id: "create:controls"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					count: 1L
 					id: "2000000000001040"
-					item: { count: 1, id: "create:controls" }
+					item: {
+						count: 1
+						id: "create:controls"
+					}
 					type: "item"
 				}
 				{
 					count: 1L
 					id: "2000000000001041"
-					item: { count: 1, id: "create:super_glue" }
+					item: {
+						count: 1
+						id: "create:super_glue"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Óculos de Engenheiro"
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:goggles"
+			}
+			id: "1000000000003001"
+			x: -4.0d
+			y: -2.0d
+			description: [
+				"§eOs Olhos do Engenheiro§r"
+				""
+				"Os §aÓculos de Engenheiro§r mostram a velocidade e o estresse das máquinas quando você olha para elas. Use-os sempre que algo não estiver girando como deveria."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002001"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002002"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Chave Inglesa"
+			dependencies: [
+				"1000000000003001"
+			]
+			icon: {
+				id: "create:wrench"
+			}
+			id: "1000000000003002"
+			x: -4.0d
+			y: -4.0d
+			description: [
+				"§eA Ferramenta Universal§r"
+				""
+				"A §aChave Inglesa§r gira, ajusta e desmonta blocos do Create. Ao desmontar com ela, você recupera o bloco inteiro."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002003"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002004"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Super Cola"
+			dependencies: [
+				"1000000000003002"
+			]
+			icon: {
+				id: "create:super_glue"
+			}
+			id: "1000000000003003"
+			x: -2.0d
+			y: -4.0d
+			description: [
+				"§eGrudando Estruturas§r"
+				""
+				"A §aSuper Cola§r une blocos em uma só peça para que se movam juntos em estruturas móveis."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002005"
+					item: {
+						count: 1
+						id: "create:super_glue"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002006"
+					item: {
+						count: 1
+						id: "create:super_glue"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Engrenagens"
+			dependencies: [
+				"1000000000001004"
+			]
+			icon: {
+				id: "create:cogwheel"
+			}
+			id: "1000000000003004"
+			x: 1.0d
+			y: -2.0d
+			description: [
+				"§eGirando em Sincronia§r"
+				""
+				"As §aEngrenagens§r mudam a direção do movimento e ligam eixos lado a lado. Engrenagens de tamanhos diferentes também alteram a velocidade."
+			]
+			rewards: [
+				{
+					count: 8
+					id: "2000000000002007"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002008"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Engrenagem Grande"
+			dependencies: [
+				"1000000000003004"
+			]
+			icon: {
+				id: "create:large_cogwheel"
+			}
+			id: "1000000000003005"
+			x: 3.0d
+			y: -2.0d
+			description: [
+				"§eMais Força, Menos Giro§r"
+				""
+				"A §aEngrenagem Grande§r, ligada a uma pequena, troca velocidade por força (ou o contrário). Use essa relação para ajustar suas máquinas."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002009"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002010"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Caixa de Câmbio"
+			dependencies: [
+				"1000000000003005"
+			]
+			icon: {
+				id: "create:gearbox"
+			}
+			id: "1000000000003006"
+			x: 5.0d
+			y: -2.0d
+			description: [
+				"§eDividindo o Movimento§r"
+				""
+				"A §aCaixa de Câmbio§r redireciona a rotação em ângulos retos e leva o movimento para vários lados ao mesmo tempo."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002011"
+					item: {
+						count: 1
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002012"
+					item: {
+						count: 1
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Estressômetro"
+			dependencies: [
+				"1000000000003006"
+			]
+			icon: {
+				id: "create:stressometer"
+			}
+			id: "1000000000003007"
+			x: 7.0d
+			y: -2.0d
+			description: [
+				"§eMedindo o Esforço§r"
+				""
+				"O §aEstressômetro§r mostra quanta capacidade de estresse a sua rede tem e quanto já está em uso. Se a rede passar do limite, as máquinas param."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002013"
+					item: {
+						count: 1
+						id: "create:stressometer"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002014"
+					item: {
+						count: 1
+						id: "create:stressometer"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Roda d'Água"
+			dependencies: [
+				"1000000000003004"
+			]
+			icon: {
+				id: "create:water_wheel"
+			}
+			id: "1000000000003008"
+			x: 1.0d
+			y: -4.0d
+			description: [
+				"§eEnergia das Águas§r"
+				""
+				"A §aRoda d'Água§r gira com a correnteza e é a fonte de energia mais simples do começo do jogo."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002015"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002016"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Moinho de Vento"
+			dependencies: [
+				"1000000000003008"
+			]
+			icon: {
+				id: "create:windmill_bearing"
+			}
+			id: "1000000000003009"
+			x: 3.0d
+			y: -4.0d
+			description: [
+				"§eDomando o Vento§r"
+				""
+				"O §aRolamento de Moinho§r gira velas montadas nele e gera energia sem combustível. Quanto mais velas, mais força."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002017"
+					item: {
+						count: 1
+						id: "create:windmill_bearing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002018"
+					item: {
+						count: 1
+						id: "create:windmill_bearing"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Embreagem"
+			dependencies: [
+				"1000000000003006"
+			]
+			icon: {
+				id: "create:clutch"
+			}
+			id: "1000000000003010"
+			x: 5.0d
+			y: -4.0d
+			description: [
+				"§eControle por Redstone§r"
+				""
+				"A §aEmbreagem§r corta ou liga a passagem do movimento quando recebe um sinal de redstone."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002019"
+					item: {
+						count: 1
+						id: "create:clutch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002020"
+					item: {
+						count: 1
+						id: "create:clutch"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Seletor de Marcha"
+			dependencies: [
+				"1000000000003010"
+			]
+			icon: {
+				id: "create:gearshift"
+			}
+			id: "1000000000003011"
+			x: 7.0d
+			y: -4.0d
+			description: [
+				"§eInvertendo o Sentido§r"
+				""
+				"O §aSeletor de Marcha§r inverte o sentido da rotação quando recebe um sinal de redstone."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002021"
+					item: {
+						count: 1
+						id: "create:gearshift"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002022"
+					item: {
+						count: 1
+						id: "create:gearshift"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Moinho de Pedra"
+			dependencies: [
+				"1000000000003004"
+			]
+			icon: {
+				id: "create:millstone"
+			}
+			id: "1000000000003012"
+			x: 3.0d
+			y: 1.0d
+			description: [
+				"§eMoendo Matérias-Primas§r"
+				""
+				"O §aMoinho de Pedra§r tritura itens usando rotação: trigo vira farinha e minérios viram minério triturado."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002023"
+					item: {
+						count: 1
+						id: "create:millstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002024"
+					item: {
+						count: 1
+						id: "create:millstone"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Rodas de Esmagamento"
+			dependencies: [
+				"1000000000003012"
+			]
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "1000000000003013"
+			x: 5.0d
+			y: 1.0d
+			description: [
+				"§eEsmagamento Pesado§r"
+				""
+				"As §aRodas de Esmagamento§r trituram minérios com mais eficiência que o moinho. Posicione duas rodas girando uma contra a outra e jogue itens entre elas."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002025"
+					item: {
+						count: 1
+						id: "create:crushing_wheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002026"
+					item: {
+						count: 1
+						id: "create:crushing_wheel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Ventilador Encapsulado"
+			dependencies: [
+				"1000000000003013"
+			]
+			icon: {
+				id: "create:encased_fan"
+			}
+			id: "1000000000003014"
+			x: 7.0d
+			y: 1.0d
+			description: [
+				"§eO Poder do Vento§r"
+				""
+				"O §aVentilador Encapsulado§r empurra itens e, com fogo, lava ou água no caminho do ar, processa o que passa por ele."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002027"
+					item: {
+						count: 1
+						id: "create:encased_fan"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002028"
+					item: {
+						count: 1
+						id: "create:encased_fan"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Broca Mecânica"
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:mechanical_drill"
+			}
+			id: "1000000000003015"
+			x: 3.0d
+			y: 3.0d
+			description: [
+				"§eEscavando Sozinha§r"
+				""
+				"A §aBroca Mecânica§r quebra blocos quando recebe rotação. Montada em estruturas móveis, ela minera por você."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002029"
+					item: {
+						count: 1
+						id: "create:mechanical_drill"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002030"
+					item: {
+						count: 1
+						id: "create:mechanical_drill"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Serra Mecânica"
+			dependencies: [
+				"1000000000003015"
+			]
+			icon: {
+				id: "create:mechanical_saw"
+			}
+			id: "1000000000003016"
+			x: 5.0d
+			y: 3.0d
+			description: [
+				"§eCortando Madeira§r"
+				""
+				"A §aSerra Mecânica§r corta troncos e blocos, e acelera a produção de tábuas em linhas automáticas."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002031"
+					item: {
+						count: 1
+						id: "create:mechanical_saw"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002032"
+					item: {
+						count: 1
+						id: "create:mechanical_saw"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Colheitadeira Mecânica"
+			dependencies: [
+				"1000000000003016"
+			]
+			icon: {
+				id: "create:mechanical_harvester"
+			}
+			id: "1000000000003017"
+			x: 7.0d
+			y: 3.0d
+			description: [
+				"§eColheita Automática§r"
+				""
+				"A §aColheitadeira Mecânica§r colhe plantações maduras. Monte-a em uma estrutura móvel e percorra o campo."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002033"
+					item: {
+						count: 1
+						id: "create:mechanical_harvester"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002034"
+					item: {
+						count: 1
+						id: "create:mechanical_harvester"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Latão"
+			dependencies: [
+				"1000000000001007"
+				"1000000000001008"
+			]
+			icon: {
+				id: "create:brass_ingot"
+			}
+			id: "1000000000003018"
+			size: 1.25d
+			x: 9.0d
+			y: 2.0d
+			description: [
+				"§eA Liga Dourada§r"
+				""
+				"O §aLatão§r nasce da mistura de cobre e zinco aquecidos em um misturador com um queimador de blaze. É o material que abre a segunda fase do Create."
+			]
+			rewards: [
+				{
+					count: 8
+					id: "2000000000002035"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002036"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Carcaça de Latão"
+			dependencies: [
+				"1000000000003018"
+			]
+			icon: {
+				id: "create:brass_casing"
+			}
+			id: "1000000000003019"
+			x: 11.0d
+			y: 2.0d
+			description: [
+				"§eA Carcaça Avançada§r"
+				""
+				"A §aCarcaça de Latão§r é a base das máquinas mais avançadas, como funis de latão e braços mecânicos."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002037"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002038"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Funil de Latão"
+			dependencies: [
+				"1000000000003019"
+			]
+			icon: {
+				id: "create:brass_funnel"
+			}
+			id: "1000000000003020"
+			x: 11.0d
+			y: 4.0d
+			description: [
+				"§eEntregando Itens§r"
+				""
+				"O §aFunil de Latão§r insere ou extrai itens de inventários e aceita filtro para escolher o que passa."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002039"
+					item: {
+						count: 1
+						id: "create:brass_funnel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002040"
+					item: {
+						count: 1
+						id: "create:brass_funnel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Túnel de Latão"
+			dependencies: [
+				"1000000000003020"
+			]
+			icon: {
+				id: "create:brass_tunnel"
+			}
+			id: "1000000000003021"
+			x: 9.0d
+			y: 4.0d
+			description: [
+				"§eDistribuindo Itens§r"
+				""
+				"O §aTúnel de Latão§r divide itens entre várias saídas de uma correia, com filtros e modos de distribuição."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002041"
+					item: {
+						count: 1
+						id: "create:brass_tunnel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002042"
+					item: {
+						count: 1
+						id: "create:brass_tunnel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Implantador"
+			dependencies: [
+				"1000000000003019"
+			]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "1000000000003022"
+			x: 13.0d
+			y: 2.0d
+			description: [
+				"§eA Mão Mecânica§r"
+				""
+				"O §aImplantador§r usa itens, coloca blocos e interage com o mundo como se fosse um jogador. Também aplica itens em outros itens nas linhas de montagem."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002043"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002044"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Mecanismo de Precisão"
+			dependencies: [
+				"1000000000003022"
+			]
+			icon: {
+				id: "create:precision_mechanism"
+			}
+			id: "1000000000003023"
+			size: 1.25d
+			x: 13.0d
+			y: 0.0d
+			description: [
+				"§eO Coração das Máquinas§r"
+				""
+				"O §aMecanismo de Precisão§r é feito por montagem sequencial: uma chapa de ouro passa por implantadores e prensas, etapa por etapa."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002045"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002046"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Fabricador Mecânico"
+			dependencies: [
+				"1000000000003023"
+			]
+			icon: {
+				id: "create:mechanical_crafter"
+			}
+			id: "1000000000003024"
+			x: 15.0d
+			y: 0.0d
+			description: [
+				"§eFabricação Automatizada§r"
+				""
+				"O §aFabricador Mecânico§r monta receitas de fabricação com vários itens em grupo. Com ele dá para automatizar até receitas complexas."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002047"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002048"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Braço Mecânico"
+			dependencies: [
+				"1000000000003022"
+				"1000000000003023"
+			]
+			icon: {
+				id: "create:mechanical_arm"
+			}
+			id: "1000000000003025"
+			size: 1.25d
+			x: 13.0d
+			y: 4.0d
+			description: [
+				"§eLogística Robótica§r"
+				""
+				"O §aBraço Mecânico§r move itens entre inventários, depósitos e máquinas, seguindo os pontos de entrada e saída que você define."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002049"
+					item: {
+						count: 1
+						id: "create:mechanical_arm"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002050"
+					item: {
+						count: 1
+						id: "create:mechanical_arm"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Além do Create: os Addons"
+			dependencies: [
+				"1000000000003019"
+			]
+			icon: {
+				id: "create:precision_mechanism"
+			}
+			id: "1000000000003026"
+			x: 15.0d
+			y: 2.0d
+			description: [
+				"§eO Universo Create§r"
+				""
+				"O pack traz vários addons: §6Create: New Age§r, §6Crafts & Additions§r, §6Diesel Generators§r, §6Steam 'n' Rails§r, §6Central Kitchen§r, §6Enchantment Industry§r, §6Ore Excavation§r e §6Ultimate Factory§r, além de §6Copycats+§r e §6Create Deco§r para decoração."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002051"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2000000000002052"
+					type: "checkmark"
+				}
+			]
+		}
+		{
+			title: "Funil de Andesito"
+			dependencies: [
+				"1000000000001005"
+			]
+			icon: {
+				id: "create:andesite_funnel"
+			}
+			id: "1000000000003027"
+			x: -8.0d
+			y: -4.0d
+			description: [
+				"§eFunil Simples§r"
+				""
+				"O §aFunil de Andesito§r move itens entre inventários e correias. É a forma mais simples de automatizar o transporte."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002053"
+					item: {
+						count: 1
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002054"
+					item: {
+						count: 1
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Depósito"
+			dependencies: [
+				"1000000000001005"
+			]
+			icon: {
+				id: "create:depot"
+			}
+			id: "1000000000003028"
+			x: -6.0d
+			y: -6.0d
+			description: [
+				"§eEstação de Trabalho§r"
+				""
+				"O §aDepósito§r segura um item sobre ele, e máquinas como a prensa e o implantador trabalham em cima dele."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002055"
+					item: {
+						count: 1
+						id: "create:depot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002056"
+					item: {
+						count: 1
+						id: "create:depot"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Calha"
+			dependencies: [
+				"1000000000001005"
+			]
+			icon: {
+				id: "create:chute"
+			}
+			id: "1000000000003029"
+			x: -4.0d
+			y: -6.0d
+			description: [
+				"§eDescendo e Subindo§r"
+				""
+				"A §aCalha§r transporta itens na vertical e liga máquinas em andares diferentes."
+			]
+			rewards: [
+				{
+					count: 8
+					id: "2000000000002057"
+					item: {
+						count: 1
+						id: "create:chute"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002058"
+					item: {
+						count: 1
+						id: "create:chute"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Bacia"
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:basin"
+			}
+			id: "1000000000003030"
+			x: -2.0d
+			y: 4.0d
+			description: [
+				"§eRecebendo Ingredientes§r"
+				""
+				"A §aBacia§r recebe itens e fluidos. Com um misturador ou uma prensa por cima, ela faz receitas de mistura e compactação."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002059"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002060"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Bico Dosador"
+			dependencies: [
+				"1000000000001010"
+			]
+			icon: {
+				id: "create:spout"
+			}
+			id: "1000000000003031"
+			x: -10.0d
+			y: -1.5.0d
+			description: [
+				"§eDosando Líquidos§r"
+				""
+				"O §aBico Dosador§r despeja fluido em itens que passam sob ele, como encher garrafas e baldes."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002061"
+					item: {
+						count: 1
+						id: "create:spout"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002062"
+					item: {
+						count: 1
+						id: "create:spout"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Ralo de Itens"
+			dependencies: [
+				"1000000000001027"
+			]
+			icon: {
+				id: "create:item_drain"
+			}
+			id: "1000000000003032"
+			x: -10.0d
+			y: -3.0d
+			description: [
+				"§eEsvaziando Recipientes§r"
+				""
+				"O §aRalo de Itens§r extrai o fluido de itens que passam por ele, como baldes e garrafas."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002063"
+					item: {
+						count: 1
+						id: "create:item_drain"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002064"
+					item: {
+						count: 1
+						id: "create:item_drain"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Polia de Mangueira"
+			dependencies: [
+				"1000000000001027"
+			]
+			icon: {
+				id: "create:hose_pulley"
+			}
+			id: "1000000000003033"
+			x: -14.0d
+			y: -3.0d
+			description: [
+				"§eBombeando em Grande Escala§r"
+				""
+				"A §aPolia de Mangueira§r suga ou despeja grandes volumes de fluido em uma área, como lagos de água ou lava."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002065"
+					item: {
+						count: 1
+						id: "create:hose_pulley"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002066"
+					item: {
+						count: 1
+						id: "create:hose_pulley"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Válvula de Fluido"
+			dependencies: [
+				"1000000000001010"
+			]
+			icon: {
+				id: "create:fluid_valve"
+			}
+			id: "1000000000003034"
+			x: -14.0d
+			y: -1.5.0d
+			description: [
+				"§eControlando o Fluxo§r"
+				""
+				"A §aVálvula de Fluido§r libera ou bloqueia a passagem do líquido, de acordo com a rotação que recebe."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002067"
+					item: {
+						count: 1
+						id: "create:fluid_valve"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002068"
+					item: {
+						count: 1
+						id: "create:fluid_valve"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Motor a Vapor"
+			dependencies: [
+				"1000000000001026"
+				"1000000000001008"
+			]
+			icon: {
+				id: "create:steam_engine"
+			}
+			id: "1000000000003035"
+			size: 1.25d
+			x: -13.0d
+			y: 2.0d
+			description: [
+				"§eVapor em Movimento§r"
+				""
+				"O §aMotor a Vapor§r transforma o vapor de uma caldeira em rotação. Monte a caldeira com tanques de fluido, água e um queimador de blaze embaixo."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002069"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002070"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Rolamento Mecânico"
+			dependencies: [
+				"1000000000001009"
+			]
+			icon: {
+				id: "create:mechanical_bearing"
+			}
+			id: "1000000000003036"
+			x: 4.0d
+			y: 6.0d
+			description: [
+				"§eEstruturas Giratórias§r"
+				""
+				"O §aRolamento Mecânico§r faz uma estrutura inteira girar, útil para moinhos de vento e máquinas móveis."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002071"
+					item: {
+						count: 1
+						id: "create:mechanical_bearing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002072"
+					item: {
+						count: 1
+						id: "create:mechanical_bearing"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Pistão Mecânico"
+			dependencies: [
+				"1000000000003036"
+			]
+			icon: {
+				id: "create:mechanical_piston"
+			}
+			id: "1000000000003037"
+			x: 6.0d
+			y: 6.0d
+			description: [
+				"§eEstruturas que Deslizam§r"
+				""
+				"O §aPistão Mecânico§r move estruturas em linha reta, com hastes de extensão para aumentar o alcance."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002073"
+					item: {
+						count: 1
+						id: "create:mechanical_piston"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002074"
+					item: {
+						count: 1
+						id: "create:mechanical_piston"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Polia de Corda"
+			dependencies: [
+				"1000000000003036"
+			]
+			icon: {
+				id: "create:rope_pulley"
+			}
+			id: "1000000000003038"
+			x: 8.0d
+			y: 6.0d
+			description: [
+				"§eSubindo e Descendo§r"
+				""
+				"A §aPolia de Corda§r move estruturas na vertical, como elevadores e guindastes."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002075"
+					item: {
+						count: 1
+						id: "create:rope_pulley"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002076"
+					item: {
+						count: 1
+						id: "create:rope_pulley"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Rolamento de Relógio"
+			dependencies: [
+				"1000000000003036"
+				"1000000000003019"
+			]
+			icon: {
+				id: "create:clockwork_bearing"
+			}
+			id: "1000000000003039"
+			x: 4.0d
+			y: 8.0d
+			description: [
+				"§eMarcando as Horas§r"
+				""
+				"O §aRolamento de Relógio§r gira estruturas como ponteiros de hora e minuto, o que permite movimentos bem mais complexos."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002077"
+					item: {
+						count: 1
+						id: "create:clockwork_bearing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002078"
+					item: {
+						count: 1
+						id: "create:clockwork_bearing"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Sinal de Trilho"
+			dependencies: [
+				"1000000000001030"
+			]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "1000000000003040"
+			x: -2.0d
+			y: 9.0d
+			description: [
+				"§eEvitando Colisões§r"
+				""
+				"O §aSinal de Trilho§r divide a ferrovia em blocos e impede que dois trens ocupem o mesmo trecho."
+			]
+			rewards: [
+				{
+					count: 4
+					id: "2000000000002079"
+					item: {
+						count: 1
+						id: "create:track_signal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002080"
+					item: {
+						count: 1
+						id: "create:track_signal"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Observador de Trilho"
+			dependencies: [
+				"1000000000001030"
+			]
+			icon: {
+				id: "create:track_observer"
+			}
+			id: "1000000000003041"
+			x: 2.0d
+			y: 9.0d
+			description: [
+				"§eDe Olho nos Trilhos§r"
+				""
+				"O §aObservador de Trilho§r emite um sinal de redstone quando um trem passa por ele."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002081"
+					item: {
+						count: 1
+						id: "create:track_observer"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002082"
+					item: {
+						count: 1
+						id: "create:track_observer"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Elo de Redstone"
+			dependencies: [
+				"1000000000003018"
+			]
+			icon: {
+				id: "create:redstone_link"
+			}
+			id: "1000000000003042"
+			x: 11.0d
+			y: 6.0d
+			description: [
+				"§eSem Fios§r"
+				""
+				"O §aElo de Redstone§r transmite sinais entre pontos distantes sem fios. Dois elos com a mesma frequência se comunicam."
+			]
+			rewards: [
+				{
+					count: 2
+					id: "2000000000002083"
+					item: {
+						count: 1
+						id: "create:redstone_link"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002084"
+					item: {
+						count: 1
+						id: "create:redstone_link"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Elo de Exibição"
+			dependencies: [
+				"1000000000003042"
+			]
+			icon: {
+				id: "create:display_link"
+			}
+			id: "1000000000003043"
+			x: 13.0d
+			y: 6.0d
+			description: [
+				"§eInformação em Tela§r"
+				""
+				"O §aElo de Exibição§r mostra dados de uma máquina ou estação em placas e painéis."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002085"
+					item: {
+						count: 1
+						id: "create:display_link"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002086"
+					item: {
+						count: 1
+						id: "create:display_link"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Mesa de Esquemas"
+			dependencies: [
+				"1000000000001003"
+			]
+			icon: {
+				id: "create:schematic_table"
+			}
+			id: "1000000000003044"
+			x: -4.0d
+			y: 2.0d
+			description: [
+				"§ePlantas de Construção§r"
+				""
+				"A §aMesa de Esquemas§r carrega plantas de construção para o jogo, prontas para serem construídas."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002087"
+					item: {
+						count: 1
+						id: "create:schematic_table"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002088"
+					item: {
+						count: 1
+						id: "create:schematic_table"
+					}
+					type: "item"
+				}
+			]
+		}
+		{
+			title: "Canhão de Esquemas"
+			dependencies: [
+				"1000000000003044"
+			]
+			icon: {
+				id: "create:schematicannon"
+			}
+			id: "1000000000003045"
+			x: -4.0d
+			y: 4.0d
+			description: [
+				"§eConstruindo com Canhão§r"
+				""
+				"O §aCanhão de Esquemas§r constrói uma planta inteira, disparando blocos de um baú com os materiais. Ele usa pólvora como combustível."
+			]
+			rewards: [
+				{
+					count: 1
+					id: "2000000000002089"
+					item: {
+						count: 1
+						id: "create:schematicannon"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 1L
+					id: "2000000000002090"
+					item: {
+						count: 1
+						id: "create:schematicannon"
+					}
 					type: "item"
 				}
 			]
