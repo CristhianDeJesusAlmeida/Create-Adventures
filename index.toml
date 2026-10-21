@@ -29,6 +29,14 @@ file = "config/ftbquests/quests/chapters/introducao.snbt"
 hash = "40f5325b1717c095a4247b7ae3c4c15d11d551c9b9de36d1f9ea11f4caeaeeef"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "1dbd20b0100ce0969f0bd51d1e73d9499160a826f52616f4a726069b7a787b75"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oritech.snbt"
+hash = "43fb79474271162b240d3b70fc53a8c6165bb51d811f6873665dcb7e543ded57"
+
+[[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "bdf98ab4e57326ce718a132be9804bc6dca5b4f764570c3c159fec088edb74af"
 
