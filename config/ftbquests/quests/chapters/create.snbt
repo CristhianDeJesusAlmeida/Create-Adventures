@@ -22,7 +22,7 @@
 		{
 			title: "O Ponto de Partida: Andesito"
 			dependencies: [
-				"1000000000001001"
+				"1000000000000003"
 			]
 			icon: {
 				id: "minecraft:andesite"
