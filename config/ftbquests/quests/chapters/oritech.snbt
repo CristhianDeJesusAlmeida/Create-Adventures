@@ -19,11 +19,11 @@
 			id: "1000000000007201"
 			rewards: [
 				{
-					count: 4
+					count: 8
 					id: "2000000000008001"
 					item: {
 						count: 1
-						id: "oritech:nickel_ingot"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -63,11 +63,11 @@
 			id: "1000000000007202"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000008004"
 					item: {
 						count: 1
-						id: "oritech:magnetic_coil"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -105,10 +105,11 @@
 			id: "1000000000007203"
 			rewards: [
 				{
+					count: 16
 					id: "2000000000008007"
 					item: {
 						count: 1
-						id: "oritech:basic_generator_block"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -148,10 +149,11 @@
 			id: "1000000000007204"
 			rewards: [
 				{
+					count: 16
 					id: "2000000000008010"
 					item: {
 						count: 1
-						id: "oritech:powered_furnace_block"
+						id: "minecraft:redstone"
 					}
 					type: "item"
 				}
@@ -193,7 +195,7 @@
 					id: "2000000000008013"
 					item: {
 						count: 1
-						id: "oritech:steel_ingot"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -231,10 +233,11 @@
 			id: "1000000000007206"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008016"
 					item: {
 						count: 1
-						id: "oritech:pulverizer_block"
+						id: "oritech:steel_ingot"
 					}
 					type: "item"
 				}
@@ -273,10 +276,11 @@
 			id: "1000000000007207"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008019"
 					item: {
 						count: 1
-						id: "oritech:foundry_block"
+						id: "oritech:electrum_ingot"
 					}
 					type: "item"
 				}
@@ -314,10 +318,11 @@
 			id: "1000000000007208"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008022"
 					item: {
 						count: 1
-						id: "oritech:assembler_block"
+						id: "oritech:magnetic_coil"
 					}
 					type: "item"
 				}
@@ -357,10 +362,11 @@
 			id: "1000000000007209"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008025"
 					item: {
 						count: 1
-						id: "oritech:centrifuge_block"
+						id: "oritech:silicon"
 					}
 					type: "item"
 				}
@@ -398,10 +404,11 @@
 			id: "1000000000007210"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008028"
 					item: {
 						count: 1
-						id: "oritech:fragment_forge_block"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -439,10 +446,11 @@
 			id: "1000000000007211"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008031"
 					item: {
 						count: 1
-						id: "oritech:small_storage_block"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -480,11 +488,11 @@
 			id: "1000000000007212"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008034"
 					item: {
 						count: 1
-						id: "oritech:basic_battery"
+						id: "oritech:nickel_ingot"
 					}
 					type: "item"
 				}
@@ -522,11 +530,11 @@
 			id: "1000000000007213"
 			rewards: [
 				{
-					count: 16
+					count: 8
 					id: "2000000000008037"
 					item: {
 						count: 1
-						id: "oritech:energy_pipe"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -564,10 +572,11 @@
 			id: "1000000000007214"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008040"
 					item: {
 						count: 1
-						id: "oritech:big_solar_panel_block"
+						id: "oritech:magnetic_coil"
 					}
 					type: "item"
 				}
@@ -605,10 +614,11 @@
 			id: "1000000000007215"
 			rewards: [
 				{
+					count: 16
 					id: "2000000000008043"
 					item: {
 						count: 1
-						id: "oritech:bio_generator_block"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -646,10 +656,11 @@
 			id: "1000000000007216"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008046"
 					item: {
 						count: 1
-						id: "oritech:fuel_generator_block"
+						id: "oritech:plastic_sheet"
 					}
 					type: "item"
 				}
@@ -687,10 +698,11 @@
 			id: "1000000000007217"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000008049"
 					item: {
 						count: 1
-						id: "oritech:lava_generator_block"
+						id: "minecraft:quartz"
 					}
 					type: "item"
 				}
@@ -728,10 +740,11 @@
 			id: "1000000000007218"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008052"
 					item: {
 						count: 1
-						id: "oritech:steam_engine_block"
+						id: "oritech:steel_ingot"
 					}
 					type: "item"
 				}
@@ -773,7 +786,7 @@
 					id: "2000000000008055"
 					item: {
 						count: 1
-						id: "oritech:advanced_battery"
+						id: "oritech:electrum_ingot"
 					}
 					type: "item"
 				}
@@ -811,11 +824,11 @@
 			id: "1000000000007220"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008058"
 					item: {
 						count: 1
-						id: "oritech:plastic_sheet"
+						id: "oritech:magnetic_coil"
 					}
 					type: "item"
 				}
@@ -857,7 +870,7 @@
 					id: "2000000000008061"
 					item: {
 						count: 1
-						id: "oritech:silicon"
+						id: "oritech:plastic_sheet"
 					}
 					type: "item"
 				}
@@ -895,11 +908,11 @@
 			id: "1000000000007222"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008064"
 					item: {
 						count: 1
-						id: "oritech:silicon_wafer"
+						id: "oritech:plastic_sheet"
 					}
 					type: "item"
 				}
@@ -938,11 +951,11 @@
 			id: "1000000000007223"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000008067"
 					item: {
 						count: 1
-						id: "oritech:processing_unit"
+						id: "minecraft:quartz"
 					}
 					type: "item"
 				}
@@ -980,11 +993,11 @@
 			id: "1000000000007224"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008070"
 					item: {
 						count: 1
-						id: "oritech:motor"
+						id: "oritech:steel_ingot"
 					}
 					type: "item"
 				}
@@ -1022,11 +1035,11 @@
 			id: "1000000000007225"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008073"
 					item: {
 						count: 1
-						id: "oritech:carbon_fibre_strands"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -1068,7 +1081,7 @@
 					id: "2000000000008076"
 					item: {
 						count: 1
-						id: "oritech:reinforced_carbon_sheet"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -1110,7 +1123,7 @@
 					id: "2000000000008079"
 					item: {
 						count: 1
-						id: "oritech:electrum_ingot"
+						id: "oritech:silicon"
 					}
 					type: "item"
 				}
@@ -1152,7 +1165,7 @@
 					id: "2000000000008082"
 					item: {
 						count: 1
-						id: "oritech:adamant_ingot"
+						id: "oritech:plastic_sheet"
 					}
 					type: "item"
 				}
@@ -1190,11 +1203,11 @@
 			id: "1000000000007229"
 			rewards: [
 				{
-					count: 4
+					count: 8
 					id: "2000000000008085"
 					item: {
 						count: 1
-						id: "oritech:biosteel_ingot"
+						id: "minecraft:quartz"
 					}
 					type: "item"
 				}
@@ -1232,11 +1245,11 @@
 			id: "1000000000007230"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008088"
 					item: {
 						count: 1
-						id: "oritech:platinum_ingot"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -1274,10 +1287,11 @@
 			id: "1000000000007231"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008091"
 					item: {
 						count: 1
-						id: "oritech:laser_arm_block"
+						id: "oritech:electrum_ingot"
 					}
 					type: "item"
 				}
@@ -1317,10 +1331,11 @@
 			id: "1000000000007232"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008094"
 					item: {
 						count: 1
-						id: "oritech:target_designator"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -1358,11 +1373,11 @@
 			id: "1000000000007233"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008097"
 					item: {
 						count: 1
-						id: "oritech:fluxite"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -1400,10 +1415,11 @@
 			id: "1000000000007234"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008100"
 					item: {
 						count: 1
-						id: "oritech:atomic_forge_block"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -1445,7 +1461,7 @@
 					id: "2000000000008103"
 					item: {
 						count: 1
-						id: "oritech:energite_ingot"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1483,11 +1499,11 @@
 			id: "1000000000007236"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008106"
 					item: {
 						count: 1
-						id: "oritech:duratium_ingot"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -1529,7 +1545,7 @@
 					id: "2000000000008109"
 					item: {
 						count: 1
-						id: "oritech:prometheum_ingot"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -1567,10 +1583,11 @@
 			id: "1000000000007238"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000008112"
 					item: {
 						count: 1
-						id: "oritech:wrench"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -1608,11 +1625,11 @@
 			id: "1000000000007239"
 			rewards: [
 				{
-					count: 16
+					count: 4
 					id: "2000000000008115"
 					item: {
 						count: 1
-						id: "oritech:item_pipe"
+						id: "oritech:silicon"
 					}
 					type: "item"
 				}
@@ -1650,11 +1667,11 @@
 			id: "1000000000007240"
 			rewards: [
 				{
-					count: 16
+					count: 4
 					id: "2000000000008118"
 					item: {
 						count: 1
-						id: "oritech:fluid_pipe"
+						id: "oritech:plastic_sheet"
 					}
 					type: "item"
 				}
@@ -1692,11 +1709,11 @@
 			id: "1000000000007241"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000008121"
 					item: {
 						count: 1
-						id: "oritech:item_filter_block"
+						id: "minecraft:quartz"
 					}
 					type: "item"
 				}
@@ -1734,10 +1751,11 @@
 			id: "1000000000007242"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008124"
 					item: {
 						count: 1
-						id: "oritech:pump_block"
+						id: "oritech:steel_ingot"
 					}
 					type: "item"
 				}
@@ -1775,10 +1793,11 @@
 			id: "1000000000007243"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008127"
 					item: {
 						count: 1
-						id: "oritech:small_tank_block"
+						id: "oritech:electrum_ingot"
 					}
 					type: "item"
 				}
@@ -1820,7 +1839,7 @@
 					id: "2000000000008130"
 					item: {
 						count: 1
-						id: "oritech:power_pole_block"
+						id: "oritech:magnetic_coil"
 					}
 					type: "item"
 				}
@@ -1858,11 +1877,11 @@
 			id: "1000000000007245"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008133"
 					item: {
 						count: 1
-						id: "oritech:machine_speed_addon"
+						id: "oritech:silicon"
 					}
 					type: "item"
 				}
@@ -1902,11 +1921,11 @@
 			id: "1000000000007246"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008136"
 					item: {
 						count: 1
-						id: "oritech:machine_efficiency_addon"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -1944,11 +1963,11 @@
 			id: "1000000000007247"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008139"
 					item: {
 						count: 1
-						id: "oritech:machine_capacitor_addon"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1990,7 +2009,7 @@
 					id: "2000000000008142"
 					item: {
 						count: 1
-						id: "oritech:machine_acceptor_addon"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -2029,10 +2048,11 @@
 			id: "1000000000007249"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008145"
 					item: {
 						count: 1
-						id: "oritech:machine_processing_addon"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -2070,10 +2090,11 @@
 			id: "1000000000007250"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008148"
 					item: {
 						count: 1
-						id: "oritech:machine_fluid_addon"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -2111,10 +2132,11 @@
 			id: "1000000000007251"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008151"
 					item: {
 						count: 1
-						id: "oritech:machine_redstone_addon"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -2152,10 +2174,11 @@
 			id: "1000000000007252"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008154"
 					item: {
 						count: 1
-						id: "oritech:machine_combi_addon"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -2193,10 +2216,11 @@
 			id: "1000000000007253"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008157"
 					item: {
 						count: 1
-						id: "oritech:deep_drill_block"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -2236,10 +2260,11 @@
 			id: "1000000000007254"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008160"
 					item: {
 						count: 1
-						id: "oritech:treefeller_block"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -2277,10 +2302,11 @@
 			id: "1000000000007255"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008163"
 					item: {
 						count: 1
-						id: "oritech:destroyer_block"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -2318,10 +2344,11 @@
 			id: "1000000000007256"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008166"
 					item: {
 						count: 1
-						id: "oritech:placer_block"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -2359,10 +2386,11 @@
 			id: "1000000000007257"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008169"
 					item: {
 						count: 1
-						id: "oritech:fertilizer_block"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -2400,10 +2428,11 @@
 			id: "1000000000007258"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008172"
 					item: {
 						count: 1
-						id: "oritech:drone_port_block"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -2441,10 +2470,11 @@
 			id: "1000000000007259"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008175"
 					item: {
 						count: 1
-						id: "oritech:charger_block"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -2482,10 +2512,11 @@
 			id: "1000000000007260"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008178"
 					item: {
 						count: 1
-						id: "oritech:hand_drill"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -2523,10 +2554,11 @@
 			id: "1000000000007261"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008181"
 					item: {
 						count: 1
-						id: "oritech:chainsaw"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -2565,10 +2597,11 @@
 			id: "1000000000007262"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008184"
 					item: {
 						count: 1
-						id: "oritech:portable_laser"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -2606,10 +2639,11 @@
 			id: "1000000000007263"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008187"
 					item: {
 						count: 1
-						id: "oritech:electric_mace"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -2648,10 +2682,11 @@
 			id: "1000000000007264"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008190"
 					item: {
 						count: 1
-						id: "oritech:exo_chestplate"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -2689,10 +2724,11 @@
 			id: "1000000000007265"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008193"
 					item: {
 						count: 1
-						id: "oritech:jetpack"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -2731,10 +2767,11 @@
 			id: "1000000000007266"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008196"
 					item: {
 						count: 1
-						id: "oritech:promethium_pickaxe"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -2772,10 +2809,11 @@
 			id: "1000000000007267"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008199"
 					item: {
 						count: 1
-						id: "oritech:simple_augment_station"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -2815,10 +2853,11 @@
 			id: "1000000000007268"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008202"
 					item: {
 						count: 1
-						id: "oritech:advanced_augment_station"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -2856,10 +2895,11 @@
 			id: "1000000000007269"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008205"
 					item: {
 						count: 1
-						id: "oritech:arcane_augment_station"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -2897,10 +2937,11 @@
 			id: "1000000000007270"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008208"
 					item: {
 						count: 1
-						id: "oritech:augment_application_block"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -2938,10 +2979,11 @@
 			id: "1000000000007271"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008211"
 					item: {
 						count: 1
-						id: "oritech:enchanter_block"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -2979,11 +3021,11 @@
 			id: "1000000000007272"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008214"
 					item: {
 						count: 1
-						id: "oritech:uranium_pellet"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -3024,10 +3066,11 @@
 			id: "1000000000007273"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008217"
 					item: {
 						count: 1
-						id: "oritech:reactor_controller"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -3065,11 +3108,11 @@
 			id: "1000000000007274"
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000008220"
 					item: {
 						count: 1
-						id: "oritech:reactor_wall"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -3107,11 +3150,11 @@
 			id: "1000000000007275"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008223"
 					item: {
 						count: 1
-						id: "oritech:reactor_rod"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -3149,10 +3192,11 @@
 			id: "1000000000007276"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008226"
 					item: {
 						count: 1
-						id: "oritech:reactor_fuel_port"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -3190,10 +3234,11 @@
 			id: "1000000000007277"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008229"
 					item: {
 						count: 1
-						id: "oritech:reactor_energy_port"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -3231,11 +3276,11 @@
 			id: "1000000000007278"
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000008232"
 					item: {
 						count: 1
-						id: "oritech:reactor_heat_pipe"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}
@@ -3273,11 +3318,11 @@
 			id: "1000000000007279"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000008235"
 					item: {
 						count: 1
-						id: "oritech:reactor_reflector"
+						id: "oritech:carbon_fibre_strands"
 					}
 					type: "item"
 				}
@@ -3316,10 +3361,11 @@
 			id: "1000000000007280"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008238"
 					item: {
 						count: 1
-						id: "oritech:accelerator_controller"
+						id: "oritech:energite_ingot"
 					}
 					type: "item"
 				}
@@ -3363,7 +3409,7 @@
 					id: "2000000000008241"
 					item: {
 						count: 1
-						id: "oritech:accelerator_motor"
+						id: "oritech:adamant_ingot"
 					}
 					type: "item"
 				}
@@ -3401,11 +3447,11 @@
 			id: "1000000000007282"
 			rewards: [
 				{
-					count: 16
+					count: 4
 					id: "2000000000008244"
 					item: {
 						count: 1
-						id: "oritech:accelerator_ring"
+						id: "oritech:fluxite"
 					}
 					type: "item"
 				}
@@ -3443,10 +3489,11 @@
 			id: "1000000000007283"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000008247"
 					item: {
 						count: 1
-						id: "oritech:accelerator_sensor"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -3484,10 +3531,11 @@
 			id: "1000000000007284"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000008250"
 					item: {
 						count: 1
-						id: "oritech:particle_collector_block"
+						id: "oritech:processing_unit"
 					}
 					type: "item"
 				}

@@ -19,11 +19,11 @@
 			id: "1000000000007101"
 			rewards: [
 				{
-					count: 4
+					count: 16
 					id: "2000000000007101"
 					item: {
 						count: 1
-						id: "mekanism:raw_osmium"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -67,7 +67,7 @@
 					id: "2000000000007104"
 					item: {
 						count: 1
-						id: "mekanism:ingot_osmium"
+						id: "mekanism:enriched_iron"
 					}
 					type: "item"
 				}
@@ -201,7 +201,7 @@
 					id: "2000000000007113"
 					item: {
 						count: 1
-						id: "mekanism:ingot_steel"
+						id: "mekanism:alloy_infused"
 					}
 					type: "item"
 				}
@@ -245,7 +245,7 @@
 					id: "2000000000007116"
 					item: {
 						count: 1
-						id: "mekanism:steel_casing"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -285,11 +285,11 @@
 			id: "1000000000007107"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000007119"
 					item: {
 						count: 1
-						id: "mekanism:alloy_reinforced"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
@@ -329,11 +329,11 @@
 			id: "1000000000007108"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000007122"
 					item: {
 						count: 1
-						id: "mekanism:alloy_atomic"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -373,10 +373,11 @@
 			id: "1000000000007109"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007125"
 					item: {
 						count: 1
-						id: "mekanismgenerators:heat_generator"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -416,11 +417,11 @@
 			id: "1000000000007110"
 			rewards: [
 				{
-					count: 16
+					count: 4
 					id: "2000000000007128"
 					item: {
 						count: 1
-						id: "mekanism:basic_universal_cable"
+						id: "mekanism:ingot_osmium"
 					}
 					type: "item"
 				}
@@ -460,10 +461,11 @@
 			id: "1000000000007111"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007131"
 					item: {
 						count: 1
-						id: "mekanismgenerators:solar_generator"
+						id: "mekanism:alloy_infused"
 					}
 					type: "item"
 				}
@@ -503,10 +505,11 @@
 			id: "1000000000007112"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007134"
 					item: {
 						count: 1
-						id: "mekanismgenerators:wind_generator"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -546,11 +549,11 @@
 			id: "1000000000007113"
 			rewards: [
 				{
-					count: 4
+					count: 16
 					id: "2000000000007137"
 					item: {
 						count: 1
-						id: "mekanism:alloy_infused"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -594,7 +597,7 @@
 					id: "2000000000007140"
 					item: {
 						count: 1
-						id: "mekanism:basic_control_circuit"
+						id: "mekanism:enriched_iron"
 					}
 					type: "item"
 				}
@@ -634,10 +637,11 @@
 			id: "1000000000007115"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007143"
 					item: {
 						count: 1
-						id: "mekanism:energy_tablet"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -677,10 +681,11 @@
 			id: "1000000000007116"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007146"
 					item: {
 						count: 1
-						id: "mekanism:configurator"
+						id: "mekanism:ingot_steel"
 					}
 					type: "item"
 				}
@@ -721,10 +726,11 @@
 			id: "1000000000007117"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007149"
 					item: {
 						count: 1
-						id: "mekanism:basic_energy_cube"
+						id: "mekanism:alloy_infused"
 					}
 					type: "item"
 				}
@@ -768,7 +774,7 @@
 					id: "2000000000007152"
 					item: {
 						count: 1
-						id: "mekanism:upgrade_speed"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -808,11 +814,11 @@
 			id: "1000000000007119"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000007155"
 					item: {
 						count: 1
-						id: "mekanism:upgrade_energy"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
@@ -852,10 +858,11 @@
 			id: "1000000000007120"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007158"
 					item: {
 						count: 1
-						id: "mekanism:enrichment_chamber"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -895,10 +902,11 @@
 			id: "1000000000007121"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007161"
 					item: {
 						count: 1
-						id: "mekanism:crusher"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -938,10 +946,11 @@
 			id: "1000000000007122"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007164"
 					item: {
 						count: 1
-						id: "mekanism:energized_smelter"
+						id: "mekanism:ingot_steel"
 					}
 					type: "item"
 				}
@@ -981,10 +990,11 @@
 			id: "1000000000007123"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007167"
 					item: {
 						count: 1
-						id: "mekanism:precision_sawmill"
+						id: "mekanism:alloy_infused"
 					}
 					type: "item"
 				}
@@ -1025,10 +1035,11 @@
 			id: "1000000000007124"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007170"
 					item: {
 						count: 1
-						id: "mekanism:digital_miner"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -1068,10 +1079,11 @@
 			id: "1000000000007125"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007173"
 					item: {
 						count: 1
-						id: "mekanism:robit"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
@@ -1111,10 +1123,11 @@
 			id: "1000000000007126"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007176"
 					item: {
 						count: 1
-						id: "mekanism:electrolytic_separator"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -1154,11 +1167,11 @@
 			id: "1000000000007127"
 			rewards: [
 				{
-					count: 16
+					count: 2
 					id: "2000000000007179"
 					item: {
 						count: 1
-						id: "mekanism:basic_pressurized_tube"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1198,10 +1211,11 @@
 			id: "1000000000007128"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007182"
 					item: {
 						count: 1
-						id: "mekanism:basic_chemical_tank"
+						id: "mekanism:ingot_steel"
 					}
 					type: "item"
 				}
@@ -1241,10 +1255,11 @@
 			id: "1000000000007129"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007185"
 					item: {
 						count: 1
-						id: "mekanism:chemical_oxidizer"
+						id: "mekanism:advanced_control_circuit"
 					}
 					type: "item"
 				}
@@ -1284,10 +1299,11 @@
 			id: "1000000000007130"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007188"
 					item: {
 						count: 1
-						id: "mekanism:chemical_infuser"
+						id: "mekanism:alloy_atomic"
 					}
 					type: "item"
 				}
@@ -1327,10 +1343,11 @@
 			id: "1000000000007131"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007191"
 					item: {
 						count: 1
-						id: "mekanism:pressurized_reaction_chamber"
+						id: "mekanism:ingot_refined_obsidian"
 					}
 					type: "item"
 				}
@@ -1370,10 +1387,11 @@
 			id: "1000000000007132"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007194"
 					item: {
 						count: 1
-						id: "mekanism:purification_chamber"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -1413,10 +1431,11 @@
 			id: "1000000000007133"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007197"
 					item: {
 						count: 1
-						id: "mekanism:chemical_injection_chamber"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1456,10 +1475,11 @@
 			id: "1000000000007134"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007200"
 					item: {
 						count: 1
-						id: "mekanism:chemical_dissolution_chamber"
+						id: "mekanism:alloy_reinforced"
 					}
 					type: "item"
 				}
@@ -1499,10 +1519,11 @@
 			id: "1000000000007135"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007203"
 					item: {
 						count: 1
-						id: "mekanism:chemical_washer"
+						id: "mekanism:advanced_control_circuit"
 					}
 					type: "item"
 				}
@@ -1542,10 +1563,11 @@
 			id: "1000000000007136"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007206"
 					item: {
 						count: 1
-						id: "mekanism:chemical_crystallizer"
+						id: "mekanism:alloy_atomic"
 					}
 					type: "item"
 				}
@@ -1585,11 +1607,11 @@
 			id: "1000000000007137"
 			rewards: [
 				{
-					count: 16
+					count: 8
 					id: "2000000000007209"
 					item: {
 						count: 1
-						id: "mekanism:basic_mechanical_pipe"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
@@ -1629,10 +1651,11 @@
 			id: "1000000000007138"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007212"
 					item: {
 						count: 1
-						id: "mekanism:basic_fluid_tank"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -1672,11 +1695,11 @@
 			id: "1000000000007139"
 			rewards: [
 				{
-					count: 16
+					count: 2
 					id: "2000000000007215"
 					item: {
 						count: 1
-						id: "mekanism:basic_logistical_transporter"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1716,10 +1739,11 @@
 			id: "1000000000007140"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007218"
 					item: {
 						count: 1
-						id: "mekanism:logistical_sorter"
+						id: "mekanism:ingot_steel"
 					}
 					type: "item"
 				}
@@ -1759,10 +1783,11 @@
 			id: "1000000000007141"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007221"
 					item: {
 						count: 1
-						id: "mekanism:basic_bin"
+						id: "mekanism:advanced_control_circuit"
 					}
 					type: "item"
 				}
@@ -1802,10 +1827,11 @@
 			id: "1000000000007142"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007224"
 					item: {
 						count: 1
-						id: "mekanism:atomic_disassembler"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -1846,10 +1872,11 @@
 			id: "1000000000007143"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007227"
 					item: {
 						count: 1
-						id: "mekanism:jetpack"
+						id: "mekanism:ingot_refined_obsidian"
 					}
 					type: "item"
 				}
@@ -1889,10 +1916,11 @@
 			id: "1000000000007144"
 			rewards: [
 				{
+					count: 8
 					id: "2000000000007230"
 					item: {
 						count: 1
-						id: "mekanism:free_runners"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -1932,10 +1960,11 @@
 			id: "1000000000007145"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007233"
 					item: {
 						count: 1
-						id: "mekanism:teleportation_core"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -1975,11 +2004,11 @@
 			id: "1000000000007146"
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000007236"
 					item: {
 						count: 1
-						id: "mekanism:teleporter"
+						id: "mekanism:ingot_steel"
 					}
 					type: "item"
 				}
@@ -2019,10 +2048,11 @@
 			id: "1000000000007147"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007239"
 					item: {
 						count: 1
-						id: "mekanism:portable_teleporter"
+						id: "mekanism:advanced_control_circuit"
 					}
 					type: "item"
 				}
@@ -2063,10 +2093,11 @@
 			id: "1000000000007148"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007242"
 					item: {
 						count: 1
-						id: "mekanism:qio_drive_base"
+						id: "mekanism:basic_control_circuit"
 					}
 					type: "item"
 				}
@@ -2106,10 +2137,11 @@
 			id: "1000000000007149"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007245"
 					item: {
 						count: 1
-						id: "mekanism:qio_dashboard"
+						id: "mekanism:ingot_refined_obsidian"
 					}
 					type: "item"
 				}
@@ -2149,11 +2181,11 @@
 			id: "1000000000007150"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000007248"
 					item: {
 						count: 1
-						id: "mekanism:induction_cell_basic"
+						id: "minecraft:gold_ingot"
 					}
 					type: "item"
 				}
@@ -2211,11 +2243,11 @@
 			id: "1000000000007151"
 			rewards: [
 				{
-					count: 8
+					count: 4
 					id: "2000000000007253"
 					item: {
 						count: 1
-						id: "mekanism:thermal_evaporation_block"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -2273,11 +2305,11 @@
 			id: "1000000000007152"
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000007258"
 					item: {
 						count: 1
-						id: "mekanismgenerators:turbine_casing"
+						id: "mekanism:alloy_reinforced"
 					}
 					type: "item"
 				}
@@ -2335,11 +2367,11 @@
 			id: "1000000000007153"
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000007263"
 					item: {
 						count: 1
-						id: "mekanismgenerators:fission_reactor_casing"
+						id: "mekanism:advanced_control_circuit"
 					}
 					type: "item"
 				}
@@ -2397,11 +2429,11 @@
 			id: "1000000000007154"
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000007268"
 					item: {
 						count: 1
-						id: "mekanismgenerators:fusion_reactor_frame"
+						id: "mekanism:alloy_atomic"
 					}
 					type: "item"
 				}
@@ -2459,11 +2491,11 @@
 			id: "1000000000007155"
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000007273"
 					item: {
 						count: 1
-						id: "mekanism:sps_casing"
+						id: "mekanism:ingot_refined_obsidian"
 					}
 					type: "item"
 				}
@@ -2522,10 +2554,11 @@
 			id: "1000000000007156"
 			rewards: [
 				{
+					count: 4
 					id: "2000000000007278"
 					item: {
 						count: 1
-						id: "mekanism:mekasuit_helmet"
+						id: "mekanism:ingot_refined_glowstone"
 					}
 					type: "item"
 				}
@@ -2592,10 +2625,11 @@
 			id: "1000000000007157"
 			rewards: [
 				{
+					count: 2
 					id: "2000000000007284"
 					item: {
 						count: 1
-						id: "mekanism:meka_tool"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}

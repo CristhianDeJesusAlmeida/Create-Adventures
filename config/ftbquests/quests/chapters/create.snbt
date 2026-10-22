@@ -14,56 +14,15 @@
 		{
 			id: "1000000000001001"
 			linked_quest: "1000000000000003"
-			x: -6.0d
+			x: -4.0d
 			y: 0.0d
 		}
 	]
 	quests: [
 		{
-			title: "O Ponto de Partida: Andesito"
-			dependencies: [
-				"1000000000000003"
-			]
-			icon: {
-				id: "minecraft:andesite"
-			}
-			id: "1000000000001002"
-			shape: "gear"
-			size: 3.0d
-			x: -4.0d
-			y: 0.0d
-			description: [
-				"§6A Matéria-Prima da Indústria§r"
-				""
-				"Todo grande império mecânico começa com uma simples pedra. O andesito é o alicerce fundamental para a criação das ligas e estruturas do §2Create§r."
-			]
-			rewards: [
-				{
-					count: 16
-					id: "2000000000001001"
-					item: {
-						count: 1
-						id: "minecraft:andesite"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					count: 1L
-					id: "2000000000001002"
-					item: {
-						count: 1
-						id: "minecraft:andesite"
-					}
-					type: "item"
-				}
-			]
-		}
-		{
 			title: "A Base de Tudo: Liga de Andesito"
 			dependencies: [
-				"1000000000001002"
+				"1000000000000003"
 			]
 			icon: {
 				id: "create:andesite_alloy"
@@ -83,7 +42,7 @@
 					id: "2000000000001003"
 					item: {
 						count: 1
-						id: "create:andesite_alloy"
+						id: "create:shaft"
 					}
 					type: "item"
 				}
@@ -123,7 +82,7 @@
 					id: "2000000000001005"
 					item: {
 						count: 1
-						id: "create:shaft"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -159,11 +118,11 @@
 			]
 			rewards: [
 				{
-					count: 16
+					count: 2
 					id: "2000000000001007"
 					item: {
 						count: 1
-						id: "create:belt_connector"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -205,7 +164,7 @@
 					id: "2000000000001021"
 					item: {
 						count: 1
-						id: "create:andesite_casing"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -361,11 +320,11 @@
 			]
 			rewards: [
 				{
-					count: 10
+					count: 4
 					id: "2000000000001029"
 					item: {
 						count: 1
-						id: "create:fluid_pipe"
+						id: "create:cogwheel"
 					}
 					type: "item"
 				}
@@ -401,11 +360,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000001031"
 					item: {
 						count: 1
-						id: "create:fluid_tank"
+						id: "create:cogwheel"
 					}
 					type: "item"
 				}
@@ -481,11 +440,11 @@
 			]
 			rewards: [
 				{
-					count: 32
+					count: 8
 					id: "2000000000001035"
 					item: {
 						count: 1
-						id: "create:track"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -525,7 +484,7 @@
 					id: "2000000000001037"
 					item: {
 						count: 1
-						id: "create:track_station"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -561,11 +520,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000001039"
 					item: {
 						count: 1
-						id: "create:controls"
+						id: "create:zinc_ingot"
 					}
 					type: "item"
 				}
@@ -609,11 +568,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002001"
 					item: {
 						count: 1
-						id: "create:goggles"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -648,11 +607,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002003"
 					item: {
 						count: 1
-						id: "create:wrench"
+						id: "create:cogwheel"
 					}
 					type: "item"
 				}
@@ -687,11 +646,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002005"
 					item: {
 						count: 1
-						id: "create:super_glue"
+						id: "create:shaft"
 					}
 					type: "item"
 				}
@@ -730,7 +689,7 @@
 					id: "2000000000002007"
 					item: {
 						count: 1
-						id: "create:cogwheel"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -765,11 +724,11 @@
 			]
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000002009"
 					item: {
 						count: 1
-						id: "create:large_cogwheel"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -808,7 +767,7 @@
 					id: "2000000000002011"
 					item: {
 						count: 1
-						id: "create:gearbox"
+						id: "create:large_cogwheel"
 					}
 					type: "item"
 				}
@@ -843,11 +802,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002013"
 					item: {
 						count: 1
-						id: "create:stressometer"
+						id: "minecraft:redstone"
 					}
 					type: "item"
 				}
@@ -882,11 +841,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000002015"
 					item: {
 						count: 1
-						id: "create:water_wheel"
+						id: "create:andesite_alloy"
 					}
 					type: "item"
 				}
@@ -921,11 +880,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002017"
 					item: {
 						count: 1
-						id: "create:windmill_bearing"
+						id: "create:copper_sheet"
 					}
 					type: "item"
 				}
@@ -960,11 +919,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002019"
 					item: {
 						count: 1
-						id: "create:clutch"
+						id: "create:iron_sheet"
 					}
 					type: "item"
 				}
@@ -1003,7 +962,7 @@
 					id: "2000000000002021"
 					item: {
 						count: 1
-						id: "create:gearshift"
+						id: "create:brass_sheet"
 					}
 					type: "item"
 				}
@@ -1038,11 +997,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002023"
 					item: {
 						count: 1
-						id: "create:millstone"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -1077,11 +1036,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002025"
 					item: {
 						count: 1
-						id: "create:crushing_wheel"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -1120,7 +1079,7 @@
 					id: "2000000000002027"
 					item: {
 						count: 1
-						id: "create:encased_fan"
+						id: "create:large_cogwheel"
 					}
 					type: "item"
 				}
@@ -1155,11 +1114,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000002029"
 					item: {
 						count: 1
-						id: "create:mechanical_drill"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -1194,11 +1153,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000002031"
 					item: {
 						count: 1
-						id: "create:mechanical_saw"
+						id: "create:andesite_alloy"
 					}
 					type: "item"
 				}
@@ -1233,11 +1192,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002033"
 					item: {
 						count: 1
-						id: "create:mechanical_harvester"
+						id: "create:copper_sheet"
 					}
 					type: "item"
 				}
@@ -1274,11 +1233,11 @@
 			]
 			rewards: [
 				{
-					count: 8
+					count: 4
 					id: "2000000000002035"
 					item: {
 						count: 1
-						id: "create:brass_ingot"
+						id: "create:cogwheel"
 					}
 					type: "item"
 				}
@@ -1313,11 +1272,11 @@
 			]
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000002037"
 					item: {
 						count: 1
-						id: "create:brass_casing"
+						id: "create:brass_sheet"
 					}
 					type: "item"
 				}
@@ -1352,11 +1311,11 @@
 			]
 			rewards: [
 				{
-					count: 4
+					count: 2
 					id: "2000000000002039"
 					item: {
 						count: 1
-						id: "create:brass_funnel"
+						id: "create:golden_sheet"
 					}
 					type: "item"
 				}
@@ -1391,11 +1350,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002041"
 					item: {
 						count: 1
-						id: "create:brass_tunnel"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -1434,7 +1393,7 @@
 					id: "2000000000002043"
 					item: {
 						count: 1
-						id: "create:deployer"
+						id: "create:large_cogwheel"
 					}
 					type: "item"
 				}
@@ -1470,11 +1429,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000002045"
 					item: {
 						count: 1
-						id: "create:precision_mechanism"
+						id: "minecraft:redstone"
 					}
 					type: "item"
 				}
@@ -1513,7 +1472,7 @@
 					id: "2000000000002047"
 					item: {
 						count: 1
-						id: "create:mechanical_crafter"
+						id: "create:brass_ingot"
 					}
 					type: "item"
 				}
@@ -1550,11 +1509,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002049"
 					item: {
 						count: 1
-						id: "create:mechanical_arm"
+						id: "create:copper_sheet"
 					}
 					type: "item"
 				}
@@ -1623,11 +1582,11 @@
 			]
 			rewards: [
 				{
-					count: 4
+					count: 8
 					id: "2000000000002053"
 					item: {
 						count: 1
-						id: "create:andesite_funnel"
+						id: "create:shaft"
 					}
 					type: "item"
 				}
@@ -1662,11 +1621,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000002055"
 					item: {
 						count: 1
-						id: "create:depot"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -1701,11 +1660,11 @@
 			]
 			rewards: [
 				{
-					count: 8
+					count: 2
 					id: "2000000000002057"
 					item: {
 						count: 1
-						id: "create:chute"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -1740,11 +1699,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002059"
 					item: {
 						count: 1
-						id: "create:basin"
+						id: "create:zinc_ingot"
 					}
 					type: "item"
 				}
@@ -1779,11 +1738,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002061"
 					item: {
 						count: 1
-						id: "create:spout"
+						id: "minecraft:coal"
 					}
 					type: "item"
 				}
@@ -1818,11 +1777,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002063"
 					item: {
 						count: 1
-						id: "create:item_drain"
+						id: "create:andesite_alloy"
 					}
 					type: "item"
 				}
@@ -1857,11 +1816,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002065"
 					item: {
 						count: 1
-						id: "create:hose_pulley"
+						id: "minecraft:iron_ingot"
 					}
 					type: "item"
 				}
@@ -1896,11 +1855,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002067"
 					item: {
 						count: 1
-						id: "create:fluid_valve"
+						id: "create:cogwheel"
 					}
 					type: "item"
 				}
@@ -1937,11 +1896,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002069"
 					item: {
 						count: 1
-						id: "create:steam_engine"
+						id: "create:shaft"
 					}
 					type: "item"
 				}
@@ -1976,11 +1935,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002071"
 					item: {
 						count: 1
-						id: "create:mechanical_bearing"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -2015,11 +1974,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 2
 					id: "2000000000002073"
 					item: {
 						count: 1
-						id: "create:mechanical_piston"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}
@@ -2054,11 +2013,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 4
 					id: "2000000000002075"
 					item: {
 						count: 1
-						id: "create:rope_pulley"
+						id: "create:zinc_ingot"
 					}
 					type: "item"
 				}
@@ -2094,11 +2053,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002077"
 					item: {
 						count: 1
-						id: "create:clockwork_bearing"
+						id: "minecraft:redstone"
 					}
 					type: "item"
 				}
@@ -2137,7 +2096,7 @@
 					id: "2000000000002079"
 					item: {
 						count: 1
-						id: "create:track_signal"
+						id: "create:brass_ingot"
 					}
 					type: "item"
 				}
@@ -2172,11 +2131,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002081"
 					item: {
 						count: 1
-						id: "create:track_observer"
+						id: "create:copper_sheet"
 					}
 					type: "item"
 				}
@@ -2211,11 +2170,11 @@
 			]
 			rewards: [
 				{
-					count: 2
+					count: 4
 					id: "2000000000002083"
 					item: {
 						count: 1
-						id: "create:redstone_link"
+						id: "create:iron_sheet"
 					}
 					type: "item"
 				}
@@ -2250,11 +2209,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 2
 					id: "2000000000002085"
 					item: {
 						count: 1
-						id: "create:display_link"
+						id: "create:brass_sheet"
 					}
 					type: "item"
 				}
@@ -2289,11 +2248,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 8
 					id: "2000000000002087"
 					item: {
 						count: 1
-						id: "create:schematic_table"
+						id: "minecraft:copper_ingot"
 					}
 					type: "item"
 				}
@@ -2328,11 +2287,11 @@
 			]
 			rewards: [
 				{
-					count: 1
+					count: 2
 					id: "2000000000002089"
 					item: {
 						count: 1
-						id: "create:schematicannon"
+						id: "create:andesite_casing"
 					}
 					type: "item"
 				}

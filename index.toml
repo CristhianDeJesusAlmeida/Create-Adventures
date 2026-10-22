@@ -5,24 +5,32 @@ file = "README.md"
 hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/ae2.snbt"
+hash = "5ff3b5688dfe2dd31dcce1b31b9b46065796489a5694864f682e92138405b164"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "b66ead2300ba5e0833e90a8cc382006d25d54a031079bc86498aa5b24b0282e9"
+hash = "0ed9a2d6f61e89bfc2a942efd8170d0ad8feeba04c36868b182a72f641142b02"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis.snbt"
-hash = "76dbb65093a5a4915939bcdb76f7a654ab2dc707ffa0b75b902c457bb06ca9f5"
+hash = "2f9114c3f73a6c293fd5041895ad145000ab5121aea3a1b5011b0cae12ee9869"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis_gear.snbt"
-hash = "7491244b1e03a28bdaaf2f512da759f8211c8ecf65d7e610a0b4f6e405d2845e"
+hash = "b0f560af9150438637ba6dc6d3945a97fa9903811acf2ba8d64b8dd1d6a2b517"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apothic_enchanting.snbt"
-hash = "0362b6cb389f92bbd6dc8f1f2e351fad41c0ae5b767397b878e2a28f938f091b"
+hash = "b0f560af9150438637ba6dc6d3945a97fa9903811acf2ba8d64b8dd1d6a2b517"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "9da7d4a252b1ce90a24b17e0c2ec24ed0f03373c500fdd2fd62aeef2eb20a5bc"
+hash = "f6f131d527821e0bc72890dea4f9270098fdbef900786a642fac5b2e9a8076aa"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/electrodynamics.snbt"
+hash = "4858c7c187a59ac30c394010934a52d6b8ad60c8a1b6a0c3a75712fda54ce5c6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introducao.snbt"
@@ -30,11 +38,11 @@ hash = "40f5325b1717c095a4247b7ae3c4c15d11d551c9b9de36d1f9ea11f4caeaeeef"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
-hash = "1dbd20b0100ce0969f0bd51d1e73d9499160a826f52616f4a726069b7a787b75"
+hash = "8dff5cdceb85c602502a0662a3f93e245e995e19e68abdae3a05ffda15a0dba4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/oritech.snbt"
-hash = "43fb79474271162b240d3b70fc53a8c6165bb51d811f6873665dcb7e543ded57"
+hash = "cf641a8a2bb8a12d701b0b4238a6678a5163cf1fc31a341129200b6e027a5e9b"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

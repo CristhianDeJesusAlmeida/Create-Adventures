@@ -7,7 +7,7 @@
 	icon: {
 		id: "minecraft:spawner"
 	}
-	id: "1000000000001062"
+	id: "1000000000007001"
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -51,11 +51,11 @@
 			id: "1000000000001064"
 			rewards: [
 				{
-					count: 64
+					count: 2
 					id: "2000000000001152"
 					item: {
 						count: 1
-						id: "apotheosis:spawner_chain"
+						id: "minecraft:diamond"
 					}
 					type: "item"
 				}
@@ -87,11 +87,11 @@
 			id: "1000000000001065"
 			rewards: [
 				{
-					count: 6
+					count: 4
 					id: "2000000000001155"
 					item: {
 						count: 1
-						id: "apotheosis:spawner_rune"
+						id: "minecraft:ender_pearl"
 					}
 					type: "item"
 				}

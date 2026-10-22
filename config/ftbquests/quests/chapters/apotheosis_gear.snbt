@@ -71,7 +71,7 @@
 					id: "2000000000001206"
 					item: {
 						count: 1
-						id: "apotheosis:gem_dust"
+						id: "minecraft:amethyst_shard"
 					}
 					type: "item"
 				}
@@ -101,11 +101,11 @@
 			id: "1000000000001092"
 			rewards: [
 				{
-					count: 4
+					count: 8
 					id: "2000000000001208"
 					item: {
 						count: 1
-						id: "apotheosis:gem_fused_slate"
+						id: "minecraft:experience_bottle"
 					}
 					type: "item"
 				}
@@ -263,11 +263,11 @@
 			id: "1000000000001096"
 			rewards: [
 				{
-					count: 2
+					count: 8
 					id: "2000000000001220"
 					item: {
 						count: 1
-						id: "apotheosis:sigil_of_rebirth"
+						id: "apotheosis:gem_dust"
 					}
 					type: "item"
 				}
@@ -475,11 +475,11 @@
 					xp_levels: 10
 				}
 				{
-					count: 2
+					count: 8
 					id: "2000000000001233"
 					item: {
 						count: 1
-						id: "apotheosis:godforged_pearl"
+						id: "apotheosis:gem_dust"
 					}
 					type: "item"
 				}
