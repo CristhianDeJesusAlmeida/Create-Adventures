@@ -37,7 +37,7 @@
 			description: [
 				"Este mundo mistura §6indústria§r, §dmagia§r e §caventura§r. Máquinas gigantes, feitiços, dungeons e chefes lendários convivem aqui."
 				""
-				"Este capítulo é só uma introdução rápida, com os primeiros passos para começar. Depois dele, cada mod tem o seu próprio capítulo no livro de quests."
+				"Este capítulo é só informação: ele explica como o pack funciona. As primeiras tarefas de jogo estão no capítulo §aO Começo§r."
 			]
 			tasks: [
 				{
@@ -47,196 +47,180 @@
 			]
 		}
 		{
-			title: "A Primeira Bancada"
+			title: "Como Usar o Livro de Quests"
 			dependencies: [
 				"1000000000000001"
 			]
 			icon: {
-				id: "minecraft:crafting_table"
+				id: "minecraft:writable_book"
 			}
-			id: "1000000000000004"
+			id: "1000000000007801"
 			rewards: [
 				{
-					count: 16
-					id: "2000000000000107"
-					item: {
-						count: 1
-						id: "minecraft:torch"
-					}
-					type: "item"
+					id: "2000000000020016"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			x: 2.0d
 			y: 0.0d
 			description: [
-				"Toda jornada começa com madeira. Reúna troncos de qualquer árvore, faça tábuas e monte a sua bancada de trabalho."
+				"Cada capítulo cobre um mod ou um tema, e as linhas ligam cada quest às que dependem dela. Algumas quests aparecem em mais de um capítulo por meio de links; completar uma conta nos dois lugares."
 				""
-				"Os biomas daqui têm árvores bem variadas, e qualquer madeira serve."
+				"Use o §aJEI§r para ver receitas: aperte R sobre um item para ver como fazê-lo e U para ver onde ele é usado."
 			]
 			tasks: [
 				{
-					count: 1L
-					id: "2000000000000106"
-					item: {
-						count: 1
-						id: "minecraft:crafting_table"
-					}
-					type: "item"
+					id: "2000000000020017"
+					type: "checkmark"
 				}
 			]
 		}
 		{
-			title: "Picareta de Pedra"
+			title: "Quem é Você?"
 			dependencies: [
-				"1000000000000004"
+				"1000000000007801"
 			]
 			icon: {
-				id: "minecraft:stone_pickaxe"
+				id: "minecraft:player_head"
 			}
-			id: "1000000000000005"
+			id: "1000000000007802"
 			rewards: [
 				{
-					count: 8
-					id: "2000000000000109"
-					item: {
-						count: 1
-						id: "minecraft:coal"
-					}
-					type: "item"
+					id: "2000000000020018"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			x: 4.0d
 			y: 0.0d
 			description: [
-				"Com a picareta de madeira, colete pedra e faça uma ferramenta melhor. Ela abre caminho para o carvão e para o ferro."
+				"O pack usa o sistema de §bOrigens§r (Neo Origins), com classes e backgrounds extras: cada origem concede habilidades únicas e também fraquezas."
+				""
+				"Leia com atenção o que a sua origem faz bem e o que faz mal. Isso muda o jeito de jogar e o que você deve priorizar no começo."
 			]
 			tasks: [
 				{
-					count: 1L
-					id: "2000000000000108"
-					item: {
-						count: 1
-						id: "minecraft:stone_pickaxe"
-					}
-					type: "item"
+					id: "2000000000020019"
+					type: "checkmark"
 				}
 			]
 		}
 		{
-			title: "Fornalha"
+			title: "Sede, Frio e Calor"
 			dependencies: [
-				"1000000000000005"
+				"1000000000007802"
 			]
 			icon: {
-				id: "minecraft:furnace"
+				id: "minecraft:water_bucket"
 			}
-			id: "1000000000000006"
+			id: "1000000000007803"
 			rewards: [
 				{
-					count: 8
-					id: "2000000000000111"
-					item: {
-						count: 1
-						id: "minecraft:cooked_beef"
-					}
-					type: "item"
+					id: "2000000000020020"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			x: 6.0d
 			y: 0.0d
 			description: [
-				"Cozinhe comida, funda minérios e faça vidro. Mais adiante você vai trocar a fornalha por máquinas, mas ela continua útil durante todo o jogo."
+				"O pack inclui o §3Legendary Survival Overhaul§r, que adiciona §bsede§r e §etemperatura§r ao jogo. Beber água e se agasalhar passam a fazer parte da rotina."
+				""
+				"Cuidado com desertos, neves e cavernas: leve água, use roupas adequadas e fique de olho nos indicadores da tela."
 			]
 			tasks: [
 				{
-					count: 1L
-					id: "2000000000000110"
-					item: {
-						count: 1
-						id: "minecraft:furnace"
-					}
-					type: "item"
+					id: "2000000000020021"
+					type: "checkmark"
 				}
 			]
 		}
 		{
-			title: "Primeiro Ferro"
+			title: "Território Seguro"
 			dependencies: [
-				"1000000000000006"
+				"1000000000007803"
 			]
 			icon: {
-				id: "minecraft:iron_ingot"
+				id: "minecraft:filled_map"
 			}
-			id: "1000000000000007"
+			id: "1000000000007804"
 			rewards: [
 				{
-					count: 1
-					id: "2000000000000113"
-					item: {
-						count: 1
-						id: "minecraft:iron_pickaxe"
-					}
-					type: "item"
-				}
-				{
-					id: "2000000000000114"
+					id: "2000000000020022"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 1
 				}
 			]
 			x: 8.0d
 			y: 0.0d
 			description: [
-				"O ferro é a base de ferramentas, armas e de muitas receitas dos mods. Procure em cavernas e nas encostas das montanhas e funda os minérios na fornalha."
+				"O pack tem o §aFTB Chunks§r para reivindicar chunks e proteger a sua base, e o §aJourneyMap§r para mapear o mundo e marcar locais importantes."
+				""
+				"Reivindique os chunks da base logo cedo, antes de construir máquinas grandes. Os atalhos de cada mod ficam em Opções > Controles."
 			]
 			tasks: [
 				{
-					count: 8L
-					id: "2000000000000112"
-					item: {
-						count: 1
-						id: "minecraft:iron_ingot"
-					}
-					type: "item"
+					id: "2000000000020023"
+					type: "checkmark"
 				}
 			]
 		}
 		{
-			title: "Andesito: a Porta do Create"
+			title: "Organização e Transporte"
 			dependencies: [
-				"1000000000000005"
+				"1000000000007804"
 			]
 			icon: {
-				id: "minecraft:andesite"
+				id: "minecraft:barrel"
 			}
-			id: "1000000000000003"
+			id: "1000000000007805"
 			rewards: [
 				{
-					count: 32
-					id: "2000000000000125"
-					item: {
-						count: 1
-						id: "minecraft:cobblestone"
-					}
-					type: "item"
+					id: "2000000000020024"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
-			x: 4.0d
-			y: -2.0d
+			x: 10.0d
+			y: 0.0d
 			description: [
-				"O andesito é a pedra que abre o §2Create§r. Ele aparece em cavernas e também pode ser feito misturando diorito e pedregulho."
-				""
-				"Ao completar esta quest, o capítulo §2Create§r continua a partir daqui."
+				"O §6Storage Drawers§r e o §6Functional Storage§r guardam muito mais itens em menos espaço. As mochilas do §6Backpacked§r e o §6Carry On§r ajudam a carregar coisas pelo caminho."
 			]
 			tasks: [
 				{
-					count: 1L
-					id: "2000000000000124"
-					item: {
-						count: 1
-						id: "minecraft:andesite"
-					}
-					type: "item"
+					id: "2000000000020025"
+					type: "checkmark"
+				}
+			]
+		}
+		{
+			title: "Para Onde Ir"
+			dependencies: [
+				"1000000000007805"
+			]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "1000000000007806"
+			rewards: [
+				{
+					id: "2000000000020026"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			x: 12.0d
+			y: 0.0d
+			description: [
+				"Depois d'§aO Começo§r, escolha um caminho. Engenharia e indústria: §2Create§r, §eMekanism§r, §6Oritech§r, §bApplied Energistics 2§r e §3Electrodynamics§r. Céus: §2Aeronáutica§r. Equipamento mágico: §6Apotheosis§r e §6Apothic Enchanting§r."
+				""
+				"Cada um tem o seu próprio capítulo no livro de quests."
+			]
+			tasks: [
+				{
+					id: "2000000000020027"
+					type: "checkmark"
 				}
 			]
 		}
