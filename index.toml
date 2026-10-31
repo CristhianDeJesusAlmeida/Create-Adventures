@@ -30,7 +30,7 @@ hash = "7c33c5a36fab47b3a1a9a4608e3dd72568bf116908c960eead966fcecfdf5560"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "f6f131d527821e0bc72890dea4f9270098fdbef900786a642fac5b2e9a8076aa"
+hash = "173c052665d5b2ffc2eb8b8b144c400fccbe61b3efec0a0a34b1aa01965fdd44"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/electrodynamics.snbt"
