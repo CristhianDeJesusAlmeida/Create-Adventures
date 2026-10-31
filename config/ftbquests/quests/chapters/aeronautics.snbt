@@ -685,7 +685,7 @@
 					id: "2000000000001092"
 					item: {
 						components: {
-							"ftbfiltersystem:filter": "or(item(aeronautics:adjustable_burner)item(aeronautics:steam_vent))" }, count: 1, id: "ftbfiltersystem:smart_filter"
+							"ftbfiltersystem:filter": "or(item(aeronautics:adjustable_burner)item(aeronautics:steam_vent))"
 						}
 						count: 1
 						id: "ftbfiltersystem:smart_filter"
