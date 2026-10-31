@@ -3564,7 +3564,7 @@
 				"2000000000003085"
 			]
 			icon: {
-				id: "minecraft:barrier"
+				id: "create:red_postbox"
 			}
 			id: "2000000000003081"
 			rewards: [
@@ -3733,7 +3733,7 @@
 				"2000000000003084"
 			]
 			icon: {
-				id: "minecraft:barrier"
+				id: "create_dragons_plus:rare_marble_gate_package"
 			}
 			id: "2000000000003085"
 			rewards: [
@@ -3820,7 +3820,7 @@
 				"2000000000003083"
 			]
 			icon: {
-				id: "minecraft:barrier"
+				id: "create:white_table_cloth"
 			}
 			id: "2000000000003087"
 			rewards: [
