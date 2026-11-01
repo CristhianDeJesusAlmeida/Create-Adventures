@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "3da3192a81d5b18ecdb5061d9726b989f8a4e15e864fd0e15d4591c885b5e919"
+hash = "72d66cf00c187134c08a4382d645ed3a262c2967056b5f8c5eaab70e53eee4f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
@@ -62,7 +62,7 @@ hash = "cf641a8a2bb8a12d701b0b4238a6678a5163cf1fc31a341129200b6e027a5e9b"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "bdf98ab4e57326ce718a132be9804bc6dca5b4f764570c3c159fec088edb74af"
+hash = "3241d431a95975463e3af7b3f4045ede2508e9ee7e2f4c4d758421613c5e83d8"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
