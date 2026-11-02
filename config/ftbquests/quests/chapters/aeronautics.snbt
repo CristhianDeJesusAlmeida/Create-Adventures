@@ -290,7 +290,7 @@
 				"1000000000001037"
 				"1000000000001035"
 			]
-			dependency_requirement: "one_completed"
+			dependency_requirement: "all_completed"
 			id: "1000000000001038"
 			rewards: [
 				{
